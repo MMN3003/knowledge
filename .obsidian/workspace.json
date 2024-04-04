@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-02.md",
+                "file": "daily notes/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-02.md",
+                "file": "daily notes/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-02.md",
+                "file": "daily notes/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-02.md"
+                "file": "daily notes/2024-04-04.md"
               }
             }
           }
@@ -147,16 +147,17 @@
   },
   "active": "3789b75e9db7b1da",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "daily notes/2024-04-03.md",
+    "daily notes/2024-04-04.md",
     "2024-04-03.md",
+    "daily notes/2024-04-02.md",
+    "Untitled.canvas",
     "Language/English/Grammar/Third conditional.md",
     "Language/English/Grammar/Second conditional.md",
     "Language/English/Grammar",
     "Language/English",
     "Language",
     "daily notes/2024-03-26.md",
-    "daily notes/2024-04-03.md",
-    "daily notes/2024-04-02.md",
     "chrome/shecan over chrome.md",
     "Untitled.md",
     "chrome",
