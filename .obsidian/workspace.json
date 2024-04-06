@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-05.md",
+                "file": "daily notes/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,12 +98,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-05.md",
+                "file": "daily notes/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "amazon",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-05.md",
+                "file": "daily notes/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-05.md"
+                "file": "daily notes/2024-04-03.md"
               }
             }
           }
@@ -160,11 +160,11 @@
   },
   "active": "3881234ae20f47ae",
   "lastOpenFiles": [
+    "daily notes/2024-04-02.md",
     "daily notes/2024-04-05.md",
     "daily notes/2024-04-04.md",
     "daily notes/2024-04-03.md",
     "2024-04-03.md",
-    "daily notes/2024-04-02.md",
     "Untitled.canvas",
     "Language/English/Grammar/Third conditional.md",
     "Language/English/Grammar/Second conditional.md",
