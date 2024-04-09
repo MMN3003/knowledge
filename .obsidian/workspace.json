@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/pass by value.md",
+                "file": "docker/root bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#passByValue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/pass by value.md",
+                "file": "docker/root bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/pass by value.md",
+                "file": "docker/root bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang/pass by value.md"
+                "file": "docker/root bash.md"
               }
             }
           }
@@ -159,10 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb035b80103552d9",
+  "active": "3881234ae20f47ae",
   "lastOpenFiles": [
-    "apply/my applications.md",
+    "docker/Untitled 1.md",
+    "docker/root bash.md",
     "golang/pass by value.md",
+    "docker",
+    "apply/my applications.md",
     "golang",
     "daily notes/2024-04-09.md",
     "daily notes/2024-04-08.md",
