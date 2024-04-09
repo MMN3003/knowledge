@@ -1,0 +1,8 @@
+- [x] send CV to five companies 20
+	- [x] magneto backend developer
+	- [x] perspective senior backend engineer 
+		- [ ] candidates that are an even better match for us
+	- [x] Celes software engineer
+	- [x] Search X senior software engineer
+		- [ ] we are only able to consider candidates who are currently residing in the Netherlands
+	- [x] Trinty software engineer
