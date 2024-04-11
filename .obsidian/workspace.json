@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "apply/my applications.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -160,13 +160,15 @@
   },
   "active": "3881234ae20f47ae",
   "lastOpenFiles": [
+    "need to know/patterns.md",
+    "apply/my applications.md",
+    "need to know",
     "daily notes/2024-04-11.md",
     "daily notes/2024-04-09.md",
     "docker/root bash.md",
     "docker/Untitled 1.md",
     "golang/pass by value.md",
     "docker",
-    "apply/my applications.md",
     "golang",
     "daily notes/2024-04-08.md",
     "daily notes/2024-04-07.md",
