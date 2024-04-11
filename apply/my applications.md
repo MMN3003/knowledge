@@ -1,5 +1,7 @@
 - [ ] The Netherlands 2024-04-11
-- [ ] The Switzerland 20
+	- [ ] [Full stack developer](https://www.linkedin.com/jobs/view/3889894799/?alternateChannel=search&refId=7I2TZrD8mVFIFvca433R7Q%3D%3D&trackingId=dYAnNTbZS%2F7e72Oeh3%2Br8w%3D%3D&trk=d_flagship3_postapply_premium_top_choice&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bxkpo%2BiqWSEuEWQe6ZtAKDA%3D%3D)[Actuals](https://www.linkedin.com/company/actuals.io/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bxkpo%2BiqWSEuEWQe6ZtAKDA%3D%3D)
+	- [ ] 
+- [ ] The Switzerland 2024-04-11
 	- [ ] Senior Software Engineer @ Leica Geosystems part of Hexagon [DEVjobs](https://www.linkedin.com/company/devjobs-at/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BabVLQ8NmSxmuyz7uDi5dJA%3D%3D)
 	- [ ] 
 	- [ ] [Javascript Developer](https://www.linkedin.com/jobs/view/3888067682/?alternateChannel=search&refId=%2BwRc%2BV3QJrvvTWyxfUX5NQ%3D%3D&trackingId=zBRS6iR1yTD2Qtyclf2IdQ%3D%3D&trk=d_flagship3_postapply_immediate_premium&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BsLMq%2F5N%2FR2m9%2BmjF429tSQ%3D%3D)[Harvey Nash](https://www.linkedin.com/company/harvey-nash/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BsLMq%2F5N%2FR2m9%2BmjF429tSQ%3D%3D)
