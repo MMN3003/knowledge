@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-20.md",
+                "file": "docker/enable docker service.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-20.md",
+                "file": "docker/enable docker service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-20.md",
+                "file": "docker/enable docker service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-20.md"
+                "file": "docker/enable docker service.md"
               }
             }
           }
@@ -160,14 +160,15 @@
   },
   "active": "3881234ae20f47ae",
   "lastOpenFiles": [
-    "apply/my applications.md",
+    "docker/root bash.md",
+    "docker/enable docker service.md",
     "daily notes/2024-04-20.md",
+    "apply/my applications.md",
     "daily notes/2024-04-11.md",
     "need to know/patterns.md",
     "Language/English/Grammar/Zero conditional.md",
     "need to know",
     "daily notes/2024-04-09.md",
-    "docker/root bash.md",
     "docker/Untitled 1.md",
     "golang/pass by value.md",
     "docker",
