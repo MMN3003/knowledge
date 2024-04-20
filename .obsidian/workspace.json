@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "need to know/patterns.md",
-                "mode": "preview",
+                "file": "apply/my applications.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "need to know/patterns.md",
+                "file": "apply/my applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "need to know/patterns.md",
+                "file": "apply/my applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "need to know/patterns.md"
+                "file": "apply/my applications.md"
               }
             }
           }
@@ -160,9 +160,11 @@
   },
   "active": "3881234ae20f47ae",
   "lastOpenFiles": [
+    "daily notes/2024-04-20.md",
     "daily notes/2024-04-11.md",
-    "apply/my applications.md",
     "need to know/patterns.md",
+    "Language/English/Grammar/Zero conditional.md",
+    "apply/my applications.md",
     "need to know",
     "daily notes/2024-04-09.md",
     "docker/root bash.md",
