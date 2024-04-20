@@ -2,7 +2,10 @@
 	- [ ] - [Senior Back-End Developer(دورکاری-Node.js)](https://jobinja.ir/companies/lms-markets/jobs/Acfn)https://jobinja.ir/companies/lms-markets/jobs/Acfn
 	- [ ] [**(Senior Back-End Developer (Node.js**](https://jobinja.ir/jobs/applied/AmCVf)https://jobinja.ir/companies/bitex-1/jobs/ALp8
 	- [ ]  [**Back-End) Software Engineer-دورکاری)**](https://jobinja.ir/jobs/applied/AmCPk)https://jobinja.ir/companies/xtopo/jobs/Aqtk
-	- [ ]  [**(مشهد-Senior Back-End Developer(Node.js**](https://jobinja.ir/jobs/applied/AmCUD)
+	- [ ]  [**(مشهد-Senior Back-End Developer(Node.js**](https://jobinja.ir/jobs/applied/AmCUD)https://jobinja.ir/companies/diespi/jobs/A6M7
+	- [ ] [**برنامه‌نویس Back-End (دورکاری)**](https://jobinja.ir/jobs/applied/AmCOA)https://jobinja.ir/companies/sarmaye-digital/jobs/Ac0V
+	- [ ] [**توسعه‌دهنده ارشد Back-End (ریموت)**](https://jobinja.ir/jobs/applied/AmCOk)https://jobinja.ir/companies/tiam-6/jobs/C5xm
+	- [ ]  [**برنامه‌نویس (دورکاری-Back-End (NodeJs**](https://jobinja.ir/jobs/applied/AmCke)https://jobinja.ir/companies/sampa-2/jobs/Aqa4
 - [ ] The Netherlands 2024-04-11
 	- [ ] [Full stack developer](https://www.linkedin.com/jobs/view/3889894799/?alternateChannel=search&refId=7I2TZrD8mVFIFvca433R7Q%3D%3D&trackingId=dYAnNTbZS%2F7e72Oeh3%2Br8w%3D%3D&trk=d_flagship3_postapply_premium_top_choice&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bxkpo%2BiqWSEuEWQe6ZtAKDA%3D%3D)[Actuals](https://www.linkedin.com/company/actuals.io/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bxkpo%2BiqWSEuEWQe6ZtAKDA%3D%3D)
 	- [ ] [Senior Software Engineer Full Stack](https://www.linkedin.com/jobs/view/3889437455/?alternateChannel=search&refId=AZ2xGftpgjgURoThHKEIbw%3D%3D&trackingId=55CRQ3aj1WvtCYpVnMaAPg%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BRxZY8BHdQbuqYsFZnPJ44g%3D%3D)[FlowView Diagnostics](https://www.linkedin.com/company/flowview-diagnostics/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BRxZY8BHdQbuqYsFZnPJ44g%3D%3D)
