@@ -15,3 +15,9 @@ cram in/into
  Thousands of people crammed the mall Sunday.
 - **snoring** :  make noises when you are asleep.to breathe in a noisy way through your mouth and nose while you are asleep:  
  He could hear the old man snoring.
+- **worn out**:1very tired because you have been working hard SYN exhausted:  
+ You must be absolutely worn out.  
+2too old or damaged to be used:  
+ a pair of old worn-out walking boots
+- **Circulate** : 
+- **stretch one's legs** : lets go for a walk
