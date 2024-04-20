@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "daily notes/2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "daily notes/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "daily notes/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apply/my applications.md"
+                "file": "daily notes/2024-04-22.md"
               }
             }
           }
@@ -158,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3881234ae20f47ae",
+  "active": "a199f8c890218e2c",
   "lastOpenFiles": [
     "daily notes/2024-04-20.md",
+    "daily notes/2024-04-22.md",
+    "apply/my applications.md",
     "docker/enable docker service.md",
     "docker/root bash.md",
-    "apply/my applications.md",
     "daily notes/2024-04-11.md",
     "need to know/patterns.md",
     "Language/English/Grammar/Zero conditional.md",
@@ -194,7 +195,6 @@
     "chrome/shecan over chrome.md",
     "chrome",
     "2024-03-26.md",
-    "daily notes",
-    "Welcome.md"
+    "daily notes"
   ]
 }
