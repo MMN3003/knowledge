@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-20.md",
+                "file": "apply/my applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-20.md",
+                "file": "apply/my applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-20.md",
+                "file": "apply/my applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-20.md"
+                "file": "apply/my applications.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "3881234ae20f47ae",
   "lastOpenFiles": [
+    "daily notes/2024-04-20.md",
     "docker/enable docker service.md",
     "docker/root bash.md",
-    "daily notes/2024-04-20.md",
     "apply/my applications.md",
     "daily notes/2024-04-11.md",
     "need to know/patterns.md",
