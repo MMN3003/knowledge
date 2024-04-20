@@ -4,3 +4,6 @@
 
 
 - bumped - 
+- crammed -
+- snoring
+- 
