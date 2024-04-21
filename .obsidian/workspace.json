@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#example",
+                "query": "tag:#mean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
