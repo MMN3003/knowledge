@@ -18,17 +18,24 @@
 		` "You must be absolutely worn out. " 
 	2. too old or damaged to be used:  
 		` "a pair of old worn-out walking boots"
-- **Circulate** : 
+- **Circulate** :  #circulate
 	1. move continuously or freely through a closed system or area.
 		` "antibodies circulate in the bloodstream"
-- **stretch one's legs** : 
+- **stretch one's legs** : #stretch_legs
 	1. go for a short walk after sitting in one place for some time.
 	` "there is an hour's stop in Sudbury for everyone to stretch their legs"
-- **Greenery**:
+- **Greenery**: #greenery
 	1. [green](https://www.ldoceonline.com/dictionary/green "green") leaves and plants
 		` the rich greenery of grass and trees
-- **downside**:
+- **downside**: #downside
 	1. the negative aspect of something otherwise regarded as good or desirable.
 		` "he says being a rock star is a fun line of work when you're young, but admits fame can have its downsides"
-- **upside**:
-	1. the [positive](https://www.ldoceonline.com/dictionary/positive "positive") part of a situation that is generally bad OPP [[downside]] The upside of the whole thing is that we got a free trip to Jamaica.
+- **upside**: #upside
+	1. the [positive](https://www.ldoceonline.com/dictionary/positive "positive") part of a situation that is generally bad OPP #downside 
+		`The upside of the whole thing is that we got a free trip to Jamaica.
+- **affordable** : #affordable
+	1. inexpensive; reasonably priced.
+        `"affordable homes"
+- **passed away** : #passed_away 
+	1. You can say that someone passed away to mean that they died, if you want to avoid using the word #die because you think it might upset or offend people.
+		`He unfortunately passed away last year.`
