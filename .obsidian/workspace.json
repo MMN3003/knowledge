@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "daily notes/2024-04-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "daily notes/2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "daily notes/2024-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apply/my applications.md"
+                "file": "daily notes/2024-04-21.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "852b91b5669a2a4e",
+  "active": "a199f8c890218e2c",
   "lastOpenFiles": [
+    "daily notes/2024-04-20.md",
+    "daily notes/2024-04-21.md",
+    "daily notes/2024-04-22.md",
+    "apply/my applications.md",
     "Untitled.canvas",
     "Language/English/vocabulary.md",
     "downside.md",
@@ -157,9 +161,6 @@
     "Language/English/Grammar/Second conditional.md",
     "Language/sessions/2024-04-20 traveling.md",
     "Language/sessions",
-    "daily notes/2024-04-22.md",
-    "daily notes/2024-04-20.md",
-    "apply/my applications.md",
     "docker/enable docker service.md",
     "docker/root bash.md",
     "daily notes/2024-04-11.md",
