@@ -23,7 +23,7 @@
 		#example "antibodies circulate in the bloodstream"
 - **stretch one's legs** : 
 	- #mean go for a short walk after sitting in one place for some time.
-		#example "there is an hour's stop in Sudbury for everyone to stretch their legs"
+	#example "there is an hour's stop in Sudbury for everyone to stretch their legs"
 - **Greenery**:
 	- #mean [green](https://www.ldoceonline.com/dictionary/green "green") leaves and plants
 		#example the rich greenery of grass and trees
