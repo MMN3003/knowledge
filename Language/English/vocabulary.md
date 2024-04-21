@@ -24,3 +24,11 @@
 - **stretch one's legs** : 
 	- #mean go for a short walk after sitting in one place for some time.
 		#example "there is an hour's stop in Sudbury for everyone to stretch their legs"
+- **Greenery**:
+	- #mean [green](https://www.ldoceonline.com/dictionary/green "green") leaves and plants
+		#example the rich greenery of grass and trees
+- **downside**:
+	- #mean the negative aspect of something otherwise regarded as good or desirable.
+		#example "he says being a rock star is a fun line of work when you're young, but admits fame can have its downsides"
+- **upside**:
+	- #mean the [positive](https://www.ldoceonline.com/dictionary/positive "positive") part of a situation that is generally bad OPP [[downside]] The upside of the whole thing is that we got a free trip to Jamaica.
