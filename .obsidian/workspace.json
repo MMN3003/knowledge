@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "need to know/The Twelve-Factor App.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "need to know/The Twelve-Factor App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "need to know/The Twelve-Factor App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apply/my applications.md"
+                "file": "need to know/The Twelve-Factor App.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "852b91b5669a2a4e",
   "lastOpenFiles": [
+    "need to know/patterns.md",
+    "need to know/The Twelve-Factor App.md",
+    "apply/my applications.md",
     "daily notes/2024-04-22.md",
     "daily notes/2024-04-21.md",
     "daily notes/2024-04-20.md",
-    "apply/my applications.md",
     "Untitled.canvas",
     "Language/English/vocabulary.md",
     "downside.md",
@@ -164,7 +166,6 @@
     "docker/enable docker service.md",
     "docker/root bash.md",
     "daily notes/2024-04-11.md",
-    "need to know/patterns.md",
     "Language/English/Grammar/Zero conditional.md",
     "need to know",
     "daily notes/2024-04-09.md",
@@ -179,7 +180,6 @@
     "daily notes/2024-04-04.md",
     "daily notes/2024-04-03.md",
     "daily notes/2024-04-02.md",
-    "daily notes/2024-03-26.md",
     "apply",
     "Language/English/Grammar",
     "Language/English",
