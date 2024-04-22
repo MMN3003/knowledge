@@ -1,4 +1,6 @@
-- [ ]
+- [ ] Ireland 2024-04-22
+	- [ ]  [Go Back End Developer @ Cinemo Gmbh](https://www.linkedin.com/jobs/view/3902348078/?alternateChannel=search&refId=ODoUO4YkqN1%2Fne%2BE717PCQ%3D%3D&trackingId=2t%2BOkI%2FIxtsh1HT3taZhMQ%3D%3D&trk=d_flagship3_profile_self_add_skill_associations_nba&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BYtjlbHvnTkuqhp3o6RPhhQ%3D%3D)[DEVjobs](https://www.linkedin.com/company/devjobs-at/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BYtjlbHvnTkuqhp3o6RPhhQ%3D%3D)
+	- [ ] 
 - [ ] Ireland 2024-04-21
 	- [ ] [Back End Developer](https://www.linkedin.com/jobs/view/3906598347/?alternateChannel=search&refId=arKTv48bWu2EEAvjTftTuQ%3D%3D&trackingId=wdnC0yiM71YoAZ1NqUTLwg%3D%3D&trk=d_flagship3_postapply_immediate_screener_modal&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BHk5y3SoqQqarxjHGzp8sXg%3D%3D)[Mavarick](https://www.linkedin.com/company/mavarickai/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BHk5y3SoqQqarxjHGzp8sXg%3D%3D)
 	- [ ] [Senior Software Engineer](https://www.linkedin.com/jobs/view/3870558441/?alternateChannel=search&refId=arKTv48bWu2EEAvjTftTuQ%3D%3D&trackingId=Ye2PyFvOU1qFmG%2FWUutUzw%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B4rmKhy%2B5TI2xI%2FvGo5sXYg%3D%3D)[Albert Bow](https://www.linkedin.com/company/albertbow/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B4rmKhy%2B5TI2xI%2FvGo5sXYg%3D%3D)
