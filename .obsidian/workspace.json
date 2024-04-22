@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "need to know/The Twelve-Factor App.md",
+                "file": "daily notes/2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "need to know/The Twelve-Factor App.md",
+                "file": "daily notes/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "need to know/The Twelve-Factor App.md",
+                "file": "daily notes/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "need to know/The Twelve-Factor App.md"
+                "file": "daily notes/2024-04-22.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "852b91b5669a2a4e",
   "lastOpenFiles": [
-    "need to know/patterns.md",
     "need to know/The Twelve-Factor App.md",
+    "need to know/patterns.md",
     "apply/my applications.md",
     "daily notes/2024-04-22.md",
     "daily notes/2024-04-21.md",
