@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-24.md",
+                "file": "interview/مصاحبه.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-24.md",
+                "file": "interview/مصاحبه.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-24.md",
+                "file": "interview/مصاحبه.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-24.md"
+                "file": "interview/مصاحبه.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a199f8c890218e2c",
+  "active": "852b91b5669a2a4e",
   "lastOpenFiles": [
-    "daily notes/2024-04-23.md",
     "daily notes/2024-04-24.md",
+    "interview/مصاحبه.md",
+    "interview",
+    "daily notes/2024-04-23.md",
     "apply/my applications.md",
     "Welcome.md",
     "Untitled.canvas",
@@ -179,12 +181,10 @@
     "daily notes/2024-04-08.md",
     "daily notes/2024-04-07.md",
     "daily notes/2024-04-06.md",
-    "daily notes/2024-04-05.md",
     "apply",
     "Language/English/Grammar",
     "Language/English",
     "Language",
-    "chrome",
-    "daily notes"
+    "chrome"
   ]
 }
