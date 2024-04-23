@@ -24,6 +24,7 @@
 	- [ ] [**(Senior Back-End Developer (Node.js**](https://jobinja.ir/jobs/applied/AmCVf)https://jobinja.ir/companies/bitex-1/jobs/ALp8
 	- [ ]  [**Back-End) Software Engineer-دورکاری)**](https://jobinja.ir/jobs/applied/AmCPk)https://jobinja.ir/companies/xtopo/jobs/Aqtk
 	- [ ]  [**(مشهد-Senior Back-End Developer(Node.js**](https://jobinja.ir/jobs/applied/AmCUD)https://jobinja.ir/companies/diespi/jobs/A6M7
+		- [ ] set technical interview for 2024-04-27 on 11:00
 	- [ ] [**برنامه‌نویس Back-End (دورکاری)**](https://jobinja.ir/jobs/applied/AmCOA)https://jobinja.ir/companies/sarmaye-digital/jobs/Ac0V
 	- [ ] [**توسعه‌دهنده ارشد Back-End (ریموت)**](https://jobinja.ir/jobs/applied/AmCOk)https://jobinja.ir/companies/tiam-6/jobs/C5xm
 	- [ ]  [**برنامه‌نویس (دورکاری-Back-End (NodeJs**](https://jobinja.ir/jobs/applied/AmCke)https://jobinja.ir/companies/sampa-2/jobs/Aqa4
