@@ -1,5 +1,7 @@
 
-- [ ] 2024
+- [ ] Switzerland 2024-04-23
+	- [ ] [Backend Azure Developer](https://www.linkedin.com/jobs/view/3906484272/?alternateChannel=search&refId=imxrVhLY3QEI64v3EgIvqQ%3D%3D&trackingId=%2BAG9m3nS6EIehqFdiNmTjw%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BjC5zfWd%2FRl688bIywD3k1A%3D%3D)[OneAPPS Consulting](https://www.linkedin.com/company/oneapps/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BjC5zfWd%2FRl688bIywD3k1A%3D%3D)
+	- [ ] [Software Engineer](https://www.linkedin.com/jobs/view/3907575823/?alternateChannel=search&refId=imxrVhLY3QEI64v3EgIvqQ%3D%3D&trackingId=j2fBEEOM0zmrYYRnOtfjgA%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BE3j4OK1PRfK110gG70Qosw%3D%3D)[Eurobase People](https://www.linkedin.com/company/eurobase-people/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BE3j4OK1PRfK110gG70Qosw%3D%3D)
 - [ ] Ireland 2024-04-22
 	- [ ]  [Go Back End Developer @ Cinemo Gmbh](https://www.linkedin.com/jobs/view/3902348078/?alternateChannel=search&refId=ODoUO4YkqN1%2Fne%2BE717PCQ%3D%3D&trackingId=2t%2BOkI%2FIxtsh1HT3taZhMQ%3D%3D&trk=d_flagship3_profile_self_add_skill_associations_nba&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BYtjlbHvnTkuqhp3o6RPhhQ%3D%3D)[DEVjobs](https://www.linkedin.com/company/devjobs-at/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BYtjlbHvnTkuqhp3o6RPhhQ%3D%3D)
 	- [ ] https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/userHome[Sr. Engineer - Cloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Sr-Software-Engineer---Cloud--Remote-_R16369-1)
