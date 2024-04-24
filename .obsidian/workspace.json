@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/مصاحبه.md",
+                "file": "daily notes/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/مصاحبه.md",
+                "file": "daily notes/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/مصاحبه.md",
+                "file": "daily notes/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/مصاحبه.md"
+                "file": "daily notes/2024-04-24.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "852b91b5669a2a4e",
   "lastOpenFiles": [
+    "daily notes/2024-04-23.md",
     "daily notes/2024-04-24.md",
     "interview/مصاحبه.md",
     "interview",
-    "daily notes/2024-04-23.md",
     "apply/my applications.md",
     "Welcome.md",
     "Untitled.canvas",
