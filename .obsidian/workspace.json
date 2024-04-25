@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "need to know/need to know.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "need to know/need to know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apply/my applications.md",
+                "file": "need to know/need to know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apply/my applications.md"
+                "file": "need to know/need to know.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   "active": "852b91b5669a2a4e",
   "lastOpenFiles": [
     "daily notes/2024-04-24.md",
+    "need to know/need to know.md",
+    "apply/my applications.md",
     "daily notes/2024-04-23.md",
     "interview/مصاحبه.md",
     "interview",
-    "apply/my applications.md",
     "Welcome.md",
     "Untitled.canvas",
     "daily notes/2024-04-22.md",
@@ -180,7 +181,6 @@
     "golang",
     "daily notes/2024-04-08.md",
     "daily notes/2024-04-07.md",
-    "daily notes/2024-04-06.md",
     "apply",
     "Language/English/Grammar",
     "Language/English",
