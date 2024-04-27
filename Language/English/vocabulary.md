@@ -40,8 +40,16 @@
 	1. You can say that someone passed away to mean that they died, if you want to avoid using the word #die because you think it might upset or offend people.
 		`He unfortunately passed away last year.`
 - **Tease**: #Tease 
-	1- 
+	1. to laugh at someone and make jokes in order to have fun by embarrassing them, either in a friendly way or in an unkind way: 
+	- `Don’t get upset. I was only teasing.`
+	- `He used to tease her mercilessly.`
 - Fiancee
+- **Nephew**:
+	1. the son of your brother or sister, or the son of your husband’s or wife’s brother or sister
+- **Niece**: 
+	1. the daughter of your brother or sister, or the daughter of your wife’s or husband’s brother or sister
 - Egg white
+- **buckle**:
+	1. a piece of metal used for fastening the two ends of a belt, for fastening a shoe, bag etc, or for decoration
 - Egg yolk
 - Register
