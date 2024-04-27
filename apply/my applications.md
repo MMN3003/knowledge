@@ -1,4 +1,8 @@
 - [ ]  Germany 2024-04-27
+	- [ ]  [Software Engineer](https://www.linkedin.com/jobs/view/3861290642/?alternateChannel=search&refId=ut1NcPq%2FJFHGY1RG8m%2Ba5w%3D%3D&trackingId=BF5llKAt0smWqRHpqdQNZg%3D%3D&trk=d_flagship3_postapply_default_confirmation)[Odiin.](https://www.linkedin.com/company/odiin/life)
+	- [ ]  [Senior Software Engineer](https://www.linkedin.com/jobs/view/3891550346/?alternateChannel=search&refId=ut1NcPq%2FJFHGY1RG8m%2Ba5w%3D%3D&trackingId=pr2R%2FqF2jJBfur8di6ciVA%3D%3D&trk=d_flagship3_postapply_default_confirmation)[Tools for Humanity](https://www.linkedin.com/company/tools-for-humanity-corp/life)
+	- [ ] [Back End Developer](https://www.linkedin.com/jobs/view/3911964186/?alternateChannel=search&refId=ut1NcPq%2FJFHGY1RG8m%2Ba5w%3D%3D&trackingId=r19hWHb1pWJAapmd5moI5Q%3D%3D&trk=d_flagship3_postapply_default_confirmation)[THRYVE](https://www.linkedin.com/company/thryvetalent/life)
+	- [ ] [Software Engineer](https://www.linkedin.com/jobs/view/3907901118/?alternateChannel=search&refId=ut1NcPq%2FJFHGY1RG8m%2Ba5w%3D%3D&trackingId=oZczcdLYShRSlsK4iN1R2g%3D%3D&trk=d_flagship3_postapply_default_confirmation)[Socium - Teams Done Differently](https://www.linkedin.com/company/socium-teams-done-differently/life)
 	- [ ] 
 - [ ] The Netherlands 2024-04-25
 	- [ ] [Software Engineer](https://www.linkedin.com/jobs/view/3909624162/?alternateChannel=search&refId=LIHt7qNGzUDOUhECCSYRdQ%3D%3D&trackingId=hlsNtITxHja8so%2FC%2BPOKlw%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BDqPAZm3mQ3en6QyjVFlscQ%3D%3D)[Tiledmedia](https://www.linkedin.com/company/tiledmedia/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BDqPAZm3mQ3en6QyjVFlscQ%3D%3D)
