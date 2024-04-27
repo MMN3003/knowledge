@@ -41,3 +41,7 @@
 		`He unfortunately passed away last year.`
 - **Tease**: #Tease 
 	1- 
+- Fiancee
+- Egg white
+- Egg yolk
+- Register
