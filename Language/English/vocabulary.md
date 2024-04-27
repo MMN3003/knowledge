@@ -39,3 +39,5 @@
 - **passed away** : #passed_away 
 	1. You can say that someone passed away to mean that they died, if you want to avoid using the word #die because you think it might upset or offend people.
 		`He unfortunately passed away last year.`
+- **Tease**: #Tease 
+	1- 
