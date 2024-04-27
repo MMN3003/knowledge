@@ -14,7 +14,6 @@
 	 
 	 -  The five of us used to play on a team. we would always win.
 	 - she always used to keep candy in her pockets, and she'd always give us some.
-3. don't use would for [[action and stative verbs#stative verbs]]
-4. [stative verbs](action and stative verbs#stative verbs)
+3. don't use would for [stative verbs](action%20and%20stative%20verbs#stative%20verbs)
 	- my sister used to live next door.
 	- my sister ~~would live~~ next door.
