@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-25.md",
+                "file": "apply/my applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-25.md",
+                "file": "apply/my applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-25.md",
+                "file": "apply/my applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-25.md"
+                "file": "apply/my applications.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "852b91b5669a2a4e",
   "lastOpenFiles": [
-    "apply/my applications.md",
     "daily notes/2024-04-25.md",
+    "apply/my applications.md",
     "daily notes/2024-04-24.md",
     "need to know/need to know.md",
     "daily notes/2024-04-23.md",

@@ -12,6 +12,7 @@
 - [ ] Ireland 2024-04-22
 	- [ ]  [Go Back End Developer @ Cinemo Gmbh](https://www.linkedin.com/jobs/view/3902348078/?alternateChannel=search&refId=ODoUO4YkqN1%2Fne%2BE717PCQ%3D%3D&trackingId=2t%2BOkI%2FIxtsh1HT3taZhMQ%3D%3D&trk=d_flagship3_profile_self_add_skill_associations_nba&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BYtjlbHvnTkuqhp3o6RPhhQ%3D%3D)[DEVjobs](https://www.linkedin.com/company/devjobs-at/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BYtjlbHvnTkuqhp3o6RPhhQ%3D%3D)
 	- [ ] https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/userHome[Sr. Engineer - Cloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Sr-Software-Engineer---Cloud--Remote-_R16369-1)
+		- [ ] decided to move forward with other candidates 2024-04-27
 - [ ] Ireland 2024-04-21
 	- [ ] [Back End Developer](https://www.linkedin.com/jobs/view/3906598347/?alternateChannel=search&refId=arKTv48bWu2EEAvjTftTuQ%3D%3D&trackingId=wdnC0yiM71YoAZ1NqUTLwg%3D%3D&trk=d_flagship3_postapply_immediate_screener_modal&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BHk5y3SoqQqarxjHGzp8sXg%3D%3D)[Mavarick](https://www.linkedin.com/company/mavarickai/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BHk5y3SoqQqarxjHGzp8sXg%3D%3D)
 	- [ ] [Senior Software Engineer](https://www.linkedin.com/jobs/view/3870558441/?alternateChannel=search&refId=arKTv48bWu2EEAvjTftTuQ%3D%3D&trackingId=Ye2PyFvOU1qFmG%2FWUutUzw%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B4rmKhy%2B5TI2xI%2FvGo5sXYg%3D%3D)[Albert Bow](https://www.linkedin.com/company/albertbow/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B4rmKhy%2B5TI2xI%2FvGo5sXYg%3D%3D)
@@ -87,6 +88,7 @@
 	- [ ] [Back End Developer](https://www.linkedin.com/jobs/view/3886136621/?alternateChannel=search&refId=%2F6kuVzgLKqX29Sc5jL7aOQ%3D%3D&trackingId=nS29Oq%2BO6i7fcZapi18vTw%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BgN1UWQmXRASY2e0rak2TJg%3D%3D)[EMURGO](https://www.linkedin.com/company/emurgo_io/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BgN1UWQmXRASY2e0rak2TJg%3D%3D)
 - [ ] send cv to portgal 2024-04-06
 	- [ ] [Backend Software Engineer](https://boards.greenhouse.io/catawiki/jobs/5758060)[catawiki](https://boards.greenhouse.io/catawiki) 
+		- [ ] we have decided that other applicants 2024-04-26
 	- [ ] [Senior Backend Software Engineer](https://boards.greenhouse.io/catawiki/jobs/5758213)[catawiki](https://boards.greenhouse.io/catawiki)
 - [ ] send cv to 5 companies Ireland 2024-04-05
 	- [ ] [Back End Developer](https://www.linkedin.com/jobs/view/3886077358/?alternateChannel=search&refId=m1ccF5YuqV8xPkBUI9DWpA%3D%3D&trackingId=q4T29P%2FVgU7%2FOKMmTaGnYg%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BBwKJhvn1QL%2BFQ7SJO14elg%3D%3D) [EMURGO](https://www.linkedin.com/company/emurgo_io/life?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BBwKJhvn1QL%2BFQ7SJO14elg%3D%3D) 
