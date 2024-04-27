@@ -43,13 +43,17 @@
 	1. to laugh at someone and make jokes in order to have fun by embarrassing them, either in a friendly way or in an unkind way: 
 	- `Don’t get upset. I was only teasing.`
 	- `He used to tease her mercilessly.`
-- Fiancee
+- **Fiancee**: #fiancee
 - **Nephew**:
 	1. the son of your brother or sister, or the son of your husband’s or wife’s brother or sister
-- **Niece**: 
+- **Niece**: #niece
 	1. the daughter of your brother or sister, or the daughter of your wife’s or husband’s brother or sister
-- Egg white
-- **buckle**:
+- **buckle**: #buckle
 	1. a piece of metal used for fastening the two ends of a belt, for fastening a shoe, bag etc, or for decoration
+- **Bruise**: #bruise
+	1. A bruise, also called a contusion (pronounced: kun-TOO-zhen), happens when a part of the body is injured and blood from the damaged capillaries (small blood vessels) leaks out ( #black_and_blue). 
+- **Black and blue**: #black_and_blue
+	1. If you say that someone is black and blue, you mean that they are **badly bruised**( #bruise ). 
+		- `The next day I was black and blue and couldn't move my neck.`
 - Egg yolk
-- Register
+- Egg white
