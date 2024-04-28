@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#glair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a84018058ac54065",
+  "active": "bb035b80103552d9",
   "lastOpenFiles": [
     "Language/sessions/2024-04-20 traveling.md",
     "Language/English/Grammar/past habit(used to).md",

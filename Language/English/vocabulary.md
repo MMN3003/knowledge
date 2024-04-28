@@ -44,12 +44,12 @@
 	- `Don’t get upset. I was only teasing.`
 	- `He used to tease her mercilessly.`
 - **Fiancee**: #fiancee
-	1. a woman to whom someone is engaged to be married.
+	1. a woman to whom someone is engaged to be married (female).
 		- `he went back to the valley to marry his fiancée`
-- 1. a man to whom someone is engaged to be married.
-    
-    "my fiancé and I were childhood sweethearts"
-- **Nephew**:
+- **Fiance**: #fiance
+	1. a man to whom someone is engaged to be married (male).
+		- `my fiancé and I were childhood sweethearts`
+- **Nephew**: #nephew
 	1. the son of your brother or sister, or the son of your husband’s or wife’s brother or sister
 - **Niece**: #niece
 	1. the daughter of your brother or sister, or the daughter of your wife’s or husband’s brother or sister
@@ -60,5 +60,7 @@
 - **Black and blue**: #black_and_blue
 	1. If you say that someone is black and blue, you mean that they are **badly bruised**( #bruise ). 
 		- `The next day I was black and blue and couldn't move my neck.`
-- Egg yolk
-- Egg white
+- **Egg yolk**:
+	1. Egg yolks are the yellow part at the center of an egg.
+- **Egg white**:
+	1. Egg white is the clear liquid (also called the #albumen or the #glair / #glaire) contained within an egg.
