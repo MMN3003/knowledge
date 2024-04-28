@@ -44,6 +44,11 @@
 	- `Don’t get upset. I was only teasing.`
 	- `He used to tease her mercilessly.`
 - **Fiancee**: #fiancee
+	1. a woman to whom someone is engaged to be married.
+		- `he went back to the valley to marry his fiancée`
+- 1. a man to whom someone is engaged to be married.
+    
+    "my fiancé and I were childhood sweethearts"
 - **Nephew**:
 	1. the son of your brother or sister, or the son of your husband’s or wife’s brother or sister
 - **Niece**: #niece
