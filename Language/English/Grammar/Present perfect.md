@@ -1,3 +1,49 @@
+The **present perfect** is formed from the present tense of the verb _**have**_ and the [past participle](https://learnenglish.britishcouncil.org/node/1352) of a verb.
+
+We use the present perfect:
+
+1. for something that **started in the past** and **continues in the present**:
+    
+
+> _They**'ve been married** for nearly fifty years.  
+> She **has lived** in Liverpool all her life._
+
+2. when we are talking about our **experience up to the present**:
+
+> _I**'ve seen** that film before.  
+> I**'ve played** the guitar ever since I was a teenager.  
+> He **has written** three books and he is working on another one._
+
+We often use the adverb _**ever**_ to talk about experience up to the present:
+
+> _My last birthday was the worst day I **have ever had**._
+
+and we use _**never**_ for the [negative form](https://learnenglish.britishcouncil.org/node/1363):
+
+> _**Have** you **ever met** George?  
+> Yes, but I**'ve never met** his wife._
+
+3. for something that **happened in the past** but is **important in the present**:
+
+> _I can't get in the house. I**'ve lost** my keys.  
+> Teresa isn't at home. I think she **has gone** shopping._
+
+## **_have been_ and _have gone_**
+
+We use **_have/has been_** when someone has **_gone_** to a place and **_returned_**:
+
+> _A: Where **have** you **been**?  
+> B: I**'ve** just **been** out **to** the supermarket._
+
+> _A: **Have** you **ever been to** San Francisco?  
+> B: No, but I**'ve been to** Los Angeles._
+
+But when someone **has not returned**, we use _**have/has gone**_:
+
+> _A: Where's Maria? I haven't seen her for weeks.  
+> B: She**'s gone to** Paris for a week. She'll be back tomorrow._
+
+
 - Even though they have merged two flights, there are still many empty seats .(some thing happened before now)
  - I am enjoying my trip because I haven't traveled for some time(talk about the reason of some thing)
 - It is nice talking to Moslem because I haven't seen him for more than a week(talk about the reason of some thing)
