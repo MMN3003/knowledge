@@ -46,16 +46,23 @@ But when someone **has not returned**, we use _**have/has gone**_:
 ## Be careful!
 We do not use the present perfect with [adverbials which refer to a finished past time](https://learnenglish.britishcouncil.org/node/1311):
 
- -- | --  
- yesterday| sds
-
-| First name | Last name    |       |
-| ---------- | ------------ | ----- |
-| Max        | Planck Marie | Curie |
-
+|             |                        |           |                      |      |
+| ----------- | ---------------------- | --------- | -------------------- | ---- |
+| _yesterday_ | _last week/month/year_ | _in 2017_ | _when I was younger_ | etc. |
 >_I **have seen** that film ~~**yesterday**~~.  
 >We **have** just **bought** a new car ~~**last week**~~.  
 >~~**When we were children**~~ we **have been** to California._
+
+but we can use the present perfect with **adverbials which refer to a time which is not yet finished**:
+
+|         |                        |                    |      |
+| ------- | ---------------------- | ------------------ | ---- |
+| _today_ | _this week/month/year_ | _now that I am 18_ | etc. |
+>_**Have** you **seen** Helen **today**?  
+>We **have bought** a new car **this week**._
+
+
+
 - Even though they have merged two flights, there are still many empty seats .(some thing happened before now)
  - I am enjoying my trip because I haven't traveled for some time(talk about the reason of some thing)
 - It is nice talking to Moslem because I haven't seen him for more than a week(talk about the reason of some thing)
