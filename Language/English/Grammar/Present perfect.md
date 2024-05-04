@@ -10,7 +10,7 @@
 
 
 
-## Just
+### Just
 _Just_ used with the present perfect means 'a short time before'.
 
 > _I've just seen Susan coming out of the cinema.  
@@ -21,3 +21,31 @@ _Just_ comes between the auxiliary verb (_have/has_) and the past participle.
 
 `subject + have/has + just + [[past participle]]`
 
+### _yet_
+
+_Yet_ used with the present perfect means 'at any time up to now'. We use it to emphasise that we expect something to happen soon. _Yet_ (in this context) is only used in negative sentences and questions.
+
+> _Have you finished your homework yet?  
+> I haven't finished it yet. I'll do it after dinner.  
+> A. Where's Sam? B: He hasn't arrived yet._
+
+_Yet_ comes at the end of the sentence or question.
+### _still_
+
+_Still_ used with the present perfect means that something hasn't happened. We use it to emphasize that we expected the thing to happen earlier. _Still_ (in this context) is only used in negative sentences.
+
+> _I've been waiting for an hour and the bus still hasn't come.  
+> They promised me that report yesterday but they still haven't finished it.  
+> She still hasn't replied to my email. Maybe she's on holiday._
+
+_Still_ comes between the subject (_the bus, they,_ etc.) and auxiliary verb (_haven't/hasn't_).
+
+### _already_
+
+_Already_ used with the present perfect means 'before now'. We use it to emphasise that something happened before something else or earlier than expected.
+
+> _I've already spent my salary and it's two weeks before payday.  
+> He wanted to see_ Sudden Risk _but I've already seen it.  
+> The train's left already!_
+
+_Already_ can come between the auxiliary and the main verb or at the end of the clause.
