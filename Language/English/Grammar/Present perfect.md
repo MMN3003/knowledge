@@ -7,3 +7,17 @@
 
 `even though / although  + subject + have/has + [[past participle]]`,
 `subject + [[simple present]]`
+
+
+
+## Just
+_Just_ used with the present perfect means 'a short time before'.
+
+> _I've just seen Susan coming out of the cinema.  
+> Mike's just called. Can you ring him back, please?  
+> Have you just taken my pen?!_
+
+_Just_ comes between the auxiliary verb (_have/has_) and the past participle.
+
+`subject + have/has + just + [[past participle]]`
+
