@@ -61,7 +61,17 @@ but we can use the present perfect with **adverbials which refer to a time whic
 >_**Have** you **seen** Helen **today**?  
 >We **have bought** a new car **this week**._
 
+## **Present perfect for future**
 
+We normally use the [present simple](https://learnenglish.britishcouncil.org/node/1400) to talk about the [future](https://learnenglish.britishcouncil.org/node/1406) in clauses with _before, after, until,_ etc.:
+
+> _I'll keep looking **until I find** my book.  
+> We'll begin **when everyone arrives**._
+
+but we can also use the **present perfect**:
+
+> _I'll keep looking **until I have found** my book.  
+> We'll begin **when everyone has arrived**._
 
 - Even though they have merged two flights, there are still many empty seats .(some thing happened before now)
  - I am enjoying my trip because I haven't traveled for some time(talk about the reason of some thing)
