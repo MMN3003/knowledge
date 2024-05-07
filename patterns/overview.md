@@ -28,5 +28,3 @@
 14. **[[State Pattern]]**: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
 
 15. **[[Visitor Pattern]]**: Represents an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
-
-These patterns help in solving common design problems by providing well-tested solutions that have been refined over time.
