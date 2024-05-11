@@ -64,3 +64,8 @@
 	1. Egg yolks are the yellow part at the center of an egg.
 - **Egg white**:
 	1. Egg white is the clear liquid (also called the #albumen or the #glair / #glaire) contained within an egg.
+Swell
+
+Eyelid
+
+Eyelashes
