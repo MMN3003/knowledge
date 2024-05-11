@@ -69,3 +69,25 @@ Swell
 Eyelid
 
 Eyelashes
+
+Palm
+
+Pros and cons
+
+Frightening
+
+Petrifying
+
+Terrifying
+
+Gimmick
+
+Off the face of the earth
+
+Go off grid
+
+Integrated
+
+Get the wrong end of the stick
+
+Misunderstand
