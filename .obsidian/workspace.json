@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-04-02.md",
+                "file": "daily notes/2024/05/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-04-02.md",
+                "file": "daily notes/2024/05/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-04-02.md",
+                "file": "daily notes/2024/05/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-04-02.md"
+                "file": "daily notes/2024/05/2024-05-11.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a199f8c890218e2c",
+  "active": "a84018058ac54065",
   "lastOpenFiles": [
-    "daily notes/2024/Untitled",
-    "daily notes/2024-04-25.md",
+    "daily notes/2024/04/2024-04-02.md",
+    "daily notes/2024/05",
+    "daily notes/2024/03",
+    "daily notes/2024/04/2024-04-25.md",
     "daily notes/2024/04",
     "daily notes/2024",
-    "daily notes/2024-04-30.md",
-    "daily notes/2024-05-11.md",
+    "daily notes/2024/04/2024-04-30.md",
+    "daily notes/2024/05/2024-05-11.md",
     "apply/my applications.md",
     "patterns/overview.md",
     "interview/مصاحبه.md",
@@ -167,24 +169,22 @@
     "Language/English/vocabulary.md",
     "Language/sessions/2024-04-20 traveling.md",
     "action.md",
-    "daily notes/2024-04-24.md",
+    "daily notes/2024/04/2024-04-24.md",
     "need to know/need to know.md",
-    "daily notes/2024-04-23.md",
+    "daily notes/2024/04/2024-04-23.md",
     "interview",
     "Welcome.md",
     "Untitled.canvas",
-    "daily notes/2024-04-22.md",
+    "daily notes/2024/04/2024-04-22.md",
     "need to know/The Twelve-Factor App.md",
     "need to know/patterns.md",
-    "daily notes/2024-04-21.md",
-    "daily notes/2024-04-20.md",
+    "daily notes/2024/04/2024-04-21.md",
+    "daily notes/2024/04/2024-04-20.md",
     "downside.md",
     "chrome/shecan over chrome.md",
     "Language/sessions",
     "need to know",
     "docker",
-    "golang",
-    "apply",
-    "Language/English/Grammar"
+    "golang"
   ]
 }
