@@ -49,7 +49,7 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
     {
         public override IWaste FactoryMethod()
         {
-            return new ConcreteProduct2();
+            return new SolidWaste();
         }
     }
 
@@ -62,19 +62,19 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
 
     // Concrete Products provide various implementations of the Product
     // interface.
-    class ConcreteProduct1 : IWaste
+    class OildWaste : IWaste
     {
-        public string Operation()
+        public string Collect()
         {
-            return "{Result of ConcreteProduct1}";
+            return "{Result of OildWaste}";
         }
     }
 
-    class ConcreteProduct2 : IProduct
+    class SolidWaste : IWaste
     {
-        public string Operation()
+        public string Collect()
         {
-            return "{Result of ConcreteProduct2}";
+            return "{Result of SolidWaste}";
         }
     }
 
@@ -82,23 +82,23 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
     {
         public void Main()
         {
-            Console.WriteLine("App: Launched with the ConcreteCreator1.");
-            ClientCode(new ConcreteCreator1());
+            Console.WriteLine("App: Launched with the OilWasteCreator.");
+            ClientCode(new OilWasteCreator());
             
             Console.WriteLine("");
 
-            Console.WriteLine("App: Launched with the ConcreteCreator2.");
-            ClientCode(new ConcreteCreator2());
+            Console.WriteLine("App: Launched with the SolidWasteCreator.");
+            ClientCode(new SolidWasteCreator());
         }
 
         // The client code works with an instance of a concrete creator, albeit
         // through its base interface. As long as the client keeps working with
         // the creator via the base interface, you can pass it any creator's
         // subclass.
-        public void ClientCode(Creator creator)
+        public void ClientCode(Creator Wastecreator)
         {
             // ...
-            Console.WriteLine("Client: I'm not aware of the creator's class," +
+            Console.WriteLine("Client: I'm not aware of the WasteCreator's class," +
                 "but it still works.\n" + creator.SomeOperation());
             // ...
         }
@@ -115,11 +115,7 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
 
 ```
 
-- `Vehicle` is an abstract class representing a product (in this case, different types of vehicles).
-- `Car` and `Truck` are concrete implementations of the `Vehicle` abstract class.
-- `VehicleFactory` is an abstract class representing a factory for creating vehicles.
-- `CarFactory` and `TruckFactory` are concrete implementations of the `VehicleFactory` abstract class, each responsible for creating a specific type of vehicle.
-- The `Main` method demonstrates how clients can use the factory method to create objects without knowing their concrete types. They interact with the factory through the abstract `VehicleFactory` interface.
+
 
 >_there are several sides here
->first one is: `vehicle`  
+>first one is: `wasteCreator` is going to use in all codes.   
