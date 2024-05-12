@@ -1,1 +1,1 @@
-**Factory Method** is a [[Creational Design Pattern]] that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.![[example.png]]
+**Factory Method** is a [[Creational Design Pattern]] that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.![[factory-method-img.png]]
