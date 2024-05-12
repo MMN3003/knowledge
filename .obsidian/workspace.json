@@ -23,9 +23,11 @@
             "id": "52c009975fffd2c7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "patterns/Creational Design Patterns/Factory Method.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/English/vocabulary.md",
+                "file": "patterns/Creational Design Patterns/Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/English/vocabulary.md",
+                "file": "patterns/Creational Design Patterns/Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/English/vocabulary.md"
+                "file": "patterns/Creational Design Patterns/Factory Method.md"
               }
             }
           }
@@ -160,6 +162,10 @@
   },
   "active": "52c009975fffd2c7",
   "lastOpenFiles": [
+    "patterns/Creational Design Patterns/Creational Design Pattern.md",
+    "patterns/Creational Design Patterns/Factory Method.md",
+    "patterns/overview.md",
+    "patterns/Creational Design Patterns",
     "daily notes/2024/05/2024-05-11.md",
     "daily notes/2024/04/2024-04-02.md",
     "daily notes/2024/05",
@@ -169,7 +175,6 @@
     "daily notes/2024",
     "daily notes/2024/04/2024-04-30.md",
     "apply/my applications.md",
-    "patterns/overview.md",
     "interview/مصاحبه.md",
     "patterns",
     "Language/English/Grammar/Present perfect.md",
@@ -191,11 +196,8 @@
     "need to know/patterns.md",
     "daily notes/2024/04/2024-04-21.md",
     "daily notes/2024/04/2024-04-20.md",
-    "downside.md",
-    "chrome/shecan over chrome.md",
     "Language/sessions",
     "need to know",
-    "docker",
-    "golang"
+    "docker"
   ]
 }
