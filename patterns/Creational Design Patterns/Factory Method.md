@@ -2,58 +2,49 @@
 ``` C#
 using System;
 
-// Product interface
-public interface IProduct
+// Abstract Product
+abstract class Vehicle
 {
-    void DoStuff();
+    public abstract void Drive();
 }
 
-// Concrete Product A
-public class ConcreteProductA : IProduct
+// Concrete Products
+class Car : Vehicle
 {
-    public void DoStuff()
+    public override void Drive()
     {
-        Console.WriteLine("Doing stuff in ConcreteProductA");
+        Console.WriteLine("Driving a Car");
     }
 }
 
-// Concrete Product B
-public class ConcreteProductB : IProduct
+class Truck : Vehicle
 {
-    public void DoStuff()
+    public override void Drive()
     {
-        Console.WriteLine("Doing stuff in ConcreteProductB");
+        Console.WriteLine("Driving a Truck");
     }
 }
 
-// Creator class
-public abstract class Creator
+// Abstract Creator
+abstract class VehicleFactory
 {
-    public abstract IProduct CreateProduct();
+    public abstract Vehicle CreateVehicle();
+}
 
-    public void SomeOperation()
+// Concrete Creators
+class CarFactory : VehicleFactory
+{
+    public override Vehicle CreateVehicle()
     {
-        // Use the created product
-        IProduct product = CreateProduct();
-        product.DoStuff();
+        return new Car();
     }
 }
 
-// Concrete Creator A
-public class ConcreteCreatorA : Creator
+class TruckFactory : VehicleFactory
 {
-    public override IProduct CreateProduct()
+    public override Vehicle CreateVehicle()
     {
-        return new ConcreteProductA();
-    }
-}
-
-// Concrete Creator B
-public class ConcreteCreatorB : Creator
-{
-    public override IProduct CreateProduct()
-    {
-        return new ConcreteProductB();
+        return new Truck();
     }
 }
 
@@ -61,12 +52,24 @@ class Program
 {
     static void Main(string[] args)
     {
-        Creator creatorA = new ConcreteCreatorA();
-        Creator creatorB = new ConcreteCreatorB();
+        // Client code
+        VehicleFactory carFactory = new CarFactory();
+        Vehicle car = carFactory.CreateVehicle();
+        car.Drive(); // Output: Driving a Car
 
-        creatorA.SomeOperation();
-        creatorB.SomeOperation();
+        VehicleFactory truckFactory = new TruckFactory();
+        Vehicle truck = truckFactory.CreateVehicle();
+        truck.Drive(); // Output: Driving a Truck
     }
 }
+
 ```
 
+- `Vehicle` is an abstract class representing a product (in this case, different types of vehicles).
+- `Car` and `Truck` are concrete implementations of the `Vehicle` abstract class.
+- `VehicleFactory` is an abstract class representing a factory for creating vehicles.
+- `CarFactory` and `TruckFactory` are concrete implementations of the `VehicleFactory` abstract class, each responsible for creating a specific type of vehicle.
+- The `Main` method demonstrates how clients can use the factory method to create objects without knowing their concrete types. They interact with the factory through the abstract `VehicleFactory` interface.
+
+>_there are several sides here
+>first one is: 
