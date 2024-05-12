@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52c009975fffd2c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a84018058ac54065",
+  "active": "52c009975fffd2c7",
   "lastOpenFiles": [
     "daily notes/2024/05/2024-05-11.md",
     "daily notes/2024/04/2024-04-02.md",
