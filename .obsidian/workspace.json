@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/English/vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c009975fffd2c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "patterns/Creational Design Patterns/Factory Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52c009975fffd2c7",
+  "active": "a84018058ac54065",
   "lastOpenFiles": [
+    "Language/English/vocabulary.md",
+    "assets/factory-method-img.png",
     "assets/factory-method-img.png",
     "patterns/Creational Design Patterns/Factory Method.md",
     "assets",
@@ -184,7 +173,6 @@
     "Language/English/Grammar/action and stative verbs.md",
     "Language/English/Grammar/past habit(used to).md",
     "Language/English/Grammar/past perfect.md",
-    "Language/English/vocabulary.md",
     "Language/sessions/2024-04-20 traveling.md",
     "action.md",
     "daily notes/2024/04/2024-04-24.md",
