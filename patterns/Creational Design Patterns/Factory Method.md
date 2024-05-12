@@ -7,11 +7,11 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
     // The Creator class declares the factory method that is supposed to return
     // an object of a Product class. The Creator's subclasses usually provide
     // the implementation of this method.
-    abstract class Creator
+    abstract class WasteCreator
     {
         // Note that the Creator may also provide some default implementation of
         // the factory method.
-        public abstract IProduct FactoryMethod();
+        public abstract IWaste FactoryMethod();
 
         // Also note that, despite its name, the Creator's primary
         // responsibility is not creating products. Usually, it contains some
@@ -22,10 +22,10 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
         public string SomeOperation()
         {
             // Call the factory method to create a Product object.
-            var product = FactoryMethod();
+            var waste = FactoryMethod();
             // Now, use the product.
             var result = "Creator: The same creator's code has just worked with "
-                + product.Operation();
+                + waste.Collect();
 
             return result;
         }
@@ -33,21 +33,21 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
 
     // Concrete Creators override the factory method in order to change the
     // resulting product's type.
-    class ConcreteCreator1 : Creator
+    class OilWasteCreator : WasteCreator
     {
         // Note that the signature of the method still uses the abstract product
         // type, even though the concrete product is actually returned from the
         // method. This way the Creator can stay independent of concrete product
         // classes.
-        public override IProduct FactoryMethod()
+        public override IWaste FactoryMethod()
         {
-            return new ConcreteProduct1();
+            return new OilWaste();
         }
     }
 
-    class ConcreteCreator2 : Creator
+    class SolidWasteCreator : WasteCreator
     {
-        public override IProduct FactoryMethod()
+        public override IWaste FactoryMethod()
         {
             return new ConcreteProduct2();
         }
@@ -55,14 +55,14 @@ namespace RefactoringGuru.DesignPatterns.FactoryMethod.Conceptual
 
     // The Product interface declares the operations that all concrete products
     // must implement.
-    public interface IProduct
+    public interface IWaste
     {
-        string Operation();
+        string Collect();
     }
 
     // Concrete Products provide various implementations of the Product
     // interface.
-    class ConcreteProduct1 : IProduct
+    class ConcreteProduct1 : IWaste
     {
         public string Operation()
         {
