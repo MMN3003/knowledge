@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/Creational Design Patterns/Prototype.md",
+                "file": "patterns/Creational Design Patterns/builder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/Creational Design Patterns/Prototype.md",
+                "file": "patterns/Creational Design Patterns/builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/Creational Design Patterns/Prototype.md",
+                "file": "patterns/Creational Design Patterns/builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/Creational Design Patterns/Prototype.md"
+                "file": "patterns/Creational Design Patterns/builder.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "61e908a2e8b10f97",
   "lastOpenFiles": [
-    "assets/prototype-img.png",
+    "patterns/Creational Design Patterns/singleton.md",
+    "patterns/Creational Design Patterns/builder.md",
     "patterns/Creational Design Patterns/Prototype.md",
+    "assets/prototype-img.png",
     "patterns/Creational Design Patterns/Factory Method.md",
     "Language/English/Grammar/Present perfect.md",
     "Language/English/vocabulary.md",
@@ -185,7 +187,6 @@
     "Untitled.canvas",
     "daily notes/2024/04/2024-04-22.md",
     "need to know/The Twelve-Factor App.md",
-    "need to know/patterns.md",
     "Language/sessions",
     "need to know"
   ]
