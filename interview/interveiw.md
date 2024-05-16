@@ -3,3 +3,12 @@ I have experience as full stack web app developer and I enjoy working with all l
 I also enjoy building out user friendly efficient websites.
 my passion for web app development started when I was employed as angular developer.
 I used to develop pwa and admin panels, I would
+
+
+
+
+"Hello, I'm Mohsen. Over the past 6 years, my professional journey in software development began with Angular. However, due to team needs, after a while, I decided to enter the world of Node.js, and since then, I've enjoyed being a full-stack developer, working across various layers.
+
+Throughout this journey, I've worked with languages like Go, JavaScript, and C#, and I'm also familiar with Java and the Spring Boot framework. I've also worked with different databases such as Redis, Oracle, and MSSQL. Familiarity with microservices design concepts and web design has enabled me to develop more than 20 different services.
+
+My learning speed and perseverance allow me to quickly progress and adapt to the team's needs and environment, utilizing various tools and languages."
