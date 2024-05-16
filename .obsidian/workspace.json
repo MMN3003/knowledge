@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/Creational Design Patterns/builder.md",
+                "file": "interview/interveiw.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/Creational Design Patterns/builder.md",
+                "file": "interview/interveiw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/Creational Design Patterns/builder.md",
+                "file": "interview/interveiw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/Creational Design Patterns/builder.md"
+                "file": "interview/interveiw.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "68c466f658d2e856",
   "lastOpenFiles": [
-    "assets/builder-img-2.png",
+    "interview/مصاحبه.md",
+    "interview/interveiw.md",
     "patterns/Creational Design Patterns/builder.md",
+    "assets/builder-img-2.png",
     "assets/builder-img.png",
     "patterns/Creational Design Patterns/Untitled.md",
     "patterns/Creational Design Patterns/singleton.md",
@@ -174,7 +176,6 @@
     "daily notes/2024",
     "daily notes/2024/04/2024-04-30.md",
     "apply/my applications.md",
-    "interview/مصاحبه.md",
     "patterns",
     "Language/English/Grammar/Present perfect continuous.md",
     "Language/English/Grammar/action and stative verbs.md",
