@@ -17,3 +17,20 @@ In my recent company, we faced a challenge where, due to certain reasons, they h
 
 
 One of the mistakes I made was storing database backup files in the same data center as the primary database. As a result, during a cyber attack on the data center, both the database and the backups stored there were compromised. However, after replacing the Oracle database files with a new service and cleaning up the corrupted data, I was able to recover access to over 95% of the data
+
+
+
+
+
+
+1. Hello, I'm Mohsen. With over 6 years of experience as a full-stack software engineer, I've developed a passion for tackling complex challenges and continuously expanding my skill set.
+
+My expertise spans across a variety of technologies, including Golang, Node.js, Angular, and I have a solid understanding of Java and the Spring Boot framework. This diverse background allows me to seamlessly navigate through all layers of the software stack, from frontend to backend development.
+
+In addition to my programming skills, I have a strong understanding of infrastructure tools and containerization techniques, such as CI/CD, Docker, Kubernetes, Terraform, and ELK stack. I've leveraged these tools to optimize development workflows and ensure efficient deployment of applications.
+
+Moreover, I'm well-versed in working with different communication protocols like HTTP, gRPC, and WebSocket, enabling seamless integration between various components of the system.
+
+In a previous role, I successfully implemented an event-driven system using Kafka, which enhanced the scalability and responsiveness of the application architecture.
+
+I am excited about the opportunity to bring my diverse skill set and problem-solving mindset to your team and contribute to the success of your projects
