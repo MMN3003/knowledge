@@ -34,3 +34,19 @@ Moreover, I'm well-versed in working with different communication protocols like
 In a previous role, I successfully implemented an event-driven system using Kafka, which enhanced the scalability and responsiveness of the application architecture.
 
 I am excited about the opportunity to bring my diverse skill set and problem-solving mindset to your team and contribute to the success of your projects
+
+
+
+
+
+1. Hi, I'm Mohsen. I've been a full-stack software engineer for over 6 years. I love tackling complex challenges and continuously expanding my skill set.
+
+2. I've worked with languages like Golang, Node.js, and Angular, and I'm familiar with Java and Spring Boot too. This means I'm comfortable working on both the front and back ends of websites and apps.
+
+In addition to my programming skills, I have a strong understanding of infrastructure tools like CI/CD, Docker, Kubernetes, Terraform, and ELK stack. They help make sure everything runs smoothly when we're building and deploying software.
+
+I'm good at making different parts of a system talk to each other using protocols like HTTP, gRPC, and WebSocket. It's like making sure all the gears in a machine fit together just right.
+
+In my last job, I used Kafka to build a system where things happen automatically when certain events occur. It made our software faster and more flexible.
+
+I'm really excited about the chance to bring my skills and enthusiasm to your team and help make cool stuff happen!"
