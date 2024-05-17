@@ -43,7 +43,7 @@ I am excited about the opportunity to bring my diverse skill set and problem-sol
 
 2. I've worked with languages like Golang, Node.js, and Angular, and I'm familiar with Java and Spring Boot too. This means I'm comfortable working on both the front and back ends of websites and apps.
 
-In addition to my programming skills, I have a strong understanding of infrastructure tools like CI/CD, Docker, Kubernetes, Terraform, and ELK stack. They help make sure everything runs smoothly when we're building and deploying software.
+In addition to my programming skills, I have a strong understanding of  infrastructure tools like CI/CD, Docker, Kubernetes, Terraform, and ELK stack. They help make sure everything runs smoothly when we're building and deploying software.
 
 I'm good at making different parts of a system talk to each other using protocols like HTTP, gRPC, and WebSocket. It's like making sure all the gears in a machine fit together just right.
 
