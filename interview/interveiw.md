@@ -14,3 +14,6 @@ Throughout this journey, I've worked with languages like Go, JavaScript, and C#,
 My learning speed and perseverance allow me to quickly progress and adapt to the team's needs and environment, utilizing various tools and languages."
 
 In my recent company, we faced a challenge where, due to certain reasons, they had a completely separate instance of a monolithic service for each city. This made it difficult to have consolidated reports. I suggested solving this by aggregating users and access rights. We addressed this issue by creating an SSO (Single Sign-On) and IAM (Identity and Access Management) service
+
+
+One of the mistakes I made was storing database backup files in the same data center as the primary database. As a result, during a cyber attack on the data center, both the database and the backups stored there were compromised. However, after replacing the Oracle database files with a new service and cleaning up the corrupted data, I was able to recover access to over 95% of the data
