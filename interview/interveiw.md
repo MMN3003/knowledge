@@ -12,3 +12,5 @@ I used to develop pwa and admin panels, I would
 Throughout this journey, I've worked with languages like Go, JavaScript, and C#, and I'm also familiar with Java and the Spring Boot framework. I've also worked with different databases such as Redis, Oracle, and MSSQL. Familiarity with microservices design concepts and web design has enabled me to develop more than 20 different services.
 
 My learning speed and perseverance allow me to quickly progress and adapt to the team's needs and environment, utilizing various tools and languages."
+
+In my recent company, we faced a challenge where, due to certain reasons, they had a completely separate instance of a monolithic service for each city. This made it difficult to have consolidated reports. I suggested solving this by aggregating users and access rights. We addressed this issue by creating an SSO (Single Sign-On) and IAM (Identity and Access Management) service
