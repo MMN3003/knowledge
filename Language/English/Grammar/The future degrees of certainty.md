@@ -68,4 +68,5 @@ We can also use other expressions such as _be bound to_ and _be likely to_, o
 I **am bound to** go to new company in 2 days.
 I **am about to** go to new company in 2 days.
 
-There is a chance that 
+**There is a chance** that I travel to a foreign country.
+I **am certain to** you can expand your job.
