@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/interveiw.md",
+                "file": "Language/English/Grammar/The future degrees of certainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/interveiw.md",
+                "file": "Language/English/Grammar/The future degrees of certainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/interveiw.md",
+                "file": "Language/English/Grammar/The future degrees of certainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/interveiw.md"
+                "file": "Language/English/Grammar/The future degrees of certainty.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "2f854ccf61cfb474",
   "lastOpenFiles": [
-    "Language/English/Grammar/past habit(used to).md",
     "interview/interveiw.md",
+    "Language/English/Grammar/The future degrees of certainty.md",
+    "Language/English/Grammar/past habit(used to).md",
     "interview/مصاحبه.md",
     "patterns/Creational Design Patterns/builder.md",
     "assets/builder-img-2.png",
@@ -187,7 +188,6 @@
     "need to know/need to know.md",
     "daily notes/2024/04/2024-04-23.md",
     "interview",
-    "Welcome.md",
     "Untitled.canvas",
     "Language/sessions",
     "need to know"
