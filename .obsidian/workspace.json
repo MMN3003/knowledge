@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/English/Grammar/The future degrees of certainty.md",
+                "file": "sishemi/daily/2024/06/06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/English/Grammar/The future degrees of certainty.md",
+                "file": "sishemi/daily/2024/06/06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/English/Grammar/The future degrees of certainty.md",
+                "file": "sishemi/daily/2024/06/06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/English/Grammar/The future degrees of certainty.md"
+                "file": "sishemi/daily/2024/06/06.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "2f854ccf61cfb474",
   "lastOpenFiles": [
-    "interview/interveiw.md",
     "Language/English/Grammar/The future degrees of certainty.md",
+    "sishemi/daily/2024/06/06.md",
+    "sishemi/daily/2024/06",
+    "sishemi/daily/2024",
+    "sishemi/daily",
+    "sishemi",
+    "interview/interveiw.md",
     "Language/English/Grammar/past habit(used to).md",
     "interview/مصاحبه.md",
     "patterns/Creational Design Patterns/builder.md",
@@ -178,7 +183,6 @@
     "daily notes/2024",
     "daily notes/2024/04/2024-04-30.md",
     "apply/my applications.md",
-    "patterns",
     "Language/English/Grammar/Present perfect continuous.md",
     "Language/English/Grammar/action and stative verbs.md",
     "Language/English/Grammar/past perfect.md",
@@ -186,10 +190,6 @@
     "action.md",
     "daily notes/2024/04/2024-04-24.md",
     "need to know/need to know.md",
-    "daily notes/2024/04/2024-04-23.md",
-    "interview",
-    "Untitled.canvas",
-    "Language/sessions",
-    "need to know"
+    "Untitled.canvas"
   ]
 }
