@@ -23,9 +23,11 @@
             "id": "f601415bf8676cf1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "sishemi/daily/2024/06/12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sishemi/share collection.md",
+                "file": "sishemi/daily/2024/06/12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sishemi/share collection.md",
+                "file": "sishemi/daily/2024/06/12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sishemi/share collection.md"
+                "file": "sishemi/daily/2024/06/12.md"
               }
             }
           }
@@ -160,6 +162,7 @@
   },
   "active": "f601415bf8676cf1",
   "lastOpenFiles": [
+    "sishemi/daily/2024/06/12.md",
     "sishemi/daily/2024/07.md",
     "sishemi/share collection.md",
     "sishemi/daily/2024/06/06.md",
@@ -200,7 +203,6 @@
     "Language/English/Grammar/action and stative verbs.md",
     "Language/English/Grammar/past perfect.md",
     "Language/sessions/2024-04-20 traveling.md",
-    "action.md",
     "Untitled.canvas"
   ]
 }
