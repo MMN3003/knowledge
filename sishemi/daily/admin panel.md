@@ -1,0 +1,11 @@
+-  report of 
+	- users 
+	- message is different by user totally
+- middle product
+	- active fence
+		- message that we send to send bird it will check 
+			- message
+			- image
+			- video
+		- there is some channels to exclude from active fence check like gun games. by their own reponsibility.
+		- there is
