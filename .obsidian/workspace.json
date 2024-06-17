@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff583135d45737ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f854ccf61cfb474",
+  "active": "ff583135d45737ad",
   "lastOpenFiles": [
     "sishemi/daily/2024/06/14.md",
     "sishemi/daily/2024/06/13.md",
