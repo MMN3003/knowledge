@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sishemi/daily/2024/06/17.md",
+                "file": "sishemi/daily/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sishemi/daily/2024/06/17.md",
+                "file": "sishemi/daily/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sishemi/daily/2024/06/17.md",
+                "file": "sishemi/daily/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sishemi/daily/2024/06/17.md"
+                "file": "sishemi/daily/Untitled.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "f601415bf8676cf1",
   "lastOpenFiles": [
+    "sishemi/daily/2024/06/17.md",
+    "sishemi/daily/Untitled.md",
     "sishemi/daily/2024/06/13.md",
     "sishemi/daily/2024/06/14.md",
-    "sishemi/daily/2024/06/17.md",
     "sishemi/share collection.md",
     "sishemi/daily/2024/06/12.md",
     "sishemi/daily/2024/07.md",
@@ -202,7 +203,6 @@
     "daily notes/2024",
     "daily notes/2024/04/2024-04-30.md",
     "apply/my applications.md",
-    "Language/English/Grammar/Present perfect continuous.md",
     "Untitled.canvas"
   ]
 }
