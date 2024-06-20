@@ -25,5 +25,5 @@ add these data to http://[::1]:3000/doc/v1/#/User%20%5BAdmin%5D/AdminV1UserContr
 }
 ```
 - [x] Subscription cycle date: `admin_until_date` in users collection 
-- [ ] user team leadership count
+- [x] user team leadership count
 - [ ] Organization lists of user
