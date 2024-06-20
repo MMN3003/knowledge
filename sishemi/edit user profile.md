@@ -2,9 +2,9 @@ add these data to http://[::1]:3000/doc/v1/#/User%20%5BAdmin%5D/AdminV1UserContr
 - [ ] Joined Date : `first_login` in users collection
 - [-] T&C : Accepted   `accept_legal` already exist
 - [-] Admin T&C :   `accept_admin_terms` already exist
-- [ ] KWS for UnderAges : email and status  
+- [x] KWS for UnderAges : email and status  
 	- [-] `parent_email`:already exist
-	- [ ] status: in `parent_email_data` of users collection
+	- [x] status: in `parent_email_data` of users collection
 	  ```json
 {
 "name": "parent-verified",
@@ -24,6 +24,6 @@ add these data to http://[::1]:3000/doc/v1/#/User%20%5BAdmin%5D/AdminV1UserContr
 "_id": "661d2dac193e1b98e1b18a82"
 }
 ```
-- [ ] Subscription cycle date: `admin_until_date` in users collection 
+- [x] Subscription cycle date: `admin_until_date` in users collection 
 - [ ] user team leadership count
 - [ ] Organization lists of user
