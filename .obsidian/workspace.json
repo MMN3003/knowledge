@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sishemi/share collection.md",
+                "file": "sishemi/edit user profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sishemi/common data.md",
+                "file": "sishemi/edit user profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sishemi/common data.md",
+                "file": "sishemi/edit user profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sishemi/common data.md"
+                "file": "sishemi/edit user profile.md"
               }
             }
           }
@@ -160,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f601415bf8676cf1",
+  "active": "2f854ccf61cfb474",
   "lastOpenFiles": [
     "sishemi/share collection.md",
-    "sishemi/edit user profile.md",
     "sishemi/common data.md",
+    "sishemi/edit user profile.md",
     "sishemi/daily/2024/06/19.md",
     "sishemi/daily/2024/06/06.md",
     "sishemi/daily/2024/06/12.md",
