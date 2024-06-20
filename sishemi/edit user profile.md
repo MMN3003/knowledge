@@ -1,5 +1,5 @@
 add these data to http://[::1]:3000/doc/v1/#/User%20%5BAdmin%5D/AdminV1UserController_GetUserProfile api
-- [ ] Joined Date : `first_login` in users collection
+- [x] Joined Date : `first_login` in users collection
 - [-] T&C : Accepted   `accept_legal` already exist
 - [-] Admin T&C :   `accept_admin_terms` already exist
 - [x] KWS for UnderAges : email and status  
