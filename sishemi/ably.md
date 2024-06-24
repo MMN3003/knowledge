@@ -57,7 +57,6 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 
 - Asset Tracking enables you to track the location of assets such as drivers, vehicles or containers in realtime
 
-## Alternatives to Ably
 -  OneSignal
 -  Twilio
 -  G2 Deals
@@ -125,3 +124,7 @@ cach chi mishe?
 cost kari cheghadre?
 
 
+
+| name | chat list | store message in |     |
+| ---- | --------- | ---------------- | --- |
+|      |           |                  |     |
