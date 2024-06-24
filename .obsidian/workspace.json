@@ -11,8 +11,12 @@
             "id": "e7fd66a62c857e98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sishemi/apply.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sishemi/apply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sishemi/apply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sishemi/apply.md"
+              }
             }
           }
         ],
@@ -141,13 +149,15 @@
   },
   "active": "e7fd66a62c857e98",
   "lastOpenFiles": [
+    "sishemi/common data.md",
+    "sishemi/apply.md",
+    "sishemi/daily/Untitled.md",
     "bms/migration.md",
     "bms",
     "conflict-files-obsidian-git.md",
     "sishemi/edit user profile.md",
     "sishemi/daily/under age.md",
     "sishemi/daily/2024/06/19.md",
-    "sishemi/common data.md",
     ",gitignore",
     "sishemi/daily/admin panel.md",
     "sishemi/share collection.md",
@@ -174,11 +184,9 @@
     "assets/prototype-img.png",
     "patterns/Creational Design Patterns/Factory Method.md",
     "Language/English/Grammar/Present perfect.md",
-    "Language/English/vocabulary.md",
     "assets/factory-method-img.png",
     "assets/factory-method-img.png",
     "assets",
-    "patterns/Creational Design Patterns/Creational Design Pattern.md",
     "patterns/Creational Design Patterns",
     "daily notes/2024/05",
     "daily notes/2024/03",
