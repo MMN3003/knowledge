@@ -41,3 +41,18 @@ Outbound integrations enable you to send data from Ably channels to an external 
 # Ably Kafka Connector
 You can use the Ably Kafka Connector to send data from one or more [Kafka topics](https://developer.confluent.io/learn-kafka/apache-kafka/topics/) into Ably [channels](https://ably.com/docs/channels). The following diagram illustrates a typical deployment:
 ![[ably-kafka-connector-overview.webp]]
+
+# Spaces
+
+ - avatar stack
+ - live cursors
+ - component locking
+ - member location
+
+# liveSync
+
+- LiveSync enables you to synchronize changes in your database to frontend clients at scale.
+	- postgres
+# Asset Tracking
+
+- Asset Tracking enables you to track the location of assets such as drivers, vehicles or containers in realtime
