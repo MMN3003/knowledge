@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "47f5e2aa3fcdda03",
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a199f8c890218e2c",
+  "active": "e7fd66a62c857e98",
   "lastOpenFiles": [
     "assets/ably-kafka-connector-overview.webp",
     "sishemi/common data.md",

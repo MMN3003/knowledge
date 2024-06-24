@@ -57,9 +57,9 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 
 - Asset Tracking enables you to track the location of assets such as drivers, vehicles or containers in realtime
 
--  OneSignal
--  Twilio
--  G2 Deals
+-  ~~OneSignal~~
+-  ~~Twilio~~
+-  ~~G2 Deals~~
 -  MuleSoft Anypoint Platform
 -   Salesforce Marketing Cloud Engagement
 -   Podium
@@ -125,6 +125,6 @@ cost kari cheghadre?
 
 
 
-| name | chat list | store message in |     |
-| ---- | --------- | ---------------- | --- |
-|      |           |                  |     |
+| name              | chat list | store in | reaction | direct chat | group | channel | cach | cost | limitation |
+| ----------------- | --------- | -------- | -------- | ----------- | ----- | ------- | ---- | ---- | ---------- |
+| **~~OneSignal~~** | false     |          |          |             |       |         |      |      |            |
