@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20a6422c42eb7ad9",
+        "id": "9befe15f3b97dd90",
         "type": "tabs",
         "children": [
           {
-            "id": "353a5255e02c71c1",
+            "id": "e7fd66a62c857e98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bms/migration.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bms/migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bms/migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bms/migration.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353a5255e02c71c1",
+  "active": "e7fd66a62c857e98",
   "lastOpenFiles": [
     "bms/migration.md",
     "bms",
