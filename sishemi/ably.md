@@ -220,6 +220,25 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 - Reach Kim
 - FlashEdge CDN
 - Oriel Push
+
+
+---------------------------
+- CometChat
+- Agora
+- PubSub+ Platform
+- Firebase
+- Supabase
+- Socket.io
+- Etebase
+- Scaledrone
+- deepstream.io
+- PubNub
+- Pusher
+- Lightstreamer
+- Socketioxide
+- Knock
+- streamchat
+- 
 chat list darim
 store message kojast
 reaction anjam mishe?
@@ -228,6 +247,6 @@ cost kari cheghadre?
 
 
 
-| name              | chat list | store in | reaction | direct chat | group | channel | cach | cost | limitation |
-| ----------------- | --------- | -------- | -------- | ----------- | ----- | ------- | ---- | ---- | ---------- |
-| **~~OneSignal~~** | false     |          |          |             |       |         |      |      |            |
+| name      | chat list | store in | reaction | direct chat | group | channel | cach | cost | limitation |
+| --------- | --------- | -------- | -------- | ----------- | ----- | ------- | ---- | ---- | ---------- |
+| CometChat | true      |          | true     | true        | true  |         |      |      |            |
