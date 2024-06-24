@@ -224,8 +224,8 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 
 ---------------------------
 - CometChat
+- Ably
 - Agora
-- PubSub+ Platform
 - Firebase
 - Supabase
 - Socket.io
@@ -238,7 +238,8 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 - Socketioxide
 - Knock
 - streamchat
-- 
+
+- - PubSub+ Platform
 chat list darim
 store message kojast
 reaction anjam mishe?
