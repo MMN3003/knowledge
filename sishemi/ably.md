@@ -64,7 +64,15 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 -  MuleSoft Anypoint Platform
 -   Salesforce Marketing Cloud Engagement
 -   Podium
+- bandwidth
+- stream
+- cometChat
+- messageBird
+- sinch
+- textus
+- agora
 -   Braze
+-  vonage
 -   Omnisend
 -   Dotdigital
 -   Plivo
@@ -88,7 +96,25 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 -   Lightstreamer
 -   Bitloops
 -   Socketioxide
-
+- Knock
+- MagicBell
+- Roost
+- PushPro
+- Notific
+- Hoy
+- Ecomfit
+- Pushcut
+- Push Hero
+- Pingy
+- Pushever
+- Now Push
+- Daywise
+-  Truepush for Shopify
+-  Notify.Events
+- PushNinja by 500apps
+-   Reach Kim
+- FlashEdge CDN
+-  Oriel Push
 
 
 
