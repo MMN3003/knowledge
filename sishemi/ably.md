@@ -37,3 +37,7 @@ Inbound integrations enable you to publish data from an external web service to 
 ### Outbound integrations
 
 Outbound integrations enable you to send data from Ably channels to an external streaming or queuing service. Examples include [Amazon Kinesis](https://ably.com/docs/general/firehose/kinesis-rule) or [Amazon SQS](https://ably.com/docs/general/firehose/sqs-rule).
+
+# Ably Kafka Connector
+You can use the Ably Kafka Connector to send data from one or more [Kafka topics](https://developer.confluent.io/learn-kafka/apache-kafka/topics/) into Ably [channels](https://ably.com/docs/channels). The following diagram illustrates a typical deployment:
+![[ably-kafka-connector-overview.webp]]
