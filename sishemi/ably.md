@@ -232,9 +232,9 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 - Firebase
 - Supabase
 - Lightstreamer
+- getStream.io
 - streamchat
-
-- - PubSub+ Platform
+  
 chat list darim
 store message kojast
 reaction anjam mishe?
