@@ -224,19 +224,14 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 
 ---------------------------
 - CometChat
+- Scaledrone
+- PubNub
 - Ably
+- Pusher
 - Agora
 - Firebase
 - Supabase
-- Socket.io
-- Etebase
-- Scaledrone
-- deepstream.io
-- PubNub
-- Pusher
 - Lightstreamer
-- Socketioxide
-- Knock
 - streamchat
 
 - - PubSub+ Platform
