@@ -57,8 +57,45 @@ You can use the Ably Kafka Connector to send data from one or more [Kafka topic
 
 - Asset Tracking enables you to track the location of assets such as drivers, vehicles or containers in realtime
 
-## Top 10 Alternatives to Ably
--   OneSignal
+## Alternatives to Ably
+-  OneSignal
 -  Twilio
 -  G2 Deals
 -  MuleSoft Anypoint Platform
+-   Salesforce Marketing Cloud Engagement
+-   Podium
+-   Braze
+-   Omnisend
+-   Dotdigital
+-   Plivo
+-   AWeber
+- PubSub+ Platform.
+- Microsoft Azure Event Grid.
+- IBM MQ.
+- Confluent Cloud.
+- TIBCO Messaging.
+- RabbitMQ.
+- AWS Simple Notification Service (SNS)
+- Google Pub/Sub.
+-   Firebase
+- Supabase
+-   Socket.io
+-   Etebase
+-   Scaledrone
+-   deepstream.io
+-   Pubnub
+-   Pusher
+-   Lightstreamer
+-   Bitloops
+-   Socketioxide
+
+
+
+
+chat list darim
+store message kojast
+reaction anjam mishe?
+cach chi mishe?
+cost kari cheghadre?
+
+
