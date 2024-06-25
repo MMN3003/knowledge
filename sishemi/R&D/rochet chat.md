@@ -1,0 +1,1 @@
+pricing https://www.rocket.chat/pricing
