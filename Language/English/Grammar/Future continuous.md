@@ -15,4 +15,6 @@ We can use the future continuous (_will/won't be_ + -_ing_ form) to talk about
 
 You can use the future continuous to tell people about plans that affect them or to go over plans you have agreed on you can also use it to politely ask people about their own plans.
 
->_I will be calling you later.(= we alrea)
+>_I will be calling you later.(= we already agreed on this.)
+>I'll call you later(= I just decided.)
+>will you be paying with a credit card or a debit card?
