@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sishemi/ably.md",
+                "file": "Language/English/Grammar/Future perfect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sishemi/ably.md",
+                "file": "Language/English/Grammar/Future perfect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sishemi/ably.md",
+                "file": "Language/English/Grammar/Future perfect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sishemi/ably.md"
+                "file": "Language/English/Grammar/Future perfect.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a199f8c890218e2c",
+  "active": "e7fd66a62c857e98",
   "lastOpenFiles": [
+    "Language/English/Grammar/Future continuous.md",
+    "Language/English/Grammar/Future perfect.md",
+    "sishemi/ably.md",
     "assets/ably-kafka-connector-overview.webp",
     "sishemi/common data.md",
-    "sishemi/ably.md",
     "sishemi/daily/Untitled.md",
     "bms/migration.md",
     "bms",
@@ -183,7 +185,6 @@
     "patterns/Creational Design Patterns/singleton.md",
     "patterns/Creational Design Patterns/Prototype.md",
     "assets/prototype-img.png",
-    "patterns/Creational Design Patterns/Factory Method.md",
     "assets/factory-method-img.png",
     "assets/factory-method-img.png",
     "assets",
