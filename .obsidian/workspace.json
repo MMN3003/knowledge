@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/English/Grammar/Future continuous.md",
+                "file": "sishemi/R&D/rochet chat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/English/Grammar/Future continuous.md",
+                "file": "sishemi/R&D/rochet chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/English/Grammar/Future continuous.md",
+                "file": "sishemi/R&D/rochet chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/English/Grammar/Future continuous.md"
+                "file": "sishemi/R&D/rochet chat.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "e7fd66a62c857e98",
   "lastOpenFiles": [
+    "Language/English/Grammar/Future continuous.md",
+    "sishemi/R&D/rochet chat.md",
+    "sishemi/R&D",
     "Language/English/Grammar/Future perfect.md",
     "Language/English/Grammar/The future degrees of certainty.md",
-    "Language/English/Grammar/Future continuous.md",
     "sishemi/ably.md",
     "assets/ably-kafka-connector-overview.webp",
     "sishemi/common data.md",
@@ -183,14 +185,12 @@
     "assets/builder-img.png",
     "patterns/Creational Design Patterns/Untitled.md",
     "patterns/Creational Design Patterns/singleton.md",
-    "patterns/Creational Design Patterns/Prototype.md",
     "assets/prototype-img.png",
     "assets/factory-method-img.png",
     "assets/factory-method-img.png",
     "assets",
     "patterns/Creational Design Patterns",
     "daily notes/2024/05",
-    "daily notes/2024/03",
     "Untitled.canvas"
   ]
 }
