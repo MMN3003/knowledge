@@ -11,3 +11,8 @@ We can use the future continuous (_will/won't be_ + -_ing_ form) to talk about
 > _Today we're taking the bus but next week we'll be taking the train.  
 > He'll be staying with his parents for several months while his father is in recovery.  
 > Will you be starting work earlier with your new job?_
+
+
+You can use the future continuous to tell people about plans that affect them or to go over plans you have agreed on you can also use it to politely ask people about their own plans.
+
+>_I will be calling you later.(= we alrea)

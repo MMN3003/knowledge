@@ -10,3 +10,6 @@ We can use phrases like _by_ or _by the time_ (meaning 'at some point before
 > By the time we arrive, the kids will have gone to bed.  
 > I'll have finished in an hour and then we can watch a film.  
 > In three years' time, I'll have graduated from university._
+
+I will have started my own company by next year.
+I will have rented a workplace by next year.
