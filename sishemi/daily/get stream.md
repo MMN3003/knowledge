@@ -36,4 +36,5 @@ first step => auth 5 times
 - web hook changes
 - active fence call our web hook to delete a message
 - general group of ima by each category sport
-	- add user to these groups in register
+	- add user to these groups in register as member
+		- queue
