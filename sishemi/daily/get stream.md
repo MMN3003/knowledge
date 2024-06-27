@@ -3,7 +3,7 @@ add server side token to env and use it in creating channel and other things.
 
 flash is one direction channel
 team or organization is 
-
+group is bi directional many to many
 
 first step => auth 5 times
 
@@ -24,4 +24,16 @@ first step => auth 5 times
 		- every one who join the team will join to public channels
 		- in creating flash add users by flash role except admins and moderators
 	- admin(co-leader) that added by owner can create flash or group
-- 
+- edit flash and group
+	- add or remove admin
+	- add or remove picture
+	- add or remove category of sport list or general(all)
+- direct
+	- search user 
+	- create group and add these two people
+	- add meta data direct to group
+- delete flash and group
+- web hook changes
+- active fence call our web hook to delete a message
+- general group of ima by each category sport
+	- add user to these groups in register
