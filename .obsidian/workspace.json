@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sishemi/daily/Untitled.md",
+                "file": "sishemi/daily/get stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sishemi/daily/Untitled.md",
+                "file": "sishemi/daily/get stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sishemi/daily/Untitled.md",
+                "file": "sishemi/daily/get stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sishemi/daily/Untitled.md",
+                "file": "sishemi/daily/get stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sishemi/daily/Untitled.md"
+                "file": "sishemi/daily/get stream.md"
               }
             }
           }
@@ -170,7 +170,7 @@
     "sishemi/ably.md",
     "assets/ably-kafka-connector-overview.webp",
     "sishemi/common data.md",
-    "sishemi/daily/Untitled.md",
+    "sishemi/daily/get stream.md",
     "bms/migration.md",
     "bms",
     "conflict-files-obsidian-git.md",
