@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf56b0ece42331b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sishemi/daily/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7fd66a62c857e98",
+  "active": "bf56b0ece42331b9",
   "lastOpenFiles": [
     "sishemi/R&D/rochet chat.md",
     "Language/English/Grammar/Future continuous.md",
