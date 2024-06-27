@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9befe15f3b97dd90",
+        "id": "0c0aedc8a946a893",
         "type": "tabs",
         "children": [
           {
-            "id": "e7fd66a62c857e98",
+            "id": "2f854ccf61cfb474",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "bf56b0ece42331b9",
+            "id": "f601415bf8676cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sishemi/daily/get stream.md",
+                "file": "sishemi/common data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 300
   },
   "right": {
     "id": "47f5e2aa3fcdda03",
@@ -160,32 +159,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf56b0ece42331b9",
+  "active": "2f854ccf61cfb474",
   "lastOpenFiles": [
-    "sishemi/R&D/rochet chat.md",
-    "Language/English/Grammar/Future continuous.md",
-    "sishemi/R&D",
-    "Language/English/Grammar/Future perfect.md",
-    "Language/English/Grammar/The future degrees of certainty.md",
-    "sishemi/ably.md",
-    "assets/ably-kafka-connector-overview.webp",
     "sishemi/common data.md",
     "sishemi/daily/get stream.md",
+    "sishemi/daily/admin panel.md",
+    "sishemi/ably.md",
+    "sishemi/R&D/rochet chat.md",
+    "sishemi/R&D",
     "bms/migration.md",
     "bms",
-    "conflict-files-obsidian-git.md",
+    "assets/ably-kafka-connector-overview.webp",
+    "Language/English/Grammar/Future perfect.md",
+    "Language/English/Grammar/Future continuous.md",
     "sishemi/edit user profile.md",
-    "sishemi/daily/under age.md",
-    "sishemi/daily/2024/06/19.md",
-    ",gitignore",
-    "sishemi/daily/admin panel.md",
     "sishemi/share collection.md",
-    "sishemi/daily/2024/06/17.md",
-    "sishemi/daily/2024/06/14.md",
-    "sishemi/daily/2024/06/13.md",
-    "sishemi/daily/2024/06/12.md",
+    "sishemi/daily/2024/06/19.md",
     "sishemi/daily/2024/06/06.md",
+    "sishemi/daily/2024/06/12.md",
+    "sishemi/daily/2024/06/13.md",
+    "sishemi/daily/2024/06/14.md",
+    "sishemi/daily/2024/06/17.md",
+    "sishemi/daily/under age.md",
     "sishemi/daily/2024/07.md",
+    "Language/English/Grammar/The future degrees of certainty.md",
     "sishemi/daily/2024/06",
     "sishemi/daily/2024",
     "sishemi/daily",
@@ -198,12 +195,14 @@
     "assets/builder-img.png",
     "patterns/Creational Design Patterns/Untitled.md",
     "patterns/Creational Design Patterns/singleton.md",
+    "patterns/Creational Design Patterns/Prototype.md",
     "assets/prototype-img.png",
     "assets/factory-method-img.png",
     "assets/factory-method-img.png",
     "assets",
     "patterns/Creational Design Patterns",
     "daily notes/2024/05",
+    "daily notes/2024/03",
     "Untitled.canvas"
   ]
 }
