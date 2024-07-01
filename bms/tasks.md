@@ -1,3 +1,4 @@
 - [-] return balance in withdraw (cashout)
-- [ ] 
+- [ ] add units in get extra cost
+- [ ] fix typo error in extra cost
 - [-] update default picture url
