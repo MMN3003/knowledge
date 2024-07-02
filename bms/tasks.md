@@ -4,3 +4,5 @@
 - [-] update default picture url
 - [ ] bank gateway
 - [-] add units in buildings
+
+39
