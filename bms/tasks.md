@@ -3,3 +3,4 @@
 - [-] fix typo error in extra cost
 - [-] update default picture url
 - [ ] bank gateway
+- [-] add units in buildings
