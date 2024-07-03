@@ -1,0 +1,4 @@
+- ban user
+	- user state ban
+	- deactivate sendbird account
+- 
