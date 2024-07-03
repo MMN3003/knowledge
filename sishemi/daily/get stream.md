@@ -21,7 +21,9 @@ first step => auth 5 times
 - ban user
 	- deactivate user in `getstream` (maybe leave all groups and channels )
 	- change user status to banned
-- unban user
+- activate banned user
+	- activate user in `getstream` (maybe join all channels and groups again)
+	- change user status to active
 - create group and channel(flash) 
 	- channel public/private
 		- in public channel every team user must added to channel
