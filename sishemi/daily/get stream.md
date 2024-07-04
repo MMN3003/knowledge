@@ -6,6 +6,7 @@ team or organization is
 group is bi directional many to many
 
 first step => auth 5 times
+- '/oauth/refresh-token'
 
 - in user register => create user in get stream 
 	- user id
