@@ -9,7 +9,12 @@ first step => auth 5 times
 - @Post('/oauth/refresh-token')
 - @Post('/oauth/token')
 
-
+- registery
+	- mobile mifreste
+	- verify otp
+	- set information user client
+- update user
+	- patch profile update
 
 - in user register => create user in get stream 
 	- user id
