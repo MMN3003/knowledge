@@ -9,6 +9,8 @@ first step => auth 5 times
 - @Post('/oauth/refresh-token')
 - @Post('/oauth/token')
 
+
+
 - in user register => create user in get stream 
 	- user id
 	- nickname => username
