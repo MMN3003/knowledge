@@ -5,5 +5,5 @@
 - [ ] bank gateway
 - [-] add units in buildings
 - [-] change zil.ink to https://smarthomeapp.ir/link/
-- [ ] 
+- [-] send sms to saken if he is not owner
 
