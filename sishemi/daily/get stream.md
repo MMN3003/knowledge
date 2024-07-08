@@ -66,4 +66,8 @@ create falsh or group public
 	- add every one to members
 	- then add admins to moderators after create 
 as admin or coleader 
-	- admin and coleader have to be in 
+	- creator admin of team has to be in every channels and group of a team
+	- creator admin of team can not remove him self from channels and group of a team
+
+
+direct => channel message type only those two of them must be owner 
