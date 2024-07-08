@@ -54,3 +54,16 @@ first step => auth 5 times
 - general group of ima by each category sport
 	- add user to these groups in register as member
 		- queue
+
+
+
+
+
+
+
+
+create falsh or group public
+	- add every one to members
+	- then add admins to moderators after create 
+as admin or coleader 
+	- admin and coleader have to be in 
