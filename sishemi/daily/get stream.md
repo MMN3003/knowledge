@@ -27,18 +27,19 @@ first step => auth 5 times
 	- avatar
 	- full name =>
 	- username
-- ban user
-	- deactivate user in `getstream` (maybe leave all groups and channels )
-	- change user status to banned
-- activate banned user
-	- activate user in `getstream` (maybe join all channels and groups again)
-	- change user status to active
 - create group and channel(flash) 
 	- channel public/private
 		- in public channel every team user must added to channel
 		- every one who join the team will join to public channels
 		- in creating flash add users by flash role except admins and moderators
 	- admin(co-leader) that added by owner can create flash or group
+- ban user
+	- deactivate user in `getstream` (maybe leave all groups and channels )
+	- change user status to banned
+- activate banned user
+	- activate user in `getstream` (maybe join all channels and groups again)
+	- change user status to active
+
 - edit flash and group
 	- add or remove admin
 	- add or remove picture
