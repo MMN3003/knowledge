@@ -9,6 +9,10 @@ first step => auth 5 times
 - @Post('/oauth/refresh-token')
 - @Post('/oauth/token')
 
+
+
+- get list of team admins that are not admin channel
+- 
 - registery
 	- mobile mifreste
 	- verify otp
