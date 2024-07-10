@@ -15,7 +15,10 @@ first step => auth 5 times
 	- set information user client
 - update user
 	- patch profile update
-
+-  check category of sport list change to array of id in create channel
+- join  leave to getstream channel
+- add or remove moderator or admin
+- 
 - in user register => create user in get stream 
 	- user id
 	- nickname => username
