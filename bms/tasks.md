@@ -7,4 +7,6 @@
 - [-] change zil.ink to https://smarthomeapp.ir/link/
 - [-] send sms to saken if he is not owner
 - [-] unable to remove building when there is a paid bill in building
-- [ ] fix
+- [ ] fix returned error message to readable error
+- [ ] add api to return services by city
+- [ ] add search api to return services by city
