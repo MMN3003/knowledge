@@ -78,3 +78,10 @@ as admin or coleader
 
 
 direct => channel message type only those two of them must be owner 
+
+
+
+
+
+----------------------------------------
+transfer all data from send bird to getstream
