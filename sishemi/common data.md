@@ -26,10 +26,11 @@ beta chat
 | 668d1b44088d0bbdb3669494 | +989154276898 | member      | active | U2FsdGVkX1+qM4NQU65QhIKRx+gyXn/NGp7Iv0fxlJMQ0lFTW6M1Z4LRQCE5a63KAkmtqfOmi2ZAM2vG1/dVbmHf9UZKd2CbxpTFiY1ZssNCEz4RFczQEHS7Wh7xGvbkBVmb3bBhdDOtaDYylTw5pPEa2ZEiwl0piT5IGPKhMdPJwW8eP3GHVEpVrlu0xUbTyH/k7uRVA2jYWlEcpW/DkHpzDts6jZNrGu27qYqwPEoivza7hRH5lOs/86X64rCXSm/B2ZTxwoaGGMQXOcdUdSwk5Rl1ZJx4kwUtoHiisQIRgJxPvhMgp04KIh80kO2Qa/dNAKSJz8mqfMCS0Iw4DLYUxcet245PxcslzjWbKgyMi3+Jv+XhxesVIUBlOjlC2NUrefCTuUNmxT+hvBt73Q==     |
 | 668d1be4088d0bbdb36694bd | +989214761431 | super admin | active | U2FsdGVkX1/BdqE9SvBdXg4mH3/cHCi/Z874qOxBr0/GZd/DJ3SGXSYz685zEF3VLoxVtpyaSI/E/mjKRmLsglUPQPvg5mqjcWq9HKnwfHwkZ21NyZck6JbBqaFUU9SATj19ZZSOlNtRPm3ItBWoUKb5bMmzsX7zQHRJI/dwfEhrLQLK7+/jc1bot6cNMk2FmyuNKsnuQezi4aP/irYi0yh1XrVKh+14q+VUoVEipBzK7SZ7qRVWCe+/omAsBJyIdmuARsK5bWzVXSIyAnskwqC517DEVE3SdgW1yEMh8w/EB6xBJ2aAkeK8nBDjKCJwvuD8ig0CukWvCdFa1+HV6Cu+KpLCSZenEqcgnvoRlj3NaT1yNiO+GCmsMbxlzeD7ITD5N4C2SND6fyKVYWzbkA==     |
 
-| team id                      | owner                    | admins                   |
-| ---------------------------- | ------------------------ | ------------------------ |
-| 668d3964a9611a453b67838e<br> | 668d1ad8088d0bbdb3669425 | 668d1ad8088d0bbdb3669425 |
-|                              |                          | 668d1b01088d0bbdb366944a |
+| team id                      | owner                    | admins                   | member                   |
+| ---------------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 668d3964a9611a453b67838e<br> | 668d1ad8088d0bbdb3669425 | 668d1ad8088d0bbdb3669425 |                          |
+|                              |                          | 668d1b01088d0bbdb366944a |                          |
+| 6690e04fd8e085807a0b647d     | 668d1ad8088d0bbdb3669425 | 668d1ad8088d0bbdb3669425 | 668d1b01088d0bbdb366944a |
 
 
 | category sport id            |     |
