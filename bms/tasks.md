@@ -11,10 +11,28 @@
 - [ ] add api to return services by city
 - [ ] add search api to return services by city
 - [ ] table services 
+	- [ ] id
 	- [ ] name 
 	- [ ] image
 	- [ ] desc
-	- [ ] cate
+	- [ ] category id
+	- [ ] list of tags
+- [ ] service properties
+	- [ ] id
+	- [ ] name
+	- [ ] label
+	- [ ] type
+	- [ ] order
+	- [ ] page number
+	- [ ] image
+	- [ ] desc
+	- [ ] list validation
+	- [ ] 
+- [ ] dynamic validation
+	- [ ] id
+	- [ ] key
+	- [ ] desc
+	- [ ] ??
 - [ ] table tag
 	- [ ] id
 	- [ ] fa name
