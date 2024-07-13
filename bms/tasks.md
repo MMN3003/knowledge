@@ -13,11 +13,12 @@
 - [ ] table services 
 	- [ ] id
 	- [ ] name 
+	- [ ] label = > search
 	- [ ] image
 	- [ ] desc
 	- [ ] category id
 	- [ ] list of tags
-- [ ] service properties
+- [ ] table service properties
 	- [ ] id
 	- [ ] name
 	- [ ] label
@@ -30,11 +31,18 @@
 	- [ ] list id null able
 	- [ ] defaul value -> array string
 	- [x] diabled value- > array string
-- [ ] properties dynamic list
+- [ ] table properties dynamic list
 	- [ ] id 
 	- [ ] name
 	- [ ] label
-- [ ] dynamic validation
+	- [ ] desc
+	- [ ] list of properties dynamic item
+- [ ] table properties dynamic item
+	- [ ] id
+	- [ ] key
+	- [ ] label
+	- [ ] desc
+- [ ] table dynamic validation
 	- [ ] id
 	- [ ] key
 	- [ ] desc
@@ -43,10 +51,11 @@
 	- [ ] id
 	- [ ] name
 	- [ ] label
-	- [ ] 
-- [ ] category
+- [ ] table category
 	- [ ] id
 	- [ ] name
-	- [ ] label
+	- [ ] label = > search
+	- [ ] desc
 	- [ ] image
-	- [ ] 
+	- [ ] parent list id
+	- [ ] order
