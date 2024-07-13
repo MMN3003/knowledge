@@ -27,7 +27,13 @@
 	- [ ] image
 	- [ ] desc
 	- [ ] list validation
-	- [ ] 
+	- [ ] list id null able
+	- [ ] defaul value -> array string
+	- [x] diabled value- > array string
+- [ ] properties dynamic list
+	- [ ] id 
+	- [ ] name
+	- [ ] label
 - [ ] dynamic validation
 	- [ ] id
 	- [ ] key
@@ -35,7 +41,12 @@
 	- [ ] ??
 - [ ] table tag
 	- [ ] id
-	- [ ] fa name
-	- [ ] en name
+	- [ ] name
+	- [ ] label
 	- [ ] 
-- [ ] 
+- [ ] category
+	- [ ] id
+	- [ ] name
+	- [ ] label
+	- [ ] image
+	- [ ] 
