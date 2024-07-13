@@ -14,5 +14,10 @@
 	- [ ] name 
 	- [ ] image
 	- [ ] desc
+	- [ ] cate
+- [ ] table tag
+	- [ ] id
+	- [ ] fa name
+	- [ ] en name
 	- [ ] 
 - [ ] 
