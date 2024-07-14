@@ -11,6 +11,11 @@ first step => auth 5 times
 
 
 
+
+
+
+
+
 - get list of team admins that are not admin channel
 - 
 - registery
