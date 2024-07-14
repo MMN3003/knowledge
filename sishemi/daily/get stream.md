@@ -12,7 +12,10 @@ first step => auth 5 times
 
 
 
-
+- block and unblock later
+- dont send them fcm to all admin leave an other admins
+- sort of teams by user role in get teams
+- delete account move from client to admins
 
 
 
