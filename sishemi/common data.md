@@ -36,7 +36,7 @@ beta chat
 | 6690ff4fbc5ae4fe75af9bb7     | 668d1ad8088d0bbdb3669425 | 668d1ad8088d0bbdb3669425 |                          |
 |                              |                          |                          |                          |
 | ~~66940d89a4007faefd6b1b40~~ | 668d1b01088d0bbdb366944a | 668d1b01088d0bbdb366944a |                          |
-| 66940fd2a4007faefd6b1ba9     | 668d1b2a088d0bbdb366946f | 668d1b2a088d0bbdb366946f |                          |
+| ~~66940fd2a4007faefd6b1ba9~~ | 668d1b2a088d0bbdb366946f | 668d1b2a088d0bbdb366946f |                          |
 
 
 | category sport id            |     |
@@ -61,5 +61,5 @@ beta chat
 | ~~66941016a4007faefd6b1bcb~~ | channel | 66940fd2a4007faefd6b1ba9     | 668d1b2a088d0bbdb366946f |                          |
 | ~~66941095a4007faefd6b1bde~~ | group   | 66940fd2a4007faefd6b1ba9     | 668d1b2a088d0bbdb366946f |                          |
 |                              |         |                              |                          |                          |
-| 66941197a4007faefd6b1c0f     | group   | 66940fd2a4007faefd6b1ba9     |                          |                          |
-| 669411c2a4007faefd6b1c22     | channel | 66940fd2a4007faefd6b1ba9     |                          |                          |
+| ~~66941197a4007faefd6b1c0f~~ | group   | ~~66940fd2a4007faefd6b1ba9~~ |                          |                          |
+| ~~669411c2a4007faefd6b1c22~~ | channel | ~~66940fd2a4007faefd6b1ba9~~ |                          |                          |
