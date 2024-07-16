@@ -26,7 +26,7 @@ beta chat
 | ~~668d1b44088d0bbdb3669494~~ | +989154276898 | member      | active | U2FsdGVkX1+qM4NQU65QhIKRx+gyXn/NGp7Iv0fxlJMQ0lFTW6M1Z4LRQCE5a63KAkmtqfOmi2ZAM2vG1/dVbmHf9UZKd2CbxpTFiY1ZssNCEz4RFczQEHS7Wh7xGvbkBVmb3bBhdDOtaDYylTw5pPEa2ZEiwl0piT5IGPKhMdPJwW8eP3GHVEpVrlu0xUbTyH/k7uRVA2jYWlEcpW/DkHpzDts6jZNrGu27qYqwPEoivza7hRH5lOs/86X64rCXSm/B2ZTxwoaGGMQXOcdUdSwk5Rl1ZJx4kwUtoHiisQIRgJxPvhMgp04KIh80kO2Qa/dNAKSJz8mqfMCS0Iw4DLYUxcet245PxcslzjWbKgyMi3+Jv+XhxesVIUBlOjlC2NUrefCTuUNmxT+hvBt73Q==     |
 | 668d1be4088d0bbdb36694bd     | +989214761431 | super admin | active | U2FsdGVkX1/BdqE9SvBdXg4mH3/cHCi/Z874qOxBr0/GZd/DJ3SGXSYz685zEF3VLoxVtpyaSI/E/mjKRmLsglUPQPvg5mqjcWq9HKnwfHwkZ21NyZck6JbBqaFUU9SATj19ZZSOlNtRPm3ItBWoUKb5bMmzsX7zQHRJI/dwfEhrLQLK7+/jc1bot6cNMk2FmyuNKsnuQezi4aP/irYi0yh1XrVKh+14q+VUoVEipBzK7SZ7qRVWCe+/omAsBJyIdmuARsK5bWzVXSIyAnskwqC517DEVE3SdgW1yEMh8w/EB6xBJ2aAkeK8nBDjKCJwvuD8ig0CukWvCdFa1+HV6Cu+KpLCSZenEqcgnvoRlj3NaT1yNiO+GCmsMbxlzeD7ITD5N4C2SND6fyKVYWzbkA==     |
 |                              |               |             |        |                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 6694ebb8c4fa37be8eb8c133     | +989354358598 | member      | active | U2FsdGVkX1+GtkwpZV8YGTA3zGlq8e3uxV0DrO44/8VZpE7Y5dGTHt5VhbOiiq2oK8/RW4bSun5p++sUitM2d7QRzodXFcIsUe49yW/AKO0QgyqqvIQo4StsAGHN8C3zlzeWbXX/XTxWeKsLhw4WlpcfphLa1AXN76RlOzgQ+hY0h40B86m6iNf5sMqUXQmC1eA4JgqjJtgCEboCTkU/jG+FTZra1Y+RXPsB92ifSELLvwPZ/VjxNWZR1SmgeEl2b2ZGDZMwixQfZhE8GO2pa1MR2pkaKPuvtV95TFOsZtXy5kqMnWj8SXm2KD5kcn5S8vfudu4Kq0+KiFr8dDGyMJoUlOIX5geTGzDnMtcnXrST9440Tn3TtozBx8Cr5AvJWqf4mRPVx41EEXLbyD3M3g==     |
+| 6694ebb8c4fa37be8eb8c133     | +989354358598 | admin       | active | U2FsdGVkX1+GtkwpZV8YGTA3zGlq8e3uxV0DrO44/8VZpE7Y5dGTHt5VhbOiiq2oK8/RW4bSun5p++sUitM2d7QRzodXFcIsUe49yW/AKO0QgyqqvIQo4StsAGHN8C3zlzeWbXX/XTxWeKsLhw4WlpcfphLa1AXN76RlOzgQ+hY0h40B86m6iNf5sMqUXQmC1eA4JgqjJtgCEboCTkU/jG+FTZra1Y+RXPsB92ifSELLvwPZ/VjxNWZR1SmgeEl2b2ZGDZMwixQfZhE8GO2pa1MR2pkaKPuvtV95TFOsZtXy5kqMnWj8SXm2KD5kcn5S8vfudu4Kq0+KiFr8dDGyMJoUlOIX5geTGzDnMtcnXrST9440Tn3TtozBx8Cr5AvJWqf4mRPVx41EEXLbyD3M3g==     |
 
 | team id                      | owner                    | admins                   | member                   |
 | ---------------------------- | ------------------------ | ------------------------ | ------------------------ |
@@ -41,6 +41,9 @@ beta chat
 | ~~66940fd2a4007faefd6b1ba9~~ | 668d1b2a088d0bbdb366946f | 668d1b2a088d0bbdb366946f |                          |
 |                              |                          |                          |                          |
 | 66953941e89a5e874b3081eb     | 6694ebb8c4fa37be8eb8c133 | 6694ebb8c4fa37be8eb8c133 |                          |
+|                              |                          |                          |                          |
+| 66963394c091aea7f179dca6     | 6694ebb8c4fa37be8eb8c133 | 6694ebb8c4fa37be8eb8c133 |                          |
+|                              |                          | 668d1b2a088d0bbdb366946f |                          |
 
 
 | category sport id            |     |
