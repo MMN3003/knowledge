@@ -40,7 +40,7 @@ beta chat
 | ~~66940d89a4007faefd6b1b40~~ | 668d1b01088d0bbdb366944a | 668d1b01088d0bbdb366944a |                          |
 | ~~66940fd2a4007faefd6b1ba9~~ | 668d1b2a088d0bbdb366946f | 668d1b2a088d0bbdb366946f |                          |
 |                              |                          |                          |                          |
-| 66953941e89a5e874b3081eb     |                          |                          |                          |
+| 66953941e89a5e874b3081eb     | 6694ebb8c4fa37be8eb8c133 | 6694ebb8c4fa37be8eb8c133 |                          |
 
 
 | category sport id            |     |
