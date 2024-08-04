@@ -27,7 +27,8 @@
 	3. request json
 	4. response json
 	5. user
-	6. price
+	6. product id
+	7. price
 	8. create date
 	9. is deleted
 	10. update date
