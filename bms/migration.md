@@ -1,12 +1,12 @@
 create migration in walrus.apart.data project
 ```
-add-Migration extraCostUnits -context ApplicationDbContext
+EntityFrameworkCore\Add-Migration extraCostUnits -context ApplicationDbContext
 
 ```
 
 update database
 ```
-update-database -context ApplicationDbContext
+EntityFrameworkCore\update-database -context ApplicationDbContext
 ```
 
 
