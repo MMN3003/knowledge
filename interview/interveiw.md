@@ -48,3 +48,17 @@ I am excited about the opportunity to bring my diverse skill set and problem-sol
 4. In a previous role, I successfully implemented an event-driven system using Kafka, which enhanced the scalability and responsiveness of the application architecture.
 
 5. I am excited about the opportunity to bring my diverse skill set and problem-solving mindset to your team and contribute to the success of your projects
+
+--------------------------------
+
+1. Hi, I'm Mohsen. I am exited to share my professional journey with you. I have over 6 years of experience as software engineer and I have bachelor's degree in Computer Science . I love tackling complex challenges and continuously expanding my skill set.
+
+2. Recently, I successfully designed and implemented a sophisticated system to organize the payment processes for stockkeepers, accountants, and drivers.
+    
+3. The system I developed automates the creation of invoices for each driver's deliveries, processes these payments automatically, and synchronizes all steps with the accounting application. This reduced the workload for bookkeepers, who now only need to monitor the process rather than manually register, update,pay and manage invoices. As a result, payment processing time was reduced from three days to just a few hours.
+
+4. In addition to my programming skills, I have a strong understanding of  infrastructure tools like CI/CD, Docker, Kubernetes, Terraform, and ELK stack. They help make sure everything runs smoothly when we're building and deploying software.
+
+5. In a previous role, I successfully implemented an event-driven system using Kafka, which enhanced the scalability and responsiveness of the application architecture.
+
+6. I am excited about the opportunity to bring my diverse skill set and problem-solving mindset to your team and contribute to the success of your projects
