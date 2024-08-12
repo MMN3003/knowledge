@@ -5,4 +5,7 @@
 	- [x] delete all team events
 	- [x] delete all user event
 	- [x] delete event
+	- [x] delete participant from event
+	- [x] delete all recurring event
+	- [x] destroy event
 	- [ ] 
