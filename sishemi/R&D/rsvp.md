@@ -9,4 +9,5 @@
 	- [-] delete all recurring event
 	- [-] destroy event
 	- [x] restore event
-	- [ ] 
+
+
