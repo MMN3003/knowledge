@@ -15,4 +15,5 @@ event
 1. recurring options
 2. start date or end date 
 3. location object
-4. 
+4. original_timezone
+5. 
