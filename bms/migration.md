@@ -6,11 +6,13 @@ EntityFrameworkCore\Add-Migration extraCostUnits -context ApplicationDbContext
 
 update database
 ```
+$env:ASPNETCORE_ENVIRONMENT="Development"
 EntityFrameworkCore\update-database -context ApplicationDbContext
 ```
 update production  database
 ```
-EntityFrameworkCore\update-database -context ApplicationDbContext --environment Production
+$env:ASPNETCORE_ENVIRONMENT="Production"
+EntityFrameworkCore\update-database -context ApplicationDbContext
 ```
 
 
@@ -34,3 +36,10 @@ EntityFrameworkCore\update-database -context ApplicationDbContext --environment 
   "hasLobby": true,
   "usage": "commercial"
 }
+
+
+
+5.34.200.141:8172/msdeploy.axd
+Api
+WINDOWS-G2-SMAL\Administrator
+http://dev-api.itoook.ir:80/
