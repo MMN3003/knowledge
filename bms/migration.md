@@ -8,6 +8,10 @@ update database
 ```
 EntityFrameworkCore\update-database -context ApplicationDbContext
 ```
+update production  database
+```
+EntityFrameworkCore\update-database -context ApplicationDbContext --environment Production
+```
 
 
 {
