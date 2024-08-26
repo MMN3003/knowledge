@@ -14,6 +14,11 @@ update production  database
 $env:ASPNETCORE_ENVIRONMENT="Production"
 EntityFrameworkCore\update-database -context ApplicationDbContext
 ```
+update production  database
+```
+$env:ASPNETCORE_ENVIRONMENT="Production"
+EntityFrameworkCore\update-database -context ApplicationDbContext
+```
 
 
 {
