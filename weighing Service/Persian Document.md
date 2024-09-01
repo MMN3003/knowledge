@@ -234,9 +234,6 @@ public (float?, string) Get()
 
 این متد، وزن فعلی را برمی‌گرداند. اگر از زمان آخرین به‌روزرسانی بیشتر از مقدار `secondsLast` گذشته باشد، به جای وزن، `null` و یک پیام خطا برگردانده می‌شود. اگر داده معتبر باشد، وزن و پیام خطا `null` برمی‌گردد.
 
-Here is the Persian documentation for the `SettingController.cs` file in Markdown format:
-
-```markdown
 # مستندات کلاس SettingController
 
 کلاس **SettingController** در پروژه‌ی **WeighingService** مسئول مدیریت تنظیمات سیستم از طریق API است. این کلاس به کاربران امکان می‌دهد تا تنظیمات جاری را مشاهده و به‌روزرسانی کنند.
@@ -302,6 +299,3 @@ public IHttpActionResult Update(Setting updatedSetting)
 ```
 
 این متد برای به‌روزرسانی تنظیمات سیستم استفاده می‌شود. تنظیمات جدید که از طریق پارامتر `updatedSetting` دریافت می‌شوند، توسط `SettingService` ذخیره می‌شوند. در صورت موفقیت‌آمیز بودن عملیات، تنظیمات جدید به همراه کد وضعیت 200 (OK) بازگردانده می‌شود. در صورت بروز خطا، یک پیام خطا با کد خطای داخلی سرور برگردانده می‌شود.
-```
-
-این مستندات به شما کمک می‌کند تا با عملکرد کلاس `SettingController` و نحوه‌ی کارکرد آن در پروژه‌ی `WeighingService` آشنا شوید.
