@@ -1,5 +1,315 @@
 {
   "type": "message.new",
+  "cid": "messaging:66d577a350f03cac6b1561ca",
+  "channel_id": "66d577a350f03cac6b1561ca",
+  "channel_type": "messaging",
+  "message": {
+    "id": "66d5758550f03cac6b155e2a-814ae834-a887-40e6-935d-ae1eb6a83ca7",
+    "text": "Dndjjd",
+    "html": "<p>Dndjjd</p>\n",
+    "type": "regular",
+    "user": {
+      "id": "66d5758550f03cac6b155e2a",
+      "role": "user",
+      "created_at": "2024-09-02T08:24:07.933003Z",
+      "updated_at": "2024-09-02T08:26:22.796544Z",
+      "last_active": "2024-09-02T13:39:43.854226977Z",
+      "banned": false,
+      "online": true,
+      "username": "mohsget124",
+      "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+      "name": "mohs get test",
+      "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+      "metadata": {
+        "birthDate": "1997-12-01T00:00:00.000Z",
+        "blue_checkmark": false,
+        "category": "FAN",
+        "full_name": "mohs get test",
+        "state": "MEMBER"
+      }
+    },
+    "attachments": [],
+    "latest_reactions": [],
+    "own_reactions": [],
+    "reaction_counts": {},
+    "reaction_scores": {},
+    "reaction_groups": null,
+    "reply_count": 0,
+    "deleted_reply_count": 0,
+    "cid": "messaging:66d577a350f03cac6b1561ca",
+    "created_at": "2024-09-02T13:39:55.688959Z",
+    "updated_at": "2024-09-02T13:39:55.688959Z",
+    "shadowed": false,
+    "mentioned_users": [],
+    "silent": false,
+    "pinned": false,
+    "pinned_at": null,
+    "pinned_by": null,
+    "pin_expires": null
+  },
+  "channel": {
+    "id": "66d577a350f03cac6b1561ca",
+    "type": "messaging",
+    "cid": "messaging:66d577a350f03cac6b1561ca",
+    "last_message_at": "2024-09-02T13:39:55.688959Z",
+    "created_at": "2024-09-02T08:30:27.79736Z",
+    "updated_at": "2024-09-02T08:30:27.79736Z",
+    "created_by": {
+      "id": "66d5758550f03cac6b155e2a",
+      "role": "user",
+      "created_at": "2024-09-02T08:24:07.933003Z",
+      "updated_at": "2024-09-02T08:26:22.796544Z",
+      "last_active": "2024-09-02T13:39:43.854226977Z",
+      "banned": false,
+      "online": true,
+      "metadata": {
+        "birthDate": "1997-12-01T00:00:00.000Z",
+        "blue_checkmark": false,
+        "category": "FAN",
+        "full_name": "mohs get test",
+        "state": "MEMBER"
+      },
+      "username": "mohsget124",
+      "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+      "name": "mohs get test",
+      "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png"
+    },
+    "frozen": false,
+    "disabled": false,
+    "members": [
+      {
+        "user_id": "66d5758550f03cac6b155e2a",
+        "user": {
+          "id": "66d5758550f03cac6b155e2a",
+          "role": "user",
+          "created_at": "2024-09-02T08:24:07.933003Z",
+          "updated_at": "2024-09-02T08:26:22.796544Z",
+          "last_active": "2024-09-02T13:39:43.854226977Z",
+          "banned": false,
+          "online": true,
+          "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+          "name": "mohs get test",
+          "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+          "metadata": {
+            "birthDate": "1997-12-01T00:00:00.000Z",
+            "blue_checkmark": false,
+            "category": "FAN",
+            "full_name": "mohs get test",
+            "state": "MEMBER"
+          },
+          "username": "mohsget124"
+        },
+        "is_moderator": true,
+        "status": "member",
+        "created_at": "2024-09-02T08:30:27.928977Z",
+        "updated_at": "2024-09-02T08:30:28.085658Z",
+        "banned": false,
+        "shadow_banned": false,
+        "role": "owner",
+        "channel_role": "channel_moderator",
+        "notifications_muted": false
+      },
+      {
+        "user_id": "6694ebb8c4fa37be8eb8c133",
+        "user": {
+          "id": "6694ebb8c4fa37be8eb8c133",
+          "role": "user",
+          "created_at": "2024-07-15T10:25:38.978979Z",
+          "updated_at": "2024-07-15T14:58:18.838546Z",
+          "last_active": "2024-09-02T09:58:55.494516Z",
+          "banned": false,
+          "online": false,
+          "metadata": {
+            "birthDate": "1990-12-31T00:00:00.000Z",
+            "blue_checkmark": false,
+            "category": "FAN",
+            "full_name": "jac-935 bakhtiyari",
+            "state": "MEMBER"
+          },
+          "username": "jac-935",
+          "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/3.png",
+          "name": "jac-935 bakhtiyari"
+        },
+        "status": "member",
+        "created_at": "2024-09-02T10:05:34.743388Z",
+        "updated_at": "2024-09-02T10:05:34.743388Z",
+        "banned": false,
+        "shadow_banned": false,
+        "role": "member",
+        "channel_role": "flash_member",
+        "notifications_muted": false
+      }
+    ],
+    "member_count": 2,
+    "config": {
+      "created_at": "2024-06-26T13:46:51.906827Z",
+      "updated_at": "2024-06-26T13:53:56.385986Z",
+      "name": "messaging",
+      "typing_events": true,
+      "read_events": true,
+      "connect_events": true,
+      "search": true,
+      "reactions": true,
+      "replies": true,
+      "quotes": true,
+      "mutes": true,
+      "uploads": true,
+      "url_enrichment": true,
+      "custom_events": true,
+      "push_notifications": true,
+      "reminders": false,
+      "mark_messages_pending": false,
+      "polls": false,
+      "message_retention": "infinite",
+      "max_message_length": 5000,
+      "automod": "disabled",
+      "automod_behavior": "flag",
+      "blocklist_behavior": "flag",
+      "commands": [
+        {
+          "name": "giphy",
+          "description": "Post a random gif to the channel",
+          "args": "[text]",
+          "set": "fun_set"
+        }
+      ]
+    },
+    "custom": {
+      "community": {
+        "category_sport_ids": null,
+        "colors": [
+          "#FF4BF9",
+          "#F22CD5",
+          "#E60EB3"
+        ],
+        "community_id": "66d577a350f03cac6b1561ca",
+        "community_type": "CHANNEL",
+        "description": "xxxxx",
+        "is_general_category_sport": true,
+        "is_hidden": false,
+        "logo_url": null,
+        "title": "xxxx",
+        "type": "PUBLIC"
+      },
+      "team": {
+        "is_hidden": false,
+        "name": "xxxx",
+        "team_id": "66d577a350f03cac6b1561ba"
+      }
+    },
+    "name": "xxxx",
+    "image": null
+  },
+  "user": {
+    "id": "66d5758550f03cac6b155e2a",
+    "role": "user",
+    "created_at": "2024-09-02T08:24:07.933003Z",
+    "updated_at": "2024-09-02T08:26:22.796544Z",
+    "last_active": "2024-09-02T13:39:43.854226977Z",
+    "banned": false,
+    "online": true,
+    "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+    "metadata": {
+      "birthDate": "1997-12-01T00:00:00.000Z",
+      "blue_checkmark": false,
+      "category": "FAN",
+      "full_name": "mohs get test",
+      "state": "MEMBER"
+    },
+    "username": "mohsget124",
+    "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+    "name": "mohs get test"
+  },
+  "watcher_count": 1,
+  "created_at": "2024-09-02T13:39:55.705546299Z",
+  "members": [
+    {
+      "user_id": "66d5758550f03cac6b155e2a",
+      "user": {
+        "id": "66d5758550f03cac6b155e2a",
+        "role": "user",
+        "created_at": "2024-09-02T08:24:07.933003Z",
+        "updated_at": "2024-09-02T08:26:22.796544Z",
+        "last_active": "2024-09-02T13:39:43.854226977Z",
+        "banned": false,
+        "online": true,
+        "username": "mohsget124",
+        "metadata": {
+          "birthDate": "1997-12-01T00:00:00.000Z",
+          "blue_checkmark": false,
+          "category": "FAN",
+          "full_name": "mohs get test",
+          "state": "MEMBER"
+        },
+        "channel_unread_count": 0,
+        "channel_last_read_at": "2024-09-02T13:39:52.612265216Z",
+        "unread_thread_messages": 0,
+        "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+        "name": "mohs get test",
+        "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+        "total_unread_count": 0,
+        "unread_channels": 0,
+        "unread_count": 0,
+        "unread_threads": 0
+      },
+      "is_moderator": true,
+      "status": "member",
+      "created_at": "2024-09-02T08:30:27.928977Z",
+      "updated_at": "2024-09-02T08:30:28.085658Z",
+      "banned": false,
+      "shadow_banned": false,
+      "role": "owner",
+      "channel_role": "channel_moderator",
+      "notifications_muted": false
+    },
+    {
+      "user_id": "6694ebb8c4fa37be8eb8c133",
+      "user": {
+        "id": "6694ebb8c4fa37be8eb8c133",
+        "role": "user",
+        "created_at": "2024-07-15T10:25:38.978979Z",
+        "updated_at": "2024-07-15T14:58:18.838546Z",
+        "last_active": "2024-09-02T09:58:55.494516Z",
+        "banned": false,
+        "online": false,
+        "channel_last_read_at": "2024-09-02T09:49:15.334964992Z",
+        "total_unread_count": 6,
+        "unread_channels": 2,
+        "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/3.png",
+        "name": "jac-935 bakhtiyari",
+        "metadata": {
+          "birthDate": "1990-12-31T00:00:00.000Z",
+          "blue_checkmark": false,
+          "category": "FAN",
+          "full_name": "jac-935 bakhtiyari",
+          "state": "MEMBER"
+        },
+        "channel_unread_count": 3,
+        "unread_count": 6,
+        "unread_threads": 2,
+        "unread_thread_messages": 2,
+        "username": "jac-935"
+      },
+      "status": "member",
+      "created_at": "2024-09-02T10:05:34.743388Z",
+      "updated_at": "2024-09-02T10:05:34.743388Z",
+      "banned": false,
+      "shadow_banned": false,
+      "role": "member",
+      "channel_role": "flash_member",
+      "notifications_muted": false
+    }
+  ],
+  "message_id": "66d5758550f03cac6b155e2a-814ae834-a887-40e6-935d-ae1eb6a83ca7",
+  "request_info": {
+    "type": "client",
+    "ip": "52.47.155.170",
+    "user_agent": "okhttp/4.11.0",
+    "sdk": "stream-chat-android-compose-6.4.0|os=Android 14|api_version=34|device_vendor=Xiaomi|device_model=21081111RG|offline_enabled=true"
+  }
+}
+{
+  "type": "message.new",
   "cid": "messaging:members-66c5ee9f50f03cac6b149248",
   "channel_id": "members-66c5ee9f50f03cac6b149248",
   "channel_type": "messaging",
