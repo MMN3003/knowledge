@@ -1,0 +1,81 @@
+{
+  "type": "message.flagged",
+  "cid": "messaging:66968a0358113c4028bcac64",
+  "channel_id": "66968a0358113c4028bcac64",
+  "channel_type": "messaging",
+  "message": {
+    "id": "6694ef7cc4fa37be8eb8c15c-f0bd0b6d-ad72-4eaa-a22b-9c271dd5d4a1",
+    "text": "test g",
+    "html": "<p>test g</p>\n",
+    "type": "regular",
+    "user": {
+      "id": "6694ef7cc4fa37be8eb8c15c",
+      "role": "user",
+      "created_at": "2024-07-18T13:56:04.211786Z",
+      "updated_at": "2024-07-18T13:56:48.106716Z",
+      "last_active": "2024-09-02T09:02:01.689786937Z",
+      "banned": false,
+      "online": false,
+      "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+      "name": "jac-937 Bakhtiyari",
+      "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+      "metadata": {
+        "birthDate": "1990-12-31T00:00:00.000Z",
+        "blue_checkmark": false,
+        "category": "FAN",
+        "full_name": "jac-937 Bakhtiyari",
+        "state": "MEMBER"
+      },
+      "username": "jac-937"
+    },
+    "attachments": [],
+    "latest_reactions": [],
+    "own_reactions": [],
+    "reaction_counts": {},
+    "reaction_scores": {},
+    "reaction_groups": null,
+    "reply_count": 0,
+    "deleted_reply_count": 0,
+    "cid": "messaging:66968a0358113c4028bcac64",
+    "created_at": "2024-07-25T12:59:01.404813Z",
+    "updated_at": "2024-07-25T12:59:01.404813Z",
+    "shadowed": false,
+    "mentioned_users": [],
+    "silent": false,
+    "pinned": false,
+    "pinned_at": null,
+    "pinned_by": null,
+    "pin_expires": null
+  },
+  "user": {
+    "id": "66d5758550f03cac6b155e2a",
+    "role": "user",
+    "created_at": "2024-09-02T08:24:07.933003Z",
+    "updated_at": "2024-09-02T08:26:22.796544Z",
+    "last_active": "2024-09-02T09:50:08.171262454Z",
+    "banned": false,
+    "online": true,
+    "image": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+    "metadata": {
+      "birthDate": "1997-12-01T00:00:00.000Z",
+      "blue_checkmark": false,
+      "category": "FAN",
+      "full_name": "mohs get test",
+      "state": "MEMBER"
+    },
+    "username": "mohsget124",
+    "profile_url": "https://d2wn6f04lhvy4g.cloudfront.net/users/assets/10.png",
+    "name": "mohs get test"
+  },
+  "created_at": "2024-09-02T09:51:35.262518921Z",
+  "custom": {},
+  "total_flags": 1,
+  "members": [],
+  "message_id": "6694ef7cc4fa37be8eb8c15c-f0bd0b6d-ad72-4eaa-a22b-9c271dd5d4a1",
+  "request_info": {
+    "type": "client",
+    "ip": "15.160.183.157",
+    "user_agent": "okhttp/4.11.0",
+    "sdk": "stream-chat-android-compose-6.4.0|os=Android 14|api_version=34|device_vendor=Xiaomi|device_model=21081111RG|offline_enabled=true"
+  }
+}
