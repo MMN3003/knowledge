@@ -79,6 +79,7 @@
     "sdk": "stream-chat-android-compose-6.4.0|os=Android 14|api_version=34|device_vendor=Xiaomi|device_model=21081111RG|offline_enabled=true"
   }
 }
+
 ----------------------------
 # image
 {
