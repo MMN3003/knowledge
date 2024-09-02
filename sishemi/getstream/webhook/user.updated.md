@@ -1,15 +1,15 @@
-|   |   |
-|---|---|
-|accept-encoding|`gzip`|
-|x-webhook-id|`deedf2ba-5323-494f-ab16-57b003e7c3b6`|
-|x-webhook-attempt|`1`|
-|x-signature|`c232eaf36ccecf45e50834a8a3c6bc6946c9a9a53c84d7bdb1385e4bbb716204`|
-|x-api-key|`qht7b53pmmej`|
-|target-agent|`Stream Webhook Client`|
-|content-type|`application/json`|
-|content-length|`296`|
-|user-agent|`Go-http-client/1.1`|
-|host|`webhook.site`|
+|                   |                                                                    |
+| ----------------- | ------------------------------------------------------------------ |
+| accept-encoding   | `gzip`                                                             |
+| x-webhook-id      | `deedf2ba-5323-494f-ab16-57b003e7c3b6`                             |
+| x-webhook-attempt | `1`                                                                |
+| x-signature       | `c232eaf36ccecf45e50834a8a3c6bc6946c9a9a53c84d7bdb1385e4bbb716204` |
+| x-api-key         | `qht7b53pmmej`                                                     |
+| target-agent      | `Stream Webhook Client`                                            |
+| content-type      | `application/json`                                                 |
+| content-length    | `296`                                                              |
+| user-agent        | `Go-http-client/1.1`                                               |
+| host              | `webhook.site`                                                     |
 {
   "type": "user.updated",
   "user": {
