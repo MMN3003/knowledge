@@ -1,0 +1,21 @@
+-  report of 
+	- users 
+	- message is different by user totally
+- middle product
+	- active fence
+		- message that we send to send bird it will check 
+			- message
+			- image
+			- video
+		- there is some channels to exclude from active fence check like gun games. by their own reponsibility.
+		- there is a part in admin panel to exclude active clubs from active fence check.
+- ban user or delete message log this data in some collection 
+	- what was the message 
+	- when message deleted
+- kid webservice
+
+inprogress
+- send all message and media to active fence only under rage 
+- older persons wont need to send message only media to active fence
+- send meta data to send bird and get from it to check user is older than 16 years or not
+- 
