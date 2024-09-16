@@ -1,5 +1,14 @@
-- [ ] get skill list user
-- [ ] get my kyc user
-- [ ] create kyc user
-- [ ] update kyc user
-- [ ] 
+- [x] get skill list user
+- [x] get my expert kyc user
+- [x] create expert kyc user
+- [x] update expert kyc user
+- [x] upload file user
+- [-] change expert kyc staus admin
+	- [ ] add expert role to user after accept
+- [-] get list of kyc admin
+- [-] get expert kyc by id admin
+- [ ] add skill admin
+- [ ] update skill admin
+- [ ] list of user pagination
+- [ ] get user expert kyc by user id 
+- [ ] get user exoert kyc by kyc id
