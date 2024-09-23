@@ -4,7 +4,7 @@
 - [x] update expert kyc user
 - [x] upload file user
 - [-] change expert kyc staus admin
-	- [ ] add expert role to user after accept
+	- [ ] add expert role to user after accept test
 - [-] get list of kyc admin
 - [-] get expert kyc by id admin
 - [ ] add skill admin
