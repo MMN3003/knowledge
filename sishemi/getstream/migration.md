@@ -1,6 +1,6 @@
 1. turn of the server 14:25
 2. get server access 14:46
-3. get all sendbird messages
+3. get all sendbird messages 15:49
 4. run  script to create import file
 	1. update script to connect production database
 	2. upload all.zip file from local to server
@@ -17,6 +17,8 @@ scp all.zip root@46.101.244.180:/root
 	node index.js
 ```
 	4. after code finished  download output.json
-	5. 
-1. upload import file to  getstream
+	```bash
+	scp root@46.101.244.180:/root/all/output.json /Users/mohsen/output.json
+```
+1. upload import file to  getstream : 17:06
 2. 
