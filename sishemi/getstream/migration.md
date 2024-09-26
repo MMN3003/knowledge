@@ -21,4 +21,15 @@ scp all.zip root@46.101.244.180:/root
 	scp root@46.101.244.180:/root/all/output.json /Users/mohsen/output.json
 ```
 1. upload import file to  getstream : 17:06
-2. 
+
+
+
+
+- pooya
+	- env getstream
+	- channels id in suggestion
+- amin -sobhan
+	- new build with getstream key and secret
+- mohsen
+	- add flash-member
+	- add push notification
