@@ -10,7 +10,7 @@ scp all.zip root@46.101.244.180:/root
 	3. install packages
 	```bash
 	sudo apt update
-	sudo apt install unzip nodejs npm
+	sudo apt install unzip nodejs npm tmux
 	unzip all.zip
 	cd all
 	npm i
