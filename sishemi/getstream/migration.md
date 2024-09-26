@@ -14,6 +14,9 @@ scp all.zip root@46.101.244.180:/root
 	unzip all.zip
 	cd all
 	npm i
+	node index.js
 ```
+	4. after code finished  download output.json
+	5. 
 1. upload import file to  getstream
 2. 
