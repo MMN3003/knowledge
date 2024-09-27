@@ -34,9 +34,3 @@ scp all.zip root@46.101.244.180:/root
 	- add flash-member
 	- add push notification
 
-
-
-
-
-target_type
-target_id
