@@ -20,8 +20,8 @@ scp all.zip root@46.101.244.180:/root
 	```bash
 	scp root@46.101.244.180:/root/all/output.json /Users/mohsen/output.json
 ```
-1. upload import file to  getstream : 17:06
-2. 
+5. upload import file to  getstream : 17:06
+6. run after_import.js after import 
 
 
 
