@@ -1,1 +1,8 @@
-- [ ]  share event in 
+- [ ]  share event in app and like organization
+- [ ] add post with event calendar
+- [ ] entry price to  match in event
+- [ ] donate money to a team
+	- [ ] donate list
+	- [ ] how to withdraw
+	- [ ] where to set 
+- [ ] 
