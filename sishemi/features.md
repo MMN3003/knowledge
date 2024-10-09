@@ -8,4 +8,6 @@
 	- [ ] who can withdraw money
 - [ ] follow user 
 - [ ] create home feed from user followed or teams followed by user
-- [ ] search coach by name city sport category
+- [ ] search coach and team by name city sport category fan count, member count
+- [ ] add coach history and team honors
+- [ ] user profile like linkedin
