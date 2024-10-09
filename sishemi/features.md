@@ -15,7 +15,8 @@
 - [ ] show invite list for user 
 - [ ] do not allow/allow other fans to see rsvp result(maybe just number)
 - [ ] pin message like telegram
-- [ ] post only payed user ?? post what?
+- [ ] post only payed user like facebook post
 - [ ] create calendar event on day which selected
 - [ ] pull to refresh in organization update chat list
 - [ ] show user platform and payment type in admin user profile
+- [ ] notification messages
