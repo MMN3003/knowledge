@@ -7,4 +7,5 @@
 	- [ ] where to set withdrawal information
 	- [ ] who can withdraw money
 - [ ] follow user 
-- [ ] create home feed from user followed or teams fllo
+- [ ] create home feed from user followed or teams followed by user
+- [ ] search coach by name city sport category
