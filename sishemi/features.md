@@ -14,4 +14,8 @@
 - [ ] show calenders event of chat in chats like a message
 - [ ] show invite list for user 
 - [ ] do not allow/allow other fans to see rsvp result(maybe just number)
-- [ ] 
+- [ ] pin message like telegram
+- [ ] post only payed user ?? post what?
+- [ ] create calendar event on day which selected
+- [ ] pull to refresh in organization update chat list
+- [ ] show user platform and payment type in admin user profile
