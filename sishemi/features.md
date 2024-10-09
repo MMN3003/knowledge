@@ -6,4 +6,5 @@
 	- [ ] how to withdraw
 	- [ ] where to set withdrawal information
 	- [ ] who can withdraw money
-- [ ] 
+- [ ] follow user 
+- [ ] create home feed from user followed or teams fllo
