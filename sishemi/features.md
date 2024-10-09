@@ -4,5 +4,6 @@
 - [ ] donate money to a team
 	- [ ] donate list
 	- [ ] how to withdraw
-	- [ ] where to set 
+	- [ ] where to set withdrawal information
+	- [ ] who can withdraw money
 - [ ] 
