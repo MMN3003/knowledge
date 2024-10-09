@@ -11,3 +11,7 @@
 - [ ] search coach and team by name city sport category fan count, member count
 - [ ] add coach history and team honors
 - [ ] user profile like linkedin
+- [ ] show calenders event of chat in chats like a message
+- [ ] show invite list for user 
+- [ ] do not allow/allow other fans to see rsvp result(maybe just number)
+- [ ] 
