@@ -27,4 +27,5 @@
 ------------------------
 - [ ] payment and fund raising
 	- [ ] team funded site
+	- [ ] my camp payment provider
 	- [ ] 
