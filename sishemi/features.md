@@ -29,4 +29,6 @@
 	- [ ] team funded site
 	- [ ] my camp payment provider
 		- [ ] talk to reza => free with minimum detail with hard limit
-	- [ ] 
+	- [ ] mission hill 8 /11
+	- [ ] errors in system
+	- [ ] document
