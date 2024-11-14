@@ -28,4 +28,5 @@
 - [ ] payment and fund raising
 	- [ ] team funded site
 	- [ ] my camp payment provider
+		- [ ] talk to reza => free with minimum detail with hard limit
 	- [ ] 
