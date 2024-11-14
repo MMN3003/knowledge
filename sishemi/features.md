@@ -20,3 +20,11 @@
 - [ ] pull to refresh in organization update chat list
 - [ ] show user platform and payment type in admin user profile
 - [ ] notification messages
+
+
+
+
+------------------------
+- [ ] payment and fund raising
+	- [ ] team funded site
+	- [ ] 
