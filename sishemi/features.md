@@ -40,4 +40,48 @@
 	- [ ] webhook to send link with some information of user and organization to our server plus payment portal information(including portal link)
 	- [ ] api to get payment portal total balance or transactions with names or webhook to send us all transaction with user informaiton and portal information
 	- [ ] create redirect link for IMA user to create portal
-	- [ ] 
+Here is a draft outlining the requested features for the collaboration between IMA TEAM and My Camp:
+
+---
+
+**Collaboration Document between IMA TEAM and My Camp**
+
+**Purpose**: This document outlines the key features and integrations that IMA TEAM requires from My Camp, a payment portal provider, to enhance the functionality and payment experience within the IMA TEAM application.
+
+---
+
+### Features Required from My Camp
+
+1. **Creation of Multiple Payment Portal Links**
+   - Ability to generate unique payment portal links for each user within IMA TEAM.
+   - Each link should be customizable for individual users as needed.
+
+2. **Expiration Date for Payment Links**
+   - The generated payment portal links must have an optional expiration date feature to ensure security and control over payment timelines.
+
+3. **Webhook Integration for Payment Link Information**
+   - My Camp should provide a webhook service that sends detailed information to IMA TEAM’s server whenever a payment link is created. 
+   - The data sent should include:
+     - **User Information**: Details about the user for whom the link is created.
+     - **Organization Information**: Details of the organization associated with the user.
+     - **Payment Portal Information**: Including the generated portal link and any other relevant metadata.
+
+4. **API or Webhook for Transaction and Balance Information**
+   - My Camp should offer either:
+     - An **API** to retrieve the total balance and detailed transaction history, including transaction amounts and associated user names.
+     - Alternatively, a **webhook** that sends all transaction details to IMA TEAM’s server. The webhook should provide:
+       - **Transaction Details**: Including transaction amounts, timestamps, and descriptions.
+       - **User Information**: Linking transactions to specific users.
+       - **Portal Information**: Details about the payment portal used.
+
+5. **Redirect Link for Portal Creation**
+   - A mechanism to create a redirect link for IMA TEAM users that takes them directly to the My Camp portal setup page.
+   - This should simplify the process of setting up payment portals for users within the IMA TEAM app.
+
+---
+
+Please review and provide feedback or additional requirements to finalize the collaboration terms.
+
+---
+
+Would you like any adjustments or more details added to this draft?
