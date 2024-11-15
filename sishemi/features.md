@@ -35,7 +35,9 @@
 
 
 - [ ] my camp needed
-	- [ ] create multiple link for each person
+	- [ ] create multiple payment protal link for each person
 	- [ ] does links has expire date
-	- [ ] webhook to send link with some information of user and organization to our server
-	- [ ] get api to 
+	- [ ] webhook to send link with some information of user and organization to our server plus payment portal information(including portal link)
+	- [ ] api to get payment portal total balance or transactions with names or webhook to send us all transaction with user informaiton and portal information
+	- [ ] create redirect link for IMA user to create portal
+	- [ ] 
