@@ -12,6 +12,15 @@ commerceos.test@payever.org
 
 Payever123!
 
+commerceos.test@payever.org
+
+Payever123!
+
+Business name: DE
+
+message-test@payever.org
+
+Payever123!
 Staging environment: payever 
 
 payments.staging@payever.org
