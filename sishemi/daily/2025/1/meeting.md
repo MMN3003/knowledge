@@ -1,0 +1,7 @@
+- sabe abderson
+- gaige
+- brae burbudge
+- 20 - 50 k is ok 
+- kevin batchlor
+- it takes 10 days 
+- 
