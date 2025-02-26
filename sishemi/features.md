@@ -85,3 +85,13 @@ Please review and provide feedback or additional requirements to finalize the co
 ---
 
 Would you like any adjustments or more details added to this draft?
+
+
+
+---------------------
+- sub/unsub users
+- feeds
+- personal channel
+- home feed
+- like comment
+- telegram tore
