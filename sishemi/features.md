@@ -95,3 +95,6 @@ Would you like any adjustments or more details added to this draft?
 - home feed
 - like comment
 - telegram tore
+
+- twiter like
+- hastagh
