@@ -1,0 +1,8 @@
+- video
+- thereds
+- @username
+- Event team
+- delete cdn
+- one signal
+- active fence
+- cron job update discovery

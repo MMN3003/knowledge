@@ -1,5 +1,0 @@
-- video
-- thereds
-- @username
-- Event team
-- delete cdn
