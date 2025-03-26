@@ -6,3 +6,4 @@
 - one signal
 - active fence
 - cron job update discovery
+- test expire date in client
