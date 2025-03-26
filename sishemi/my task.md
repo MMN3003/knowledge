@@ -6,4 +6,5 @@
 - one signal
 - active fence
 - cron job update discovery
-- test expire date in client
+- test expire date in client\
+- add limitation in minutes in 
