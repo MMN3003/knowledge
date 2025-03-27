@@ -2,9 +2,9 @@
 - thereds
 - @username
 - Event team
-- delete cdn
+- [-] delete cdn
 - one signal
 - active fence
-- cron job update discovery
+- [-] cron job update discovery
 - test expire date in client\
 - add limitation in minutes in upload video
