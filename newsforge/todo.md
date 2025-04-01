@@ -1,1 +1,4 @@
-pase source rss
+- [ ] parse source rss
+- [ ] cache 5 min to source
+- [ ] onboarding by default filter and default source
+- [ ] add time to twitter source to not get twites 
