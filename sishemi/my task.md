@@ -8,3 +8,4 @@
 - [-] cron job update discovery
 - test expire date in client\
 - add limitation in minutes in upload video
+- 
