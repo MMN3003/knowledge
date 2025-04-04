@@ -8,4 +8,5 @@
 - [-] cron job update discovery
 - test expire date in client\
 - add limitation in minutes in upload video
-- 
+- [ ] store event and team attachemnt activity id for update attachment on update team and event
+- organization feed
