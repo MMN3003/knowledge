@@ -8,7 +8,7 @@
 - [-] cron job update discovery
 - test expire date in client\
 - add limitation in minutes in upload video
-- [ ] store event and team attachemnt activity id for update attachment on update team and event
+- [x] store event and team attachemnt activity id for update attachment on update team and event
 - [-] organization feed
 - [-] share feed by activity id  by share link
 - [ ] notification feed
