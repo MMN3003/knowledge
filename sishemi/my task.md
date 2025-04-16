@@ -13,3 +13,14 @@
 - [-] share feed by activity id  by share link
 - [ ] notification feed
       
+      
+      
+      
+      
+- [ ] amin
+	- [ ] notification and update api
+	- [ ] delete activity for system users
+
+
+
+
