@@ -19,8 +19,14 @@
       
 - [ ] amin
 	- [ ] notification and update api
-	- [ ] delete activity for system users
-
+	- [ ] delete activity for system users, owner of activity
+	- [ ] report activity for all users
+	- [ ] report comments for all users
+	- [ ] delete comments for owner of activity and system users
+	- [ ] share to global for system users
+	- [ ] share activity in chat
+	- [ ] share event and team in activity
+	- [ ] 
 
 
 
