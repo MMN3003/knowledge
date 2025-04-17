@@ -38,7 +38,15 @@
 		- [ ] clickable hashtag to open hashtag feed
 		- [ ] search hashtag when user type # in create activity
 	- [ ] create activity for team 
-	- [ ] open activity detail by clicking on activity in 
+	- [ ] open activity detail by clicking on activity in feed or chat or notification or share link
+	- [ ]  comments in activity details and reply comments by mention
+	- [ ] remove shared link of  team or event in activity
+	- [ ] detail attachments in different attachment type(video,image,link,user)
+	- [ ] global mute button in play video
+	- [ ] auto play video while scrolling on it, only one video at the same time
+	- [ ] show watch again at the end of video
+	- [ ] tap on video and image => goes to detail of image and video
+	- [ ] 
 
 
 
