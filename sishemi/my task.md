@@ -35,7 +35,10 @@
 	- [ ] user feeds at the end of user profile
 	- [ ] show user profile by clicking actor avatar or mentioned users(@username)
 	- [ ] support hashtage
-		- [ ] clickable hashtag to open 
+		- [ ] clickable hashtag to open hashtag feed
+		- [ ] search hashtag when user type # in create activity
+	- [ ] create activity for team 
+	- [ ] open activity detail by clicking on activity in 
 
 
 
