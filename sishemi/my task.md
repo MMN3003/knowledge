@@ -32,7 +32,10 @@
 	- [ ] @username and link has to be click able
 	- [ ] show images and videos and opengraph in create activity post
 	- [ ] follow and unfollow in user profile
-	- [ ] user fee
+	- [ ] user feeds at the end of user profile
+	- [ ] show user profile by clicking actor avatar or mentioned users(@username)
+	- [ ] support hashtage
+		- [ ] clickable hashtag to open 
 
 
 
