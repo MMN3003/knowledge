@@ -46,6 +46,9 @@
 	- [ ] auto play video while scrolling on it, only one video at the same time
 	- [ ] show watch again at the end of video
 	- [ ] tap on video and image => goes to detail of image and video
+	- [ ] when going on video detail stop all auto played video and when goes back continue auto play
+	- [ ] create and delete reactions (like ,comment)
+	- [ ] limit video duration by 600 seconds
 	- [ ] 
 
 
