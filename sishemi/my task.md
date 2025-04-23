@@ -12,7 +12,11 @@
 - [-] organization feed
 - [-] share feed by activity id  by share link
 - [x] notification feed
-- [ ] 
+- [ ] following and followers list
+- [ ] team feed in organization profile
+- [ ] hastag
+- [ ] bug fix
+- [ ] user discovery
       
       
       
