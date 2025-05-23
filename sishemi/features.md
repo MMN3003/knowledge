@@ -109,3 +109,8 @@ Would you like any adjustments or more details added to this draft?
 - [ ] flow for instering reals instagram and short youtube and post in ima as feed
 	- [ ] download images and videos to our s3 
 	- [ ] extract text and hashtags
+
+-  create
+- title
+- body
+- 
