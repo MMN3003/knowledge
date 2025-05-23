@@ -103,7 +103,9 @@ Would you like any adjustments or more details added to this draft?
 
 - [ ] delete by another admin
 - [ ] hashtag
+
+- [ ] share post as image or gift
+	- [ ] create template to put our image 
 - [ ] flow for instering reals instagram and short youtube and post in ima as feed
 	- [ ] download images and videos to our s3 
 	- [ ] extract text and hashtags
-- [ ] share post 
