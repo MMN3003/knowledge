@@ -119,3 +119,10 @@ Would you like any adjustments or more details added to this draft?
 return count of unread messages
 filter all - unread -read
 type
+
+
+
+
+- lead organization - sub organization
+- lead organization have access to sub organizations actions
+- generative 
