@@ -125,4 +125,6 @@ type
 
 - lead organization - sub organization
 - lead organization have access to sub organizations actions
-- generative 
+- generative view -component - service from binj
+- as web view
+- mahdod nashim be component ha
