@@ -131,4 +131,7 @@ type
 
 
 - share feed into other social media
-- import 
+	- f1: share through the os  
+- import posts from other social media
+- lead organization
+- edit feed activity
