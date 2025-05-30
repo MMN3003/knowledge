@@ -131,7 +131,9 @@ type
 
 
 - share feed into other social media
-	- f1: share through the os  
-- import posts from other social media
-- lead organization
+	- f1: share through the os 3 working days
+	- f2: add description on image 3 working days
+		- for each social media 1 working days
+- import posts from other social media => 5-6 working days
+- lead organization => 
 - edit feed activity
