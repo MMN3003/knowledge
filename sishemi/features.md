@@ -128,3 +128,7 @@ type
 - generative view -component - service from binj
 - as web view
 - mahdod nashim be component ha
+
+
+- share feed into other social media
+- import 
