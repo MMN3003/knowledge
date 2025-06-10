@@ -137,3 +137,6 @@ type
 - import posts from other social media => 5-6 working days
 - lead organization => 12-17 working days depending on  features and designs
 - edit feed activity => 4 working days
+
+
+
