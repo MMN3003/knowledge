@@ -140,3 +140,37 @@ type
 
 
 
+```Hey guys,
+
+Here is my list of of items for app. This is an off the top of my head list so don‘t hold me to this only. Ha.
+
+Proposed items for discussion:
+
+1. tags for posts- I know being worked on.
+2. speed of converting and loading videos
+3. Verified account (Badge 🏆🏅✔️)- upgrade purchase
+4. make users automatic followers of orgs like Baseballer, Golfer, etc. Will use influencers in these channels.
+5. hide Priority of events. Seems to be confusing.
+6. polls for groups and posts
+7. edit posts
+8. discover- refine search and event search
+9. make RSVP viewable by all members of a private group event.
+10. add enter email to signup (decrease signup pages overall)
+
+Free Version:
+Add Multiple orgs
+Add RSVP
+Link url in events
+
+Paid version upgrade ($59.99) includes:
+Team Fundraising and Transactions
+Account Verification
+
+
+Lead Org admin upgrade ($129.00/annual)
+
+Let me know of issues or anything the tesm thinks we should do.
+
+Thanks,
+Bill
+```
