@@ -175,4 +175,4 @@ Thanks,
 Bill
 ```
 
-1-  bug in get event
+1-  android get event by id to get
