@@ -156,6 +156,7 @@ Proposed items for discussion:
 8. discover- refine search and event search
 9. make RSVP viewable by all members of a private group event.
 10. add enter email to signup (decrease signup pages overall)
+11. export events to google calendar.
 
 Free Version:
 Add Multiple orgs
