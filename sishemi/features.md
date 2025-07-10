@@ -146,7 +146,7 @@ Here is my list of of items for app. This is an off the top of my head list so d
 
 Proposed items for discussion:
 
-1. tags for posts- I know being worked on.
+1. ~~tags for posts- I know being worked on~~.
 2. speed of converting and loading videos
 3. Verified account (Badge 🏆🏅✔️)- upgrade purchase
 4. make users automatic followers of orgs like Baseballer, Golfer, etc. Will use influencers in these channels.
