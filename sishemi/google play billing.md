@@ -1,0 +1,1 @@
+For each product, you need to provide a unique product ID, a title, a description, and pricing information. Subscriptions have additional required information, such as selecting whether it's an auto-renewing or prepaid renewal type for the base plan.
