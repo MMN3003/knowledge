@@ -14,3 +14,4 @@ Your app should always verify the legitimacy of purchases before granting benefi
 
 previews leader id in team
 and auto join after accept 
+api transfer request by id return teams
