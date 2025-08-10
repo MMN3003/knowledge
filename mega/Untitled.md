@@ -14,40 +14,7 @@
 این دیاگرام، کل فرآیند سواپ بین زنجیره‌ای با نقدینگی داخلی را به صورت بصری نمایش می‌دهد.
 
 ```mermaid
-sequenceDiagram
-participant App as 📱 اپلیکیشن اندروید
-participant Backend as 🤖 بک‌اند (Go)
-participant Phoenix_S as SC Sepolia
-participant Phoenix_M as SC Mumbai
-participant Treasury_S as 🏦 خزانه‌داری Sepolia
-participant Treasury_M as 🏦 خزانه‌داری Mumbai
 
-Note over App, Backend: مرحله ۱: شروع و استعلام قیمت
-App->>+Backend: GET /swap/pairs (جفت‌های قابل معامله کدم‌اند؟)
-Backend-->>-App: لیست جفت‌ها (بر اساس موجودی خزانه‌داری)
-
-App->>+Backend: POST /swap/quote (۱۰۰ USDT از Sepolia به MATIC)
-Backend-->>-App: پاسخ قیمت (۹۸.۵ MATIC به Mumbai با quoteId)
-
-Note over App, Backend: مرحله ۲: تعهد کاربر (آف‌چین)
-App->>App: کاربر قیمت را تایید می‌کند
-App->>App: ساخت و امضای مجوز Permit برای ۱۰۰ USDT (روی Sepolia)
-App->>+Backend: POST /swap/execute (با quoteId و امضای Permit)
-
-Note over Backend, Phoenix_S: مرحله ۳: برداشت دارایی کاربر (روی زنجیره Sepolia)
-Backend->>Backend: بررسی سلامت (موجودی کاربر)
-Backend->>+Phoenix_S: فراخوانی executeTradeWithPermit(امضا)
-Phoenix_S-->>Treasury_S: انتقال ۱۰۰ USDT از کاربر به خزانه‌داری
-Phoenix_S-->>-Backend: تراکنش موفق (Tx Hash 1)
-
-Note over Backend, Treasury_M: مرحله ۴: ارسال دارایی به کاربر (روی زنجیره Mumbai)
-Backend->>+Treasury_M: ارسال ۹۸.۵ MATIC به آدرس کاربر
-Treasury_M-->>-Backend: تراکنش موفق (Tx Hash 2)
-Backend-->>-App: پاسخ نهایی (معامله موفق)
-
-Note over App: مرحله ۵: نمایش نتیجه
-App->>App: نمایش پیام موفقیت به کاربر
-App->>App: (در پس‌زمینه) بررسی موجودی جدید MATIC کاربر
 ````
 
 ---
