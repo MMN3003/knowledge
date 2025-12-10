@@ -24,4 +24,10 @@
 24. park
 
 password: 09156473178mmn
-in this site https://wallet.ton.org
+install tonkeeper chrome extention
+create main wallet then add test net wallet
+then go to this bot to get free testnet ton token
+https://t.me/testgiver_ton_bot
+this is the address 
+0QAwUCfMVunqDApRu6GYaWJ12wMrrJoVnb9nSUX95FsCPBVu
+
