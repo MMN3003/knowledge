@@ -31,3 +31,8 @@ https://t.me/testgiver_ton_bot
 this is the address 
 0QAwUCfMVunqDApRu6GYaWJ12wMrrJoVnb9nSUX95FsCPBVu
 
+
+call this function
+MakeHighLoadWallet
+in ton wallet to create private key
+PrivateKey: fb800e28c79e781f03045a9269773268d1a986e0af6b35422c5405044d8a5bdf address: EQCfseLrtIoA7OfvH3RI8ivjAjkERVtm1zSFPzywYAowCoDM
