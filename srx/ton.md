@@ -36,3 +36,6 @@ call this function
 MakeHighLoadWallet
 in ton wallet to create private key
 PrivateKey: fb800e28c79e781f03045a9269773268d1a986e0af6b35422c5405044d8a5bdf address: EQCfseLrtIoA7OfvH3RI8ivjAjkERVtm1zSFPzywYAowCoDM
+
+then encrypt with pkg.envryptv2
+PrivateKey: SnRoi7nLjIYZ+OIH12T2AAQxQUEo4+xaYimSF/X5CiLN7l1tTgWS8vpLiCl8l03IALGdOt3XV74DVgLVBe5t1TzKuBlxidMImIA+Sr1IMD2YZ9xlsOzpmt700HU=
