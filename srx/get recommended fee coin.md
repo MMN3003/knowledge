@@ -1,0 +1,4 @@
+- check fee for multi withdraw to select between return array of fee or total fee in one object
+-  check newton() if check in blockchain.go and it should not run any thing with out if
+- get available parser to create addresses in service_generated_address.go(disable if network is not avaiable)
+- 
