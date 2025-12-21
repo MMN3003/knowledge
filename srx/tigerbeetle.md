@@ -27,3 +27,7 @@ OLTP and business transactions tend to record the same types of information:
 - **Where**: where in the world did the transaction take place?
 - **Why**: what type of transaction is this or why is it happening?
 - **How Much**: what quantity of the asset or items was moved?
+
+
+
+Money never appears from nowhere or disappears!!
