@@ -1,0 +1,3 @@
+- OLGP: Online General Purpose
+- OLTP: Online Transaction Processing
+- 
