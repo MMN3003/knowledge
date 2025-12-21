@@ -31,3 +31,6 @@ OLTP and business transactions tend to record the same types of information:
 
 
 Money never appears from nowhere or disappears!!
+
+
+continue on https://docs.tigerbeetle.com/concepts/debit-credit/#sql-vs-debit--credit
