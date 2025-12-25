@@ -32,6 +32,14 @@ OLTP and business transactions tend to record the same types of information:
 
 Money never appears from nowhere or disappears!!
 
+TigerBeetle also supports [two-phase transfers](https://docs.tigerbeetle.com/coding/two-phase-transfers) out of the box, and can express complex atomic chains of transfers using [linked events](https://docs.tigerbeetle.com/coding/linked-events).
+A two-phase transfer moves funds in stages:
+
+1. Reserve funds ([pending](https://docs.tigerbeetle.com/coding/two-phase-transfers/#reserve-funds-pending-transfer))
+2. Resolve funds ([post](https://docs.tigerbeetle.com/coding/two-phase-transfers/#post-pending-transfer), [void](https://docs.tigerbeetle.com/coding/two-phase-transfers/#void-pending-transfer), or [expire](https://docs.tigerbeetle.com/coding/two-phase-transfers/#expire-pending-transfer))
+
+The name “two-phase transfer” is a reference to the [two-phase commit protocol for distributed transactions](https://en.wikipedia.org/wiki/Two-phase_commit_protocol).
+
 
 
 continue on https://docs.tigerbeetle.com/concepts/debit-credit/#sql-vs-debit--credit
