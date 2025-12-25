@@ -42,4 +42,4 @@ The name “two-phase transfer” is a reference to the [two-phase commit proto
 
 
 
-continue on https://docs.tigerbeetle.com/concepts/debit-credit/#sql-vs-debit--credit
+continue on ## [Storage Fault Tolerance](https://docs.tigerbeetle.com/concepts/safety/#storage-fault-tolerance)
