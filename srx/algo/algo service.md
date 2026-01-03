@@ -21,7 +21,7 @@ max-instances: 1
 
 # Flows
 - [[#Initialization Flow]]
-- 
+- [[#HTTP routes]]
 ## Initialization Flow
 1.  [[#Load Configuration]] read exchange pair from `config.toml`
 2.  [[#Create MatchEngine Instance]] create `MatchEngine` instance for market making broker.
@@ -78,3 +78,11 @@ requirements:
 2. `UpdateSpreadData`
 	1. calculate and update spreed again [[#Calculate Spread]]
 ### Start HTTP server
+
+## HTTP routes
+
+| Route                         | Method | Link |
+| ----------------------------- | ------ | ---- |
+| `v1/order/revers`             | GET    |      |
+| v1/trade/insufficient-amounts | GET    |      |
+### 
