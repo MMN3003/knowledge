@@ -13,4 +13,9 @@ start service:
 		1. match engine grpc instance
 		2. match engine http instance
 	3. seed `MatchEngine`
-		1. fetch best ask and bid from 
+		1. fetch best ask and bid from match engine grpc `OrderBookDepth` 
+		2. calculate spreed by this formula
+			1. spread = ( (best ask - best bid) / best bid ) * 100
+	4. `NewMatchEngineHandler`?
+	5. `prepareExchanges`?
+	6. 
