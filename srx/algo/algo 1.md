@@ -23,27 +23,12 @@ max-instances: 1
 # Initialization Flow
 1.  [[#Load Configuration]] read exchange pair from `config.toml`
 2.  [[#Create MatchEngine Instance]] create `MatchEngine` instance for market making broker.
-3. seed `MatchEngine`
+3. seed `MatchEngine`		
+4. [[#NewMatchEngineHandler]]?
+5. [[#prepareExchanges]]?
+6. [[#Create KafkaPresentation]] create instance of `KafkaPresentation`
+7. [[#Consume Kafka]] topics
 		
-	4. `NewMatchEngineHandler`?
-	5. `prepareExchanges`?
-	6. create instance of `KafkaPresentation`, requirements:
-		1. `MatchEngineHandler`
-		2. `SpreadBot`s
-	7. consume kafka topics
-		1. `trades`: order executed or matched in system
-			1. who send it?
-			2. `NewOrderExecuteEvent`
-				1. if one side of trade was a bot an `ExecutedOrder` sends to `ExecutedOrder` channel
-				2.  who listen to this channel?
-			3. `UpdateLastTrades` update last price of trade market according to trade price
-			4. delete or update(amount) of bot order matched in this trade
-			5. commit message to kafka
-		2. `depth`:
-			1. who sent it?
-			2. commit message to kafka at the first step
-			3. `UpdateSpreadData`
-				1. calculate and update spreed again [[#spread]]
 
 
 ### Load Configuration
@@ -61,3 +46,33 @@ spread = ( (best ask - best bid) / best bid ) * 100
 ```
 
 ### NewMatchEngineHandler
+
+### prepareExchanges
+
+### Create KafkaPresentation
+requirements:
+1. `MatchEngineHandler`
+2. `SpreadBot`s
+
+### Consume Kafka
+#### Kafka Topics
+
+| Topic name | Sender | Event                               |
+| ---------- | ------ | ----------------------------------- |
+| `trades`   | ?      | order executed or matched in system |
+| `depth`    | ?      | order place                         |
+
+##### Trades
+ 1. `trades`: 
+			1. who send it?
+			2. `NewOrderExecuteEvent`
+				1. if one side of trade was a bot an `ExecutedOrder` sends to `ExecutedOrder` channel
+				2.  who listen to this channel?
+			3. `UpdateLastTrades` update last price of trade market according to trade price
+			4. delete or update(amount) of bot order matched in this trade
+			5. commit message to kafka
+		2. `depth`:
+			1. who sent it?
+			2. commit message to kafka at the first step
+			3. `UpdateSpreadData`
+				1. calculate and update spreed again [[#spread]]
