@@ -24,5 +24,8 @@ start service:
 	7. consume kafka topics
 		1. `trades`: order executed or matched in system
 			1. who send it?
-			2. 
+			2. `NewOrderExecuteEvent`
+				1. if one side of trade was a bot an `ExecutedOrder` sends to `ExecutedOrder` channel
+				2.  who listen to this channel?
+			3. `UpdateLastTrades` update last price of trade market according to trade price
 		2. `depth`:
