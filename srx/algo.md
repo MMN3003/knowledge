@@ -5,3 +5,8 @@ dependecies:
 
 algo should be run for each brockerID?
 
+
+
+
+start service:
+1
