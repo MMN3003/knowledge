@@ -19,8 +19,10 @@ max-instances: 1
   - PostgreSQL
   - Apache Kafka
 
-
-# Initialization Flow
+# Flows
+- [[#Initialization Flow]]
+- 
+## Initialization Flow
 1.  [[#Load Configuration]] read exchange pair from `config.toml`
 2.  [[#Create MatchEngine Instance]] create `MatchEngine` instance for market making broker.
 3. seed `MatchEngine`		
@@ -28,6 +30,7 @@ max-instances: 1
 5. [[#prepareExchanges]]?
 6. [[#Create KafkaPresentation]] create instance of `KafkaPresentation`
 7. [[#Consume Kafka]] topics
+8. [[#Start HTTP server]]
 		
 
 
@@ -57,22 +60,21 @@ requirements:
 ### Consume Kafka
 #### Kafka Topics
 
-| Topic name | Sender | Event                               |
-| ---------- | ------ | ----------------------------------- |
-| `trades`   | ?      | order executed or matched in system |
-| `depth`    | ?      | order place                         |
+| Topic name | Sender | Event                               | Link        |
+| ---------- | ------ | ----------------------------------- | ----------- |
+| `trades`   | ?      | order executed or matched in system | [[#Trades]] |
+| `depth`    | ?      | order place                         | [[#Depth]]  |
 
 ##### Trades
- 1. `trades`: 
-			1. who send it?
-			2. `NewOrderExecuteEvent`
-				1. if one side of trade was a bot an `ExecutedOrder` sends to `ExecutedOrder` channel
-				2.  who listen to this channel?
-			3. `UpdateLastTrades` update last price of trade market according to trade price
-			4. delete or update(amount) of bot order matched in this trade
-			5. commit message to kafka
-		2. `depth`:
-			1. who sent it?
-			2. commit message to kafka at the first step
-			3. `UpdateSpreadData`
-				1. calculate and update spreed again [[#spread]]
+1. `NewOrderExecuteEvent`
+	1. if one side of trade was a bot an `ExecutedOrder` sends to `ExecutedOrder` channel
+	2.  who listen to this channel?
+2. `UpdateLastTrades` update last price of trade market according to trade price
+3. delete or update(amount) of bot order matched in this trade
+4. commit message to kafka
+
+##### Depth
+1. commit message to kafka at the first step
+2. `UpdateSpreadData`
+	1. calculate and update spreed again [[#Calculate Spread]]
+### Start HTTP server
