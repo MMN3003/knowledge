@@ -3,7 +3,7 @@ dependecies:
 	- postgress
 	- kafka
 
-
+this service is stateful so max instance is 1.
 
 
 
@@ -28,4 +28,10 @@ start service:
 				1. if one side of trade was a bot an `ExecutedOrder` sends to `ExecutedOrder` channel
 				2.  who listen to this channel?
 			3. `UpdateLastTrades` update last price of trade market according to trade price
+			4. delete or update(amount) of bot order matched in this trade
+			5. commit message to kafka
 		2. `depth`:
+			1. who sent it?
+			2. commit message to kafka at the first step
+			3. `UpdateSpreadData`
+				1. calculate and update spreed again
