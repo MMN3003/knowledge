@@ -14,8 +14,8 @@ start service:
 		2. match engine http instance
 	3. seed `MatchEngine`
 		1. fetch best ask and bid from match engine grpc `OrderBookDepth` 
-		2. calculate spreed by this formula
-			1. [[spread = ( (best ask - best bid) / best bid ) * 100]] #spreed
+		2. calculate spreed by this formula 
+			1. spread = ( (best ask - best bid) / best bid ) * 100 #spreed
 	4. `NewMatchEngineHandler`?
 	5. `prepareExchanges`?
 	6. create instance of `KafkaPresentation`, requirements:
@@ -34,4 +34,5 @@ start service:
 			1. who sent it?
 			2. commit message to kafka at the first step
 			3. `UpdateSpreadData`
-				1. calculate and update spreed again
+				1. calculate and update spreed again [[#spread]]
+
