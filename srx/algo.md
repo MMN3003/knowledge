@@ -18,4 +18,11 @@ start service:
 			1. spread = ( (best ask - best bid) / best bid ) * 100
 	4. `NewMatchEngineHandler`?
 	5. `prepareExchanges`?
-	6. 
+	6. create instance of `KafkaPresentation`, requirements:
+		1. `MatchEngineHandler`
+		2. `SpreadBot`s
+	7. consume kafka topics
+		1. `trades`: order executed or matched in system
+			1. who send it?
+			2. 
+		2. `depth`:
