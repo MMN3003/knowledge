@@ -1,3 +1,7 @@
+This is an example of http api to `apigateway` service for cancel order of a market.
+make sure to get all users uuid that have at least one open order in this market.
+Get list of user from `matchengine` => `exchange_log` database => `order_slice` table . make sure close market for at least one hour then select users from this table, `order_slice` sync each one hour!
+
 ```bash
   
 
