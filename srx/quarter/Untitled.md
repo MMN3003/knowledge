@@ -12,7 +12,7 @@ There are two options :
 - managing one big team
 
 ## Two teams
-I suggest to split this to two teams with different missions:
+I suggest to split headcount into two teams with different missions, this arrangement can be hold for a few month until system 
 ### Team One (Core platform)
 maintain and refactor current services and structures and debug them.
 
@@ -36,6 +36,7 @@ They are responsible for:
 - Make services stateless as much as possible
 - Create Reports
 - Fix bugs of the current features
+- Daily balancing core
 
 ### Team two (Feature Team)
 Customer-facing features and new modules.
@@ -49,4 +50,8 @@ Customer-facing features and new modules.
 
 They are responsible for:
 - Marketing Campaigns 
-- Developing new 
+- Developing new modules and Features
+- Aligning with product needs
+
+## One Big Team
+maintaining current services (operational task)
