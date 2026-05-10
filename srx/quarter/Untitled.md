@@ -22,3 +22,17 @@ maintain and refactor current services and structures and debug them.
 - Mostafa Hoseini
 - backend developer (blockchain developer)
 - Amir hosein Moqadasi
+- flutter developer (queued and shared)
+- QA (queued and shared)
+
+They are responsible for:
+- Adding coins and markets
+- Adding new Networks
+- Creating Data warehouse
+- Rewrite Bots
+- Developing leverage trades
+- Providing infrastructure for club
+- Logs and tracing spans 
+- Make services stateless as much as possible
+- Create Reports
+- finx
