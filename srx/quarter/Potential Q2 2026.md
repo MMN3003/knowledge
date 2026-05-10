@@ -37,5 +37,8 @@ SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP cl
 ## Delist Coins Flow
 ## Debug Bank transaction
 
+## Complete SEO 
+
+
 
 
