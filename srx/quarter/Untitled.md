@@ -13,7 +13,7 @@ There are two options :
 
 ## Two teams
 I suggest to split this to two teams with different missions:
-### Team One
+### Team One (Core platform)
 maintain and refactor current services and structures and debug them.
 
 - Team lead
@@ -35,4 +35,18 @@ They are responsible for:
 - Logs and tracing spans 
 - Make services stateless as much as possible
 - Create Reports
-- finx
+- Fix bugs of the current features
+
+### Team two (Feature Team)
+Customer-facing features and new modules.
+- Mohsen Heidari
+- Amirreza Salari
+- Backend developer
+- Sajjad Gazeri
+- Maryam 
+- flutter developer (queued and shared)
+- QA (queued and shared)
+
+They are responsible for:
+- Marketing Campaigns 
+- Developing new 
