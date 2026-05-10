@@ -62,5 +62,14 @@ maintaining current services (operational tasks) and developing new features.
 - 3 frontend developer
 - 1+1 flutter developer
 
-Cons:
-- 
+### Cons
+- Too many direct reports for one lead
+- Backlog becomes crowded
+- Prioritization conflicts
+- Ownership becomes blurry
+- There is not clear power and cost for maintain and developing features
+- Too many task switches
+### Pros
+- Easier communication initially
+- Shared knowledge pool
+- Flexible task assignment
