@@ -32,6 +32,10 @@ SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP cl
 ## Refactor and Lunch Swap feature
 ## Add Dusting feature
 ## Create Club Service
-## Handel Dex Market price fa
+## Handel Dex Market price failure
+
+## Delist Coins Flow
+## Debug Bank transaction
+
 
 
