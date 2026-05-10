@@ -18,3 +18,5 @@ PROBLEM: at the moment when we sell an asset to customer which is backed by dex 
 
 SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP close to the price that we sold. It will decrease the risk of financial loss as we obtain the asset close to the price that we sold to the customer.
 
+##
+
