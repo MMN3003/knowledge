@@ -22,7 +22,7 @@ maintain and refactor current services and structures and debug them.
 - Mostafa Hoseini
 - backend developer (blockchain developer)
 - Amir hosein Moqadasi
-- flutter developer (queued and shared)
+- flutter developers (queued and shared)
 - QA (queued and shared)
 
 They are responsible for:
@@ -45,7 +45,7 @@ Customer-facing features and new modules.
 - Backend developer
 - Sajjad Gazeri
 - Maryam 
-- flutter developer (queued and shared)
+- flutter developers (queued and shared)
 - QA (queued and shared)
 
 They are responsible for:
@@ -54,4 +54,13 @@ They are responsible for:
 - Aligning with product needs
 
 ## One Big Team
-maintaining current services (operational task)
+maintaining current services (operational tasks) and developing new features.
+
+- +1 team lead
+- 5+2 backend developer
+- +1 QA
+- 3 frontend developer
+- 1+1 flutter developer
+
+Cons:
+- 
