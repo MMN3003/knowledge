@@ -22,18 +22,20 @@ SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP cl
 RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 
 ## Add New Network in Chainpulse Polygun(EVM)
-GOAL: create wallet addresses , detect deposits  , withdraw  and wallets evacuation on Polygun Network.
+GOAL: create wallet addresses , detect deposits  ,fee calculation , withdraw  and wallets evacuation on Polygun Network.
 
 STAKEHOLDERS: product
 
 PROBLEM: currently system do not support Polygun Network and customers that have assets on this network can't deposit and withdraw any asset on Polygun.
 
-SOLUTION: We should support Polygun network in ch.
+SOLUTION: We should support Polygun network in chainpulse system to detect deposits, withdraw , fee calculation, evacuations and tracking each transaction status. Also we need to change Setting package , Lens services, Sarmayex, Internal wallet. New design on network list.
 
 RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
-## Migration from Setting service to Lens
+
 
 ## Warehouse
+
+
 
 ## Rewrite Algo bot Service
 
@@ -53,4 +55,4 @@ RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 
 ## Sarmayex Credit Card
 
-
+## Migration from Setting service to Lens
