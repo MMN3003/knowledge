@@ -64,7 +64,15 @@ RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
 
 ## Rebalancing Core
 
+GOAL: create centralized liquidity and asset balancing system across all financial services(features) and operational modules.
+
 STAKEHOLDERS: financial
+
+PROBLEM: currently lacks of  liquidity and balances for each feature
+
+SOLUTION: develop centralized rebalancing engine that monitors balances, liquidity requirements and exposures across all services and automatically performs balancing operations.
+
+RESOURCES: 1 bd + 2 be + 1 QA
 ### Rebalancing Provider
 ### Algo bot
 ### crypto gateway
@@ -77,11 +85,35 @@ STAKEHOLDERS: financial
 
 
 ##  Update CMS Service
+GOAL: Update CMS panel for marketing teams.
+
 STAKEHOLDERS: marketing
+
+PROBLEM: current CMS capabilities are limited and create dependency on technical teams for content updates and campaign operations.
+
+SOLUTION: upgrade CMS architecture and add operational tools for content management, campaigns and SEO optimization.
+
+RESOURCES: 1 be + 1 fe + 1 QA
 ## Refactor and Launch Swap feature
+GOAL: improve swap scalability, execution performance and user experience.
+
 STAKEHOLDERS: product
+
+PROBLEM: current swap implementation has architectural limitations and operational issues.
+
+SOLUTION: refactor swap infrastructure and launch production-ready version with better liquidity and execution management.
+
+RESOURCES: 1 be + 1 fe + 1 QA
 ## Add Dusting feature
+GOAL: allow users to convert low-value balances into usable assets.
+
 STAKEHOLDERS: product
+
+PROBLEM: users accumulate small balances that cannot be traded or withdrawn efficiently.
+
+SOLUTION: implement dust conversion feature for aggregating and converting small balances automatically by swap features.
+
+RESOURCES: 2 be + 1 fe + 1 QA
 ## Create Club Service / Campaign
 GOAL: create loyalty and campaign management infrastructure.
 
@@ -91,7 +123,7 @@ PROBLEM: currently there is no centralized platform for loyalty programs, campai
 
 SOLUTION: develop dedicated club service for user engagement and retention. club service should received data from all features of the system.
 
-RESOURCES: 1 bd + 1 be + 1 fe + 1 QA
+RESOURCES: 2 be + 1 fe + 1 QA
 ## Handel Dex Market price failure
 GOAL: prevent incorrect pricing during DEX provider failures and outages.
 
