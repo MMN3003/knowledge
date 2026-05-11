@@ -63,6 +63,8 @@ RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
 
 
 ## Rebalancing Core
+
+STAKEHOLDERS: financial
 ### Rebalancing Provider
 ### Algo bot
 ### crypto gateway
