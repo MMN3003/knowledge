@@ -90,26 +90,58 @@ STAKEHOLDERS: tech
 ## Delist Coins Flow
 STAKEHOLDERS: tech , product, financial , support, marketing
 ## Debug Bank transaction
-STAKEHOLDERS:  financial 
+GOAL: identify and resolve bank transaction inconsistencies and failures.
+
+STAKEHOLDERS: financial
+
+PROBLEM: bank transaction issues impact reconciliation, operational stability, user trust and fiat deposit/withdraw time.
+
+SOLUTION: improve bank transaction tracing, monitoring and recovery flows.
+
+RESOURCES: 1 be + 1 QA
 
 ## Complete SEO 
-STAKEHOLDERS:  marketing
+GOAL: improve organic traffic and search engine visibility.
+
+STAKEHOLDERS: marketing
+
+PROBLEM: SEO implementation is incomplete and limits organic growth.
+
+SOLUTION: implement technical SEO optimization, metadata improvements and performance enhancements.
+
+RESOURCES: 1 fe 
 
 ## Sarmayex Credit Card
-STAKEHOLDERS:  product
+GOAL: launch integrated branded credit card infrastructure. users should be able to order a credit card , then move some assets into corresponding account in specific order. at the moment of using this card, we should create market order to convert asset/assets to fiat and pay the billing by this fiat. we need landing page for this feature too.
+
+STAKEHOLDERS: product
+
+PROBLEM: users currently do not have integrated card-based spending capabilities.
+
+SOLUTION: develop credit card infrastructure and banking integration for transaction and card management.
+
+RESOURCES:  2 be + 2 fe + 1 QA
 ## Profit and Loss (PNL)
-STAKEHOLDERS:  product
+GOAL: provide accurate profit and loss reporting for users and internal teams.
+
+STAKEHOLDERS: product
+
+PROBLEM: users and stakeholders currently lack visibility into realized and unrealized profitability.
+
+SOLUTION: develop centralized PNL calculation and reporting infrastructure.
+
+RESOURCES: 2 be + 1 fe + 1 QA
 
 ## Migration from Setting service to Lens
-GOAL: centralize and modernize configuration management infrastructure and make configuration dynamic by moving them to database and finally edit them from admin panel. it 
+GOAL: centralize and modernize configuration management infrastructure and make configuration dynamic by moving them to database and finally edit them from admin panel. Lens service should hold all brokers configuration.
 
 STAKEHOLDERS: tech
 
 PROBLEM: current setting service architecture increases operational complexity and maintenance overhead.
 
-SOLUTION: migrate configuration management capabilities into Lens service.
+SOLUTION: migrate configuration management capabilities into Lens service. also change all services to fetch configuration from lens instead of settings package
 
-RESOURCES: 2 be + 1 QA
+RESOURCES: 3 be + 1 bd + 1 QA
 
 
 ## Grouped Access management
