@@ -51,6 +51,16 @@ RESOURCES:  1 bd + 2 be  + 1 QA
 ### Bi panel
 RESOURCES:   1 be  + 1 QA
 ## Rewrite Algo bot Service
+GOAL: Market making bots should not have large amount of loss. We should be able to config each side(sell, buy) seperately  
+
+STAKEHOLDERS: financial, stakeholders
+
+PROBLEM: currently each feature and user data are in different databases so there is no integrated data.
+
+SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and financials make decisions to align business .
+
+RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
+
 
 ## Rebalancing Core
 
