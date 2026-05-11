@@ -83,12 +83,36 @@ STAKEHOLDERS: product
 ## Add Dusting feature
 STAKEHOLDERS: product
 ## Create Club Service / Campaign
+GOAL: create loyalty and campaign management infrastructure.
+
 STAKEHOLDERS: marketing , product
+
+PROBLEM: currently there is no centralized platform for loyalty programs, campaigns and referral systems.
+
+SOLUTION: develop dedicated club and campaign service for user engagement and retention.
+
+RESOURCES: 1 bd + 1 be + 1 fe + 1 QA
 ## Handel Dex Market price failure
+GOAL: prevent incorrect pricing during DEX provider failures and outages.
+
 STAKEHOLDERS: tech
 
+PROBLEM: DEX provider instability can result in invalid prices and financial exposure.
+
+SOLUTION: implement fallback providers, price validation and close markets if there is not liquidity pool (price) for that coin. bots should be stoped and prevents users from placing new orders.
+
+RESOURCES: 2 be + 1 QA
+
 ## Delist Coins Flow
+GOAL: create safe and standardized coin delisting process. 
+
 STAKEHOLDERS: tech , product, financial , support, marketing
+
+PROBLEM: current delisting operations are manual and operationally risky.
+
+SOLUTION: develop unified delisting workflow including notification, disablement and operational coordination. user should be able to know when and how we delist a coin. financial should be able to specify converting rate and date of delisting.
+
+RESOURCES:  2 be + 1 fe + 1 QA
 ## Debug Bank transaction
 GOAL: identify and resolve bank transaction inconsistencies and failures.
 
