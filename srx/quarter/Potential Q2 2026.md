@@ -89,7 +89,7 @@ STAKEHOLDERS: marketing , product
 
 PROBLEM: currently there is no centralized platform for loyalty programs, campaigns and referral systems.
 
-SOLUTION: develop dedicated club and campaign service for user engagement and retention.
+SOLUTION: develop dedicated club service for user engagement and retention. club service should received data from all features of the system.
 
 RESOURCES: 1 bd + 1 be + 1 fe + 1 QA
 ## Handel Dex Market price failure
