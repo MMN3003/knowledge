@@ -41,9 +41,11 @@ STAKEHOLDERS: financial, stakeholders
 
 PROBLEM: currently each feature and user data are in different databases so there is no integrated data.
 
-SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and finiancials make decisions to redirect business .
+SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and financials make decisions to align business .
 
-RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
+RESOURCES:  1 be  + 1 fe + 1 QA
+### Warehouse core
+### crypto gateway data fetch
 ### Bi panel
 ## Rewrite Algo bot Service
 
