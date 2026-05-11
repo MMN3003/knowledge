@@ -116,4 +116,4 @@ STAKEHOLDERS:  product
 STAKEHOLDERS:  product
 ## Internal Transaction List for each user
 STAKEHOLDERS:  product
-
+GOAL: provide visibility into internal user transactions and transfers.
