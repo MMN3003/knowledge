@@ -70,21 +70,37 @@ STAKEHOLDERS: financial
 ### crypto gateway
 ### OTC
 ### LOAN
+### Stake
+### Invoice
+### Pool
 
 
 
 ##  Update CMS Service
+STAKEHOLDERS: marketing
 ## Refactor and Launch Swap feature
+STAKEHOLDERS: product
 ## Add Dusting feature
+STAKEHOLDERS: product
 ## Create Club Service / Campaign
+STAKEHOLDERS: marketing , product
 ## Handel Dex Market price failure
+STAKEHOLDERS: tech
 
 ## Delist Coins Flow
+STAKEHOLDERS: tech , product, financial , support, marketing
 ## Debug Bank transaction
+STAKEHOLDERS:  financial 
 
 ## Complete SEO 
+STAKEHOLDERS:  marketing
 
 ## Sarmayex Credit Card
+STAKEHOLDERS:  product
 ## Profit and Loss (PNL)
+STAKEHOLDERS:  product
 
 ## Migration from Setting service to Lens
+STAKEHOLDERS:  tech
+
+## 
