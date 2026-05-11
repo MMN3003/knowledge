@@ -101,19 +101,66 @@ STAKEHOLDERS:  product
 STAKEHOLDERS:  product
 
 ## Migration from Setting service to Lens
-STAKEHOLDERS:  tech
+GOAL: centralize and modernize configuration management infrastructure and make configuration dynamic by moving them to database and finally edit them from admin panel. it 
+
+STAKEHOLDERS: tech
+
+PROBLEM: current setting service architecture increases operational complexity and maintenance overhead.
+
+SOLUTION: migrate configuration management capabilities into Lens service.
+
+RESOURCES: 2 be + 1 QA
 
 
 ## Grouped Access management
-STAKEHOLDERS:  tech, product, financial , marketing 
+GOAL: implement scalable role and group-based access management. Admin of each department should be able to access his owned permission to sub accounts.
 
+STAKEHOLDERS: tech, product, financial , marketing
+
+PROBLEM: current access control model lacks flexibility and scalability. It takes a lots of time from CTO and 1 be to grant access to each account base on what they really need.
+
+SOLUTION: develop grouped access management with hierarchical permissions and audit capabilities for each department admin.
+
+RESOURCES: 2 be + 1 fe + 1 QA
 ## Match Engine Database retention of removing use less data
-STAKEHOLDERS:  tech
+GOAL: reduce database growth and optimize performance by removing unnecessary historical data.
+
+STAKEHOLDERS: tech
+
+PROBLEM: historical data growth negatively impacts database performance and infrastructure costs.
+
+SOLUTION: implement retention policies, cleanup automation and archival strategy.
+
+RESOURCES: 1 be + 1 QA
 
 ## IOS first Release
-STAKEHOLDERS:  product
-## Tradingview Charts
-STAKEHOLDERS:  product
+GOAL: launch first production-ready IOS application.
+
+STAKEHOLDERS: product
+
+PROBLEM: currently there is no IOS application available for users.
+
+SOLUTION: develop and release IOS application with trading, wallet and notification capabilities.
+
+RESOURCES: 2 mobile + 1 QA
+## Tradingview Charts or Bitycle
+GOAL: provide advanced charting and market analysis tools.
+
+STAKEHOLDERS: product
+
+PROBLEM: current charting infrastructure is limited and lacks advanced trading capabilities.
+
+SOLUTION: integrate Tradingview infrastructure and real-time charting features.
+
+RESOURCES: 1 fe + 1 QA
 ## Internal Transaction List for each user
+
 STAKEHOLDERS:  product
+
 GOAL: provide visibility into internal user transactions and transfers.
+
+PROBLEM: users  currently lack visibility into internal asset movements.
+
+SOLUTION: develop internal transaction history and tracking module with filtering and reporting capabilities.
+
+RESOURCES: 1 be + 1 fe + 1 QA
