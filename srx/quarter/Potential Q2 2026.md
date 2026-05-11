@@ -21,8 +21,16 @@ SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP cl
 
 RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 
-## Add New Network in Chainpulse
+## Add New Network in Chainpulse Polygun(EVM)
+GOAL: buy and sell assets as soon as possible when they are backed by dex.
 
+STAKEHOLDERS: financial
+
+PROBLEM: at the moment when we sell an asset to customer which is backed by dex we actually don't obtain the asset. it will increase the risk of financial loss for exchange and the customer.
+
+SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP close to the price that we sold. It will decrease the risk of financial loss as we obtain the asset close to the price that we sold to the customer.
+
+RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 ## Migration from Setting service to Lens
 
 ## Warehouse
@@ -43,6 +51,6 @@ RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 
 ## Complete SEO 
 
-
+## Sarmayex Credit Card
 
 
