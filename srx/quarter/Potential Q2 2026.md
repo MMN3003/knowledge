@@ -68,12 +68,20 @@ GOAL: create centralized liquidity and asset balancing system across all financi
 
 STAKEHOLDERS: financial
 
-PROBLEM: currently lacks of  liquidity and balances for each feature
+PROBLEM: currently lacks of  liquidity and balances for each feature cause increase hidden costs and make accounting of features blury.
 
-SOLUTION: develop centralized rebalancing engine that monitors balances, liquidity requirements and exposures across all services and automatically performs balancing operations.
+SOLUTION: develop centralized rebalancing engine that monitors balances, liquidity requirements and exposures across all features and automatically performs balancing operations.
 
-RESOURCES: 1 bd + 2 be + 1 QA
 ### Rebalancing Provider
+GOAL: create provider abstraction layer for liquidity transfer and balancing operations.
+
+STAKEHOLDERS: financial
+
+PROBLEM: each provider has different balancing logic and APIs which increases operational complexity.
+
+SOLUTION: develop unified provider layer for transfer orchestration, monitoring and automated balancing operations.
+
+RESOURCES: 1 be + 1 QA
 ### Algo bot
 ### crypto gateway
 ### OTC
