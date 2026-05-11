@@ -109,3 +109,11 @@ STAKEHOLDERS:  tech, product, financial , marketing
 
 ## Match Engine Database retention of removing use less data
 STAKEHOLDERS:  tech
+
+## IOS first Release
+STAKEHOLDERS:  product
+## Tradingview Charts
+STAKEHOLDERS:  product
+## Internal Transaction List for each user
+STAKEHOLDERS:  product
+
