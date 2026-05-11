@@ -63,6 +63,12 @@ RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
 
 
 ## Rebalancing Core
+### Rebalancing Provider
+### Algo bot
+### crypto gateway
+### OTC
+### LOAN
+
 
 
 ##  Update CMS Service
