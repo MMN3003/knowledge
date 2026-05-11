@@ -35,13 +35,13 @@ RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 
 ## Warehouse
 GOAL: We should have integrated data tables that can represent current state of the system and each feature. also we should be able to track users data in system.
-In addition rate of each coin at the moment that each transaction and at the moment that reports have been generated. There are more details
+In addition rate of each coin at the moment that each transaction and at the moment that reports have been generated. 
 
-STAKEHOLDERS: product
+STAKEHOLDERS: financial, stakeholders
 
-PROBLEM: currently system do not support Polygun Network and customers that have assets on this network can't deposit and withdraw any asset on Polygun.
+PROBLEM: currently each feature and user data are in different databases so there is no integrated data.
 
-SOLUTION: We should support Polygun network in chainpulse system to detect deposits, withdraw , fee calculation, evacuations and tracking each transaction status. Also we need to change Setting package , Lens services, Sarmayex, Internal wallet. New design on network list.
+SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and finiancials make decisions to redirect business .
 
 RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
 ### Bi panel
