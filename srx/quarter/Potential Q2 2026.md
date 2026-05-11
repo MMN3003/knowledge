@@ -104,4 +104,6 @@ STAKEHOLDERS:  product
 STAKEHOLDERS:  tech
 
 
-## 
+## Grouped Access management
+STAKEHOLDERS:  tech, product, financial , marketing 
+
