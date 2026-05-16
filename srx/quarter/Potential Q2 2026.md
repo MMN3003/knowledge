@@ -81,14 +81,21 @@ PROBLEM: each provider has different balancing logic and APIs which increases op
 
 SOLUTION: develop unified provider layer for transfer orchestration, monitoring and automated balancing operations.
 
-RESOURCES: 1 be + 1 QA
+RESOURCES:  1 bd +2 be + 1 QA
 ### Algo bot
+RESOURCES:  1 be + 1 QA
 ### crypto gateway
+RESOURCES:  1 bd + 1 be + 1 QA
 ### OTC
+RESOURCES:  1 bd + 1 be + 1 QA
 ### LOAN
+RESOURCES:  1 be + 1 QA
 ### Stake
+RESOURCES:  1 be + 1 QA
 ### Invoice
+RESOURCES:  1 be + 1 QA
 ### Pool
+RESOURCES:  1 be + 1 QA
 
 
 
