@@ -296,4 +296,4 @@ PROBLEM: users  currently lack visibility into internal asset movements.
 SOLUTION: develop internal transaction history and tracking module with filtering and reporting capabilities.
 
 RESOURCES: 1 be + 1 fe + 1 QA
-DURATION: 1 weeks
+DURATION: 2 weeks
