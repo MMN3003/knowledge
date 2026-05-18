@@ -46,15 +46,19 @@ PROBLEM: currently each feature and user data are in different databases so ther
 
 SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and financials make decisions to align business .
 
-DURATION: 2 weeks(automation)/ 3 weeks
 
 RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
+DURATION: 3 weeks + 3 days
 ### Warehouse core
 RESOURCES:   2 be + 1 QA
+
+DURATION: 2 weeks
 ### crypto gateway data fetch 
 RESOURCES:  1 bd + 2 be  + 1 QA
+DURATION: 1 weeks
 ### Bi panel
 RESOURCES:   1 be  + 1 QA
+DURATION: 3 days
 ## Rewrite Algo bot Service
 GOAL: Market making bots should not have large amount of loss. We should be able to config each side(sell, buy) seperately  
 
@@ -65,7 +69,7 @@ PROBLEM: currently each feature and user data are in different databases so ther
 SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and financials make decisions to align business .
 
 RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
-
+DURATION: 3 weeks - 1 weeks R&D
 
 ## Rebalancing Core
 
@@ -76,6 +80,7 @@ STAKEHOLDERS: financial
 PROBLEM: currently lacks of  liquidity and balances for each feature cause increase hidden costs and make accounting of features blury.
 
 SOLUTION: develop centralized rebalancing engine that monitors balances, liquidity requirements and exposures across all features and automatically performs balancing operations.
+DURATION: 1 weeks
 
 ### Rebalancing Provider
 GOAL: create provider abstraction layer for liquidity transfer and balancing operations.
