@@ -90,8 +90,10 @@ STAKEHOLDERS: financial
 PROBLEM: each provider has different balancing logic and APIs which increases operational complexity.
 
 SOLUTION: develop unified provider layer for transfer orchestration, monitoring and automated balancing operations.
-
 RESOURCES:  1 bd +2 be + 1 QA
+
+DURATION: 1 weeks
+
 ### Algo bot
 RESOURCES:  1 be + 1 QA
 ### crypto gateway
