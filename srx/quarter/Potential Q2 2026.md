@@ -80,7 +80,7 @@ STAKEHOLDERS: financial
 PROBLEM: currently lacks of  liquidity and balances for each feature cause increase hidden costs and make accounting of features blury.
 
 SOLUTION: develop centralized rebalancing engine that monitors balances, liquidity requirements and exposures across all features and automatically performs balancing operations.
-DURATION: 1 weeks
+DURATION: 2 weeks  + 7 weeks
 
 ### Rebalancing Provider
 GOAL: create provider abstraction layer for liquidity transfer and balancing operations.
@@ -92,22 +92,29 @@ PROBLEM: each provider has different balancing logic and APIs which increases op
 SOLUTION: develop unified provider layer for transfer orchestration, monitoring and automated balancing operations.
 RESOURCES:  1 bd +2 be + 1 QA
 
-DURATION: 1 weeks
+DURATION: 2 weeks
 
 ### Algo bot
 RESOURCES:  1 be + 1 QA
+DURATION: 1 weeks
 ### crypto gateway
 RESOURCES:  1 bd + 1 be + 1 QA
+DURATION: 1 weeks
 ### OTC
 RESOURCES:  1 bd + 1 be + 1 QA
+DURATION: 1 weeks
 ### LOAN
 RESOURCES:  1 be + 1 QA
+DURATION: 1 weeks
 ### Stake
 RESOURCES:  1 be + 1 QA
+DURATION: 1 weeks
 ### Invoice
 RESOURCES:  1 be + 1 QA
+DURATION: 1 weeks
 ### Pool
 RESOURCES:  1 be + 1 QA
+DURATION: 1 weeks
 
 
 
@@ -121,6 +128,7 @@ PROBLEM: current CMS capabilities are limited and create dependency on technical
 SOLUTION: upgrade CMS architecture and add operational tools for content management, campaigns and SEO optimization.
 
 RESOURCES: 1 be + 1 fe + 1 QA
+DURATION: 1 weeks
 ## Refactor and Launch Swap feature
 GOAL: improve swap scalability, execution performance and user experience.
 
@@ -131,6 +139,7 @@ PROBLEM: current swap implementation has architectural limitations and operation
 SOLUTION: refactor swap infrastructure and launch production-ready version with better liquidity and execution management.
 
 RESOURCES: 1 be + 1 fe + 1 QA
+DURATION: 2 weeks
 ## Add Dusting feature
 GOAL: allow users to convert low-value balances into usable assets.
 
@@ -141,6 +150,8 @@ PROBLEM: users accumulate small balances that cannot be traded or withdrawn effi
 SOLUTION: implement dust conversion feature for aggregating and converting small balances automatically by swap features.
 
 RESOURCES: 2 be + 1 fe + 1 QA
+DURATION: 2 weeks
+
 ## Create Club Service / Campaign
 GOAL: create loyalty and campaign management infrastructure.
 
@@ -151,6 +162,7 @@ PROBLEM: currently there is no centralized platform for loyalty programs, campai
 SOLUTION: develop dedicated club service for user engagement and retention. club service should received data from all features of the system.
 
 RESOURCES: 2 be + 1 fe + 1 QA
+DURATION: 3 weeks
 ## Handel Dex Market price failure
 GOAL: prevent incorrect pricing during DEX provider failures and outages.
 
@@ -161,7 +173,7 @@ PROBLEM: DEX provider instability can result in invalid prices and financial exp
 SOLUTION: implement fallback providers, price validation and close markets if there is not liquidity pool (price) for that coin. bots should be stoped and prevents users from placing new orders.
 
 RESOURCES: 2 be + 1 QA
-
+DURATION: 2 weeks
 ## Delist Coins Flow
 GOAL: create safe and standardized coin delisting process. 
 
@@ -172,6 +184,7 @@ PROBLEM: current delisting operations are manual and operationally risky.
 SOLUTION: develop unified delisting workflow including notification, disablement and operational coordination. user should be able to know when and how we delist a coin. financial should be able to specify converting rate and date of delisting.
 
 RESOURCES:  2 be + 1 fe + 1 QA
+DURATION: 2 weeks
 ## Debug Bank transaction
 GOAL: identify and resolve bank transaction inconsistencies and failures.
 
@@ -182,7 +195,7 @@ PROBLEM: bank transaction issues impact reconciliation, operational stability, u
 SOLUTION: improve bank transaction tracing, monitoring and recovery flows.
 
 RESOURCES: 1 be + 1 QA
-
+DURATION: 1 weeks
 ## Complete SEO 
 GOAL: improve organic traffic and search engine visibility.
 
@@ -193,7 +206,7 @@ PROBLEM: SEO implementation is incomplete and limits organic growth.
 SOLUTION: implement technical SEO optimization, metadata improvements and performance enhancements.
 
 RESOURCES: 1 fe 
-
+DURATION: 2 weeks
 ## Sarmayex Credit Card
 GOAL: launch integrated branded credit card infrastructure. users should be able to order a credit card , then move some assets into corresponding account in specific order. at the moment of using this card, we should create market order to convert asset/assets to fiat and pay the billing by this fiat. we need landing page for this feature too.
 
@@ -204,6 +217,7 @@ PROBLEM: users currently do not have integrated card-based spending capabilities
 SOLUTION: develop credit card infrastructure and banking integration for transaction and card management.
 
 RESOURCES:  2 be + 2 fe + 1 QA
+DURATION: 6 weeks
 ## Profit and Loss (PNL)
 GOAL: provide accurate profit and loss reporting for users and internal teams.
 
@@ -214,7 +228,7 @@ PROBLEM: users and stakeholders currently lack visibility into realized and unre
 SOLUTION: develop centralized PNL calculation and reporting infrastructure.
 
 RESOURCES: 2 be + 1 fe + 1 QA
-
+DURATION: 3 weeks
 ## Migration from Setting service to Lens
 GOAL: centralize and modernize configuration management infrastructure and make configuration dynamic by moving them to database and finally edit them from admin panel. Lens service should hold all brokers configuration.
 
@@ -225,7 +239,7 @@ PROBLEM: current setting service architecture increases operational complexity a
 SOLUTION: migrate configuration management capabilities into Lens service. also change all services to fetch configuration from lens instead of settings package
 
 RESOURCES: 3 be + 1 bd + 1 QA
-
+DURATION: 3 weeks 
 
 ## Grouped Access management
 GOAL: implement scalable role and group-based access management. Admin of each department should be able to access his owned permission to sub accounts.
@@ -237,6 +251,7 @@ PROBLEM: current access control model lacks flexibility and scalability. It take
 SOLUTION: develop grouped access management with hierarchical permissions and audit capabilities for each department admin.
 
 RESOURCES: 2 be + 1 fe + 1 QA
+DURATION: 1 week and 2 days
 ## Match Engine Database retention of removing use less data
 GOAL: reduce database growth and optimize performance by removing unnecessary historical data.
 
@@ -247,7 +262,7 @@ PROBLEM: historical data growth negatively impacts database performance and infr
 SOLUTION: implement retention policies, cleanup automation and archival strategy.
 
 RESOURCES: 1 be + 1 QA
-
+DURATION: 3 days
 ## IOS first Release
 GOAL: launch first production-ready IOS application.
 
