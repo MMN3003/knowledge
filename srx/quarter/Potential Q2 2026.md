@@ -10,6 +10,7 @@ PROBLEM: at the moment adding a new network or currency is manual and take consi
 SOLUTION: by automating the process as much as possible , we will reduce the time and possiablity of errors by developing an script to do it.
 
 RESOURCES: 2 be + 1 AQ
+
 ## Dex Swap
 GOAL: buy and sell assets as soon as possible when they are backed by dex.
 
