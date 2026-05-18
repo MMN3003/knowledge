@@ -273,6 +273,7 @@ PROBLEM: currently there is no IOS application available for users.
 SOLUTION: develop and release IOS application with trading, wallet and notification capabilities.
 
 RESOURCES: 2 mobile + 1 QA
+DURATION: 2 weeks
 ## Tradingview Charts or Bitycle
 GOAL: provide advanced charting and market analysis tools.
 
@@ -283,6 +284,7 @@ PROBLEM: current charting infrastructure is limited and lacks advanced trading c
 SOLUTION: integrate Tradingview infrastructure and real-time charting features.
 
 RESOURCES: 1 fe + 1 QA
+DURATION: 3 days
 ## Internal Transaction List for each user
 
 STAKEHOLDERS:  product
@@ -294,3 +296,4 @@ PROBLEM: users  currently lack visibility into internal asset movements.
 SOLUTION: develop internal transaction history and tracking module with filtering and reporting capabilities.
 
 RESOURCES: 1 be + 1 fe + 1 QA
+DURATION: 1 weeks
