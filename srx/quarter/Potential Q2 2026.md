@@ -10,7 +10,7 @@ PROBLEM: at the moment adding a new network or currency is manual and take consi
 SOLUTION: by automating the process as much as possible , we will reduce the time and possiablity of errors by developing an script to do it.
 
 RESOURCES: 2 be + 1 AQ
-
+DURATION: 2 weeks
 ## Dex Swap
 GOAL: buy and sell assets as soon as possible when they are backed by dex.
 
@@ -21,6 +21,7 @@ PROBLEM: at the moment when we sell an asset to customer which is backed by dex 
 SOLUTION: when we sell an asset to the customer, we should buy the asset ASAP close to the price that we sold. It will decrease the risk of financial loss as we obtain the asset close to the price that we sold to the customer.
 
 RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
+DURATION: 2 weeks
 
 ## Add New Network in Chainpulse Polygun(EVM)
 GOAL: create wallet addresses , detect deposits  ,fee calculation , withdraw  and wallets evacuation on Polygun Network.
@@ -32,6 +33,7 @@ PROBLEM: currently system do not support Polygun Network and customers that have
 SOLUTION: We should support Polygun network in chainpulse system to detect deposits, withdraw , fee calculation, evacuations and tracking each transaction status. Also we need to change Setting package , Lens services, Sarmayex, Internal wallet. New design on network list.
 
 RESOURCES: 1 bd + 1 be  + 1 fe + 1 QA
+DURATION: 2 weeks(automation)/ 3 weeks
 
 
 ## Warehouse
@@ -43,6 +45,8 @@ STAKEHOLDERS: financial, stakeholders
 PROBLEM: currently each feature and user data are in different databases so there is no integrated data.
 
 SOLUTION: By integrating data and remove useless data we can create bi reports that provide perfect sight of system current state and let managers and financials make decisions to align business .
+
+DURATION: 2 weeks(automation)/ 3 weeks
 
 RESOURCES:  1 bd + 2 be  + 1 fe + 1 QA
 ### Warehouse core
