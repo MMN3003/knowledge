@@ -297,3 +297,16 @@ SOLUTION: develop internal transaction history and tracking module with filterin
 
 RESOURCES: 1 be + 1 fe + 1 fd + 1 QA
 DURATION: 2 weeks
+
+## add iranian exchange 
+
+STAKEHOLDERS:  product
+
+GOAL: add an iranian exchange to the system in order to list coins faster.
+
+PROBLEM: listing new coins are limited to the coinex and bitunex exchange.
+
+SOLUTION: by adding a new iranian exchange we can list new coins as soon as possible.
+
+RESOURCES: 2 bd + 1 be +  1 QA
+DURATION: 2 weeks
