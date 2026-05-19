@@ -10,10 +10,10 @@ curl --location --request POST 'http://localhost:9009/bpapi/v1/mng/markets/cance
 --header 'Content-Type: application/json' \
 --data-raw '{
 "users": [
-"9c2b04bc-1f3a-4a5e-84c6-9a3e6b7e2e22",
+"4225f3a9-d4cf-466a-b776-5de36961d1c3",
 ],
 "market_name": "USDT_IRT",
-"broker_id": "2"
+"broker_id": "3"
 }'
 ```
 
