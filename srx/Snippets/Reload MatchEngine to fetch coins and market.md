@@ -4,3 +4,5 @@ curl --location --request GET 'localhost:9009/bpapi/v1/mng/markets/reload' --hea
 ```
 
 Token should be taken from `internal wallet` env file.
+
+
