@@ -129,7 +129,7 @@
 - 2 be => 10 days
 - 1 fe => 4 days
 
-#### Algo Bot
+#### rebalancing Algo Bot
 
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 2 days
