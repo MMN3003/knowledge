@@ -201,7 +201,7 @@
 - 1 bd => 1 day
 - 2 be => 5 days
 
-#### BI Panel
+#### warehouse BI Panel
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 4 days
 
