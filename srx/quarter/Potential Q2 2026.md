@@ -1,16 +1,12 @@
-Here is the reformatted document with English translation, consistent structure, and all projects preserved with their current durations.
-
----
-
 ## Technical Items
 
 ### Faster OTC
 **GOAL:** Convert money first and give it to the user, then trade it.
-**STAKEHOLDERS:** product 8, marketing 7, tech 10
+**STAKEHOLDERS:**  tech 10
 **PROBLEM:** Current OTC process causes delays in user fund availability.
 **SOLUTION:** Prioritize fund conversion and user distribution before executing the underlying trade.
 **RESOURCES:** 1 be
-**DURATION:** 5 days
+**DURATION:** 1 be => 5 days
 
 ---
 
@@ -85,7 +81,7 @@ Here is the reformatted document with English translation, consistent structure,
 **PROBLEM:** Currently, services are deployed on several machines using Docker containers. It's hard to manage them, and to have access to logs of the service, you have to have access to the production server. Also, there is no centralized management for services.
 **SOLUTION:** By moving services into K8s infra, we are able to use centralized service and access management. Reducing risk of human error and RCEs.
 **RESOURCES:** 2 devops + 1 be
-**DURATION:** Not specified
+**DURATION:**  2 devops  => 7 days
 
 ---
 
@@ -94,12 +90,8 @@ Here is the reformatted document with English translation, consistent structure,
 **STAKEHOLDERS:** financial 9, executive 8, product 7
 **PROBLEM:** Currently lack of liquidity and balances for each feature causes increase hidden costs and makes accounting of features blurry.
 **SOLUTION:** Develop centralized rebalancing engine that monitors balances, liquidity requirements and exposures across all features and automatically performs balancing operations.
-**RESOURCES:** Not specified
-**DURATION:** Not specified
 
----
-
-### Rebalancing Provider
+#### Rebalancing Provider
 **GOAL:** Create provider abstraction layer for liquidity transfer and balancing operations.
 **STAKEHOLDERS:** financial
 **PROBLEM:** Each provider has different balancing logic and APIs which increases operational complexity.
@@ -110,63 +102,32 @@ Here is the reformatted document with English translation, consistent structure,
 - 2 be => 10 days
 - 1 fe => 4 days
 
----
+#### Algo Bot
 
-### Algo Bot
-**GOAL:** Develop or improve algo bot functionality.
-**STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 2 days
+#### Crypto Gateway
 
----
-
-### Crypto Gateway
-**GOAL:** Develop or improve crypto gateway.
-**STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
 **RESOURCES:** 1 bd + 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
----
+#### OTC
 
-### OTC
-**GOAL:** Develop or improve OTC functionality.
-**STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
 **RESOURCES:** 1 bd + 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
----
+#### LOAN
 
-### LOAN
-**GOAL:** Develop or improve loan feature.
-**STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 1 day
 
----
+#### Stake
 
-### Stake
-**GOAL:** Develop or improve staking feature.
-**STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
----
+#### Pool
 
-### Pool
-**GOAL:** Develop or improve pool feature.
-**STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
@@ -201,7 +162,7 @@ Here is the reformatted document with English translation, consistent structure,
 **PROBLEM:** Currently each feature and user data are in different databases so there is no integrated data.
 **SOLUTION:** By integrating data and removing useless data we can create BI reports that provide perfect sight of system current state and let managers and financials make decisions to align business.
 **RESOURCES:** 1 bd + 2 be + 1 fe + 1 QA
-**DURATION:** Not specified for overall Warehouse
+
 
 #### Warehouse Core
 **RESOURCES:** 2 be + 1 QA
@@ -225,15 +186,15 @@ Here is the reformatted document with English translation, consistent structure,
 **PROBLEM:** Current CMS capabilities are limited and create dependency on technical teams for content updates and campaign operations.
 **SOLUTION:** Upgrade CMS architecture and add operational tools for content management, campaigns and SEO optimization.
 **RESOURCES:** 1 be + 1 fe + 1 QA
-**DURATION:** Not specified
+**DURATION:** 1 be => 5 days
 
 ---
 
 ### Myket, Bazaar, Google Play, App Store Accounting
-**GOAL:** Implement accounting for app store transactions.
+**GOAL:** create account for Myket, Bazaar, Google Play, App Store.
 **STAKEHOLDERS:** Not specified
-**PROBLEM:** Not specified
-**SOLUTION:** Not specified
+**PROBLEM:** currently account owners changed or there is no account for some store.
+**SOLUTION:** we should create account in each one of these stores.
 **RESOURCES:** 1 fd
 **DURATION:** 1 fd => 7 days
 
@@ -302,7 +263,7 @@ Here is the reformatted document with English translation, consistent structure,
 #### Campaign IRT Deposits
 **RESOURCES:** 2 be
 **DURATION:** 2 be => 10 days
-**ADDITIONAL:** 1 fe => 4 days
+ 1 fe => 4 days
 
 ---
 
@@ -326,7 +287,8 @@ Here is the reformatted document with English translation, consistent structure,
 **PROBLEM:** Users and stakeholders currently lack visibility into realized and unrealized profitability.
 **SOLUTION:** Develop centralized PNL calculation and reporting infrastructure.
 **RESOURCES:** 2 be + 1 fe + 1 QA
-**DURATION:** Not specified
+**DURATION:** 2 be => 14 days
+1 fe => 7 days
 
 ---
 
@@ -429,25 +391,6 @@ Here is the reformatted document with English translation, consistent structure,
 **RESOURCES:** 1 be
 **DURATION:** 1 be => 2 days
 
----
-
-### Continuous Website Accessibility and Search Engine Bot Access During Internet Outages, Infrastructure Disruptions and Network Problems
-**GOAL:** Ensure continuous website accessibility and search engine bot access during disruptions.
-**STAKEHOLDERS:** marketing 10
-**PROBLEM:** Internet outages and infrastructure disruptions affect website availability and SEO.
-**SOLUTION:** Implement resilience and fallback mechanisms.
-**RESOURCES:** Not specified
-**DURATION:** Not specified
-
----
-
-### Internal Transaction List for Each User
-**GOAL:** Provide visibility into internal user transactions and transfers.
-**STAKEHOLDERS:** product 8
-**PROBLEM:** Users currently lack visibility into internal asset movements.
-**SOLUTION:** Develop an internal transaction history and tracking module with filtering and reporting capabilities.
-**RESOURCES:** 1 be + 1 fe + 1 fd + 1 QA
-**DURATION:** Product: 1 day
 
 ---
 
