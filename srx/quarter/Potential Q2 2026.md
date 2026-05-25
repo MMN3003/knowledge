@@ -133,27 +133,27 @@
 
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 2 days
-#### Crypto Gateway
+#### rebalancing Crypto Gateway
 
 **RESOURCES:** 1 bd + 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
-#### OTC
+#### rebalancing OTC
 
 **RESOURCES:** 1 bd + 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
-#### LOAN
+#### rebalancing LOAN
 
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 1 day
 
-#### Stake
+#### rebalancing Stake
 
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 3 days
 
-#### Pool
+#### rebalancing Pool
 
 **RESOURCES:** 1 be + 1 QA
 **DURATION:** 1 be => 3 days
