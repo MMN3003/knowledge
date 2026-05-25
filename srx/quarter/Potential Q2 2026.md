@@ -9,6 +9,33 @@
 **DURATION:** 1 be => 5 days
 
 ---
+### Chainpulse database replica in Iran
+**GOAL:** create a replica of chainpulse database.
+**STAKEHOLDERS:**  tech 10
+**PROBLEM:** there is only one copy of chainpulse database.
+**SOLUTION:** create a replica of chainpulse database.
+**RESOURCES:** 1 devops
+**DURATION:** 1 devops => 2 days
+
+---
+### create s3 object storage 
+**GOAL:**  create s3 object storage in order to store files on it.
+**STAKEHOLDERS:**  tech 10
+**PROBLEM:** currently services store files inside the containers!
+**SOLUTION:** create s3 object storage in order to store files on it.
+**RESOURCES:** 1 devops
+**DURATION:** 1 devops => 2 days
+
+---
+### docker build pipelines 
+**GOAL:**  fix and debug build pipelines and use nexus as repository. 
+**STAKEHOLDERS:**  tech 10
+**PROBLEM:** currently we face many errors in building stage of the gitlab pipelines.
+**SOLUTION:** fix and debug build pipelines and use nexus as repository.
+**RESOURCES:** 1 devops
+**DURATION:** 1 devops => 3 days
+
+---
 
 ### Automate Network and Currency Release
 **GOAL:** Create automation for update, push and deploy setting package in different services and restart.
@@ -391,6 +418,15 @@
 **RESOURCES:** 1 be
 **DURATION:** 1 be => 2 days
 
+---
+
+### Create a Manual Increase Flow
+**GOAL:** Create manual increase flow for specific operations.
+**STAKEHOLDERS:** Not specified
+**PROBLEM:** Not specified
+**SOLUTION:** Not specified
+**RESOURCES:** 1 be
+**DURATION:** 1 be => 2 days
 
 ---
 
