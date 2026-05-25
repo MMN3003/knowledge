@@ -443,49 +443,56 @@
 
 ## Potential Quarter Document (Q3 2026 - Example)
 
-|#|Item|Team|Base Duration|Buffered Duration|
-|---|---|---|---|---|
-|1|Faster OTC|BE|5d|6d|
-|2|Chainpulse DB Replica|DevOps|2d|3d|
-|3|S3 Object Storage|DevOps|2d|3d|
-|4|Docker Pipelines|DevOps|3d|4d|
-|5|Automate Network/Currency|BE|7d|9d|
-|6|Rewrite Algo Bot (Full)|BE+FE+BD|14d|17d|
-|7|Debug Bank Transactions|BE|—|4d _(assumed baseline 3d)_|
-|8|TradingView Integration|FE + FD|4d|5d|
-|9|Complete SEO|FE|8d|10d|
-|10|Optimize Evacuation Fee|BD|14d|17d|
-|11|K8s Infrastructure|DevOps + BE|7d|9d|
-|12|Rebalancing Core (Provider)|BE + BD|10d|12d|
-|13|Rebalancing - Algo Bot|BE|2d|3d|
-|14|Rebalancing - Crypto Gateway|BD + BE|3d|4d|
-|15|Rebalancing - OTC|BD + BE|3d|4d|
-|16|Rebalancing - Loan|BE|1d|2d|
-|17|Rebalancing - Stake|BE|3d|4d|
-|18|Rebalancing - Pool|BE|3d|4d|
-|19|Delist Coins Flow|BE + FE + FD|4d|5d|
-|20|Migration Settings → Lens|BE + BD|14d|17d|
-|21|Warehouse Core|BE|7d|9d|
-|22|Crypto Gateway Data Fetch|BE + BD|5d|6d|
-|23|BI Panel|FE|4d|5d|
-|24|CMS Update|BE + FE|5d|6d|
-|25|Store Accounts Setup|FD|7d|9d|
-|26|iOS First Release|FD + Mobile|7d|9d|
-|27|Polygon Network Support|BE + BD + FE|7d|9d|
-|28|Swap Refactor|BE + FE|7d|9d|
-|29|Dusting Feature|BE + FE|4d|5d|
-|30|Club Service|BE + FE|7d|9d|
-|31|Campaign IRT Deposits|BE + FE|10d|12d|
-|32|Credit Card System|BE + FE + BD|14d|17d|
-|33|PNL System|BE + FE|14d|17d|
-|34|Group Access Management|BE + FE|4d|5d|
-|35|Match Engine Retention|BE|2d|3d|
-|36|Iranian Exchange|BD + BE|12d|15d|
-|37|Market Expansion (Currencies)|BE|2d|3d|
-|38|DEX Swap|BD + BE + FE|14d|17d|
-|39|DEX Price Failure Handling|BE|3d|4d|
-|40|Event Tracking / CRM|FE + FD|7d|9d|
-|41|Referral & Affiliate|BE + FE + FD|7d|9d|
-|42|Manual Increase Flow|BE|2d|3d|
-|43|Monitoring System|DevOps|3d|4d|
-|44|Cold Backup System|DevOps|7d|9d|
+| #   | Item                          | Team         | Base Duration | Buffered Duration          |
+| --- | ----------------------------- | ------------ | ------------- | -------------------------- |
+| 1   | Faster OTC                    | BE           | 5d            | 6d                         |
+| 2   | Chainpulse DB Replica         | DevOps       | 2d            | 3d                         |
+| 3   | S3 Object Storage             | DevOps       | 2d            | 3d                         |
+| 4   | Docker Pipelines              | DevOps       | 3d            | 4d                         |
+| 5   | Automate Network/Currency     | BE           | 7d            | 9d                         |
+| 6   | Rewrite Algo Bot (Full)       | BE+FE+BD     | 14d           | 17d                        |
+| 7   | Debug Bank Transactions       | BE           | —             | 4d _(assumed baseline 3d)_ |
+| 8   | TradingView Integration       | FE + FD      | 4d            | 5d                         |
+| 9   | Complete SEO                  | FE           | 8d            | 10d                        |
+| 10  | Optimize Evacuation Fee       | BD           | 14d           | 17d                        |
+| 11  | K8s Infrastructure            | DevOps + BE  | 7d            | 9d                         |
+| 12  | Rebalancing Core (Provider)   | BE + BD      | 10d           | 12d                        |
+| 13  | Rebalancing - Algo Bot        | BE           | 2d            | 3d                         |
+| 14  | Rebalancing - Crypto Gateway  | BD + BE      | 3d            | 4d                         |
+| 15  | Rebalancing - OTC             | BD + BE      | 3d            | 4d                         |
+| 16  | Rebalancing - Loan            | BE           | 1d            | 2d                         |
+| 17  | Rebalancing - Stake           | BE           | 3d            | 4d                         |
+| 18  | Rebalancing - Pool            | BE           | 3d            | 4d                         |
+| 19  | Delist Coins Flow             | BE + FE + FD | 4d            | 5d                         |
+| 20  | Migration Settings → Lens     | BE + BD      | 14d           | 17d                        |
+| 21  | Warehouse Core                | BE           | 7d            | 9d                         |
+| 22  | Crypto Gateway Data Fetch     | BE + BD      | 5d            | 6d                         |
+| 23  | BI Panel                      | FE           | 4d            | 5d                         |
+| 24  | CMS Update                    | BE + FE      | 5d            | 6d                         |
+| 25  | Store Accounts Setup          | FD           | 7d            | 9d                         |
+| 26  | iOS First Release             | FD + Mobile  | 7d            | 9d                         |
+| 27  | Polygon Network Support       | BE + BD + FE | 7d            | 9d                         |
+| 28  | Swap Refactor                 | BE + FE      | 7d            | 9d                         |
+| 29  | Dusting Feature               | BE + FE      | 4d            | 5d                         |
+| 30  | Club Service                  | BE + FE      | 7d            | 9d                         |
+| 31  | Campaign IRT Deposits         | BE + FE      | 10d           | 12d                        |
+| 32  | Credit Card System            | BE + FE + BD | 14d           | 17d                        |
+| 33  | PNL System                    | BE + FE      | 14d           | 17d                        |
+| 34  | Group Access Management       | BE + FE      | 4d            | 5d                         |
+| 35  | Match Engine Retention        | BE           | 2d            | 3d                         |
+| 36  | Iranian Exchange              | BD + BE      | 12d           | 15d                        |
+| 37  | Market Expansion (Currencies) | BE           | 2d            | 3d                         |
+| 38  | DEX Swap                      | BD + BE + FE | 14d           | 17d                        |
+| 39  | DEX Price Failure Handling    | BE           | 3d            | 4d                         |
+| 40  | Event Tracking / CRM          | FE + FD      | 7d            | 9d                         |
+| 41  | Referral & Affiliate          | BE + FE + FD | 7d            | 9d                         |
+| 42  | Manual Increase Flow          | BE           | 2d            | 3d                         |
+| 43  | Monitoring System             | DevOps       | 3d            | 4d                         |
+| 44  | Cold Backup System            | DevOps       | 7d            | 9d                         |
+
+
+
+
+| ۱ تیر | ۲ تیر |
+| ----- | ----- |
+|       |       |
