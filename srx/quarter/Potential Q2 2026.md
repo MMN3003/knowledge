@@ -396,44 +396,44 @@
 
 ## Potential Quarter Document (Q3 2026 - Example)
 
-| Project | Duration | Resources | Stakeholders | Priority |
-|---------|----------|-----------|--------------|----------|
-| Faster OTC | 5 days | 1 be | product 8, marketing 7, tech 10 | High |
-| Automate Network and Currency Release | 7 days | 2 be + 1 QA | product 8, marketing 7, tech 10 | High |
-| Rewrite Algo Bot Service | 1+7+14+5 days | 1 bd + 2 be + 1 fe + 1 QA | financial 10, executive 10, marketing 7, product 8, tech 10 | Critical |
-| Debug Bank Transaction | TBD | 1 be + 1 QA | financial 10 | High |
-| Tradingview Charts | 3+1 days | 1 fe + 1 QA | product 10, marketing 8, tech 7 | Medium |
-| Complete SEO | 8 days | 1 fe | marketing 10 | High |
-| Optimize Evacuation Fee | 14 days | 1 bd | financial 10, executive 10 | Medium |
-| K8s Infrastructures | TBD | 2 devops + 1 be | tech 10 | Critical |
-| Rebalancing Core | TBD | TBD | financial 9, executive 8, product 7 | High |
-| Rebalancing Provider | 1+10+4 days | 1 bd + 2 be + 1 QA | financial | High |
-| Algo Bot | 2 days | 1 be + 1 QA | TBD | Medium |
-| Crypto Gateway | 3 days | 1 bd + 1 be + 1 QA | TBD | Medium |
-| OTC | 3 days | 1 bd + 1 be + 1 QA | TBD | Medium |
-| LOAN | 1 day | 1 be + 1 QA | TBD | Low |
-| Stake | 3 days | 1 be + 1 QA | TBD | Medium |
-| Pool | 3 days | 1 be + 1 QA | TBD | Medium |
-| Delist Coins Flow | 4+3+4 days | 2 be + 1 fe + 1 QA | tech 10, product 7, financial 7, support 8, marketing 7 | High |
-| Migration to Lens | 14 days | 3 be + 1 bd + 1 QA | tech 10, financial 7 | Critical |
-| Warehouse (Core + Gateway + BI) | 7+1+5+4 days | 1 bd + 2 be + 1 fe + 1 QA | financial 10, marketing 10, product 10, executive 8 | Critical |
-| Update CMS Service | TBD | 1 be + 1 fe + 1 QA | marketing 10 | Medium |
-| App Store Accounting | 7 days | 1 fd | TBD | Low |
-| iOS First Release | 7 days | 2 mobile + 1 QA | product 8, marketing 8 | High |
-| Add Polygon Network | 7+1 days | 1 bd + 1 be + 1 fe + 1 QA | product 8, executive 8 | High |
-| Refactor Swap | 2+4+3+7 days | 1 be + 1 fe + 1 QA | product 9, marketing 5, executive 5 | High |
-| Dusting Feature | 2+4+4+5 days | 2 be + 1 fe + 1 QA | product 9, marketing 5, executive 5 | Medium |
-| Club Service | 4w + 7+10+4 days | 2 be + 1 fe + 1 QA | marketing 10, product 6, executive 6 | High |
-| Sarmayex Credit Card | 2w + 14+8+14 days | 2 be + 2 fe + 1 QA | product 7, marketing 6, executive 5 | High |
-| PNL | TBD | 2 be + 1 fe + 1 QA | product 5 | Medium |
-| Grouped Access Management | 4 days | 2 be + 1 fe + 1 QA | tech 8, product 6, financial 8 | High |
-| Match Engine Retention | 2 days | 1 be + 1 QA | tech 7 | Low |
-| Add Iranian Exchange | 12+3 days | 2 bd + 1 be + 1 QA | product 7, marketing 8 | Medium |
-| Add Market for Currencies | 2 days | 1 be | product 10, marketing 10 | Medium |
-| Dex Swap | 14+5+4 days | 1 bd + 1 be + 1 fe + 1 QA | financial 2 | Medium |
-| Handle DEX Price Failure | 3 days | 2 be + 1 QA | tech 10, financial 10, executive 10, product 7 | High |
-| Event Tracking & Marketing Automation | 7+7 days | 1 fd + 1 fe | marketing 10, product 8 | High |
-| Referral and Affiliate | 1w + 7+2+2 days | 2 be + 1 fe + 1 fd | marketing 10, product 7 | High |
-| Manual Increase Flow | 2 days | 1 be | TBD | Low |
-| Website Accessibility During Outages | TBD | TBD | marketing 10 | Medium |
-| Internal Transaction List | 1 day | 1 be + 1 fe + 1 fd + 1 QA | product 8 | Low |
+| Project                               | Duration          | Resources                 | Stakeholders                                                |
+| ------------------------------------- | ----------------- | ------------------------- | ----------------------------------------------------------- |
+| Faster OTC                            | 5 days            | 1 be                      | product 8, marketing 7, tech 10                             |
+| Automate Network and Currency Release | 7 days            | 2 be + 1 QA               | product 8, marketing 7, tech 10                             |
+| Rewrite Algo Bot Service              | 1+7+14+5 days     | 1 bd + 2 be + 1 fe + 1 QA | financial 10, executive 10, marketing 7, product 8, tech 10 |
+| Debug Bank Transaction                | TBD               | 1 be + 1 QA               | financial 10                                                |
+| Tradingview Charts                    | 3+1 days          | 1 fe + 1 QA               | product 10, marketing 8, tech 7                             |
+| Complete SEO                          | 8 days            | 1 fe                      | marketing 10                                                |
+| Optimize Evacuation Fee               | 14 days           | 1 bd                      | financial 10, executive 10                                  |
+| K8s Infrastructures                   | TBD               | 2 devops + 1 be           | tech 10                                                     |
+| Rebalancing Core                      | TBD               | TBD                       | financial 9, executive 8, product 7                         |
+| Rebalancing Provider                  | 1+10+4 days       | 1 bd + 2 be + 1 QA        | financial                                                   |
+| Algo Bot                              | 2 days            | 1 be + 1 QA               | TBD                                                         |
+| Crypto Gateway                        | 3 days            | 1 bd + 1 be + 1 QA        | TBD                                                         |
+| OTC                                   | 3 days            | 1 bd + 1 be + 1 QA        | TBD                                                         |
+| LOAN                                  | 1 day             | 1 be + 1 QA               | TBD                                                         |
+| Stake                                 | 3 days            | 1 be + 1 QA               | TBD                                                         |
+| Pool                                  | 3 days            | 1 be + 1 QA               | TBD                                                         |
+| Delist Coins Flow                     | 4+3+4 days        | 2 be + 1 fe + 1 QA        | tech 10, product 7, financial 7, support 8, marketing 7     |
+| Migration to Lens                     | 14 days           | 3 be + 1 bd + 1 QA        | tech 10, financial 7                                        |
+| Warehouse (Core + Gateway + BI)       | 7+1+5+4 days      | 1 bd + 2 be + 1 fe + 1 QA | financial 10, marketing 10, product 10, executive 8         |
+| Update CMS Service                    | TBD               | 1 be + 1 fe + 1 QA        | marketing 10                                                |
+| App Store Accounting                  | 7 days            | 1 fd                      | TBD                                                         |
+| iOS First Release                     | 7 days            | 2 mobile + 1 QA           | product 8, marketing 8                                      |
+| Add Polygon Network                   | 7+1 days          | 1 bd + 1 be + 1 fe + 1 QA | product 8, executive 8                                      |
+| Refactor Swap                         | 2+4+3+7 days      | 1 be + 1 fe + 1 QA        | product 9, marketing 5, executive 5                         |
+| Dusting Feature                       | 2+4+4+5 days      | 2 be + 1 fe + 1 QA        | product 9, marketing 5, executive 5                         |
+| Club Service                          | 4w + 7+10+4 days  | 2 be + 1 fe + 1 QA        | marketing 10, product 6, executive 6                        |
+| Sarmayex Credit Card                  | 2w + 14+8+14 days | 2 be + 2 fe + 1 QA        | product 7, marketing 6, executive 5                         |
+| PNL                                   | TBD               | 2 be + 1 fe + 1 QA        | product 5                                                   |
+| Grouped Access Management             | 4 days            | 2 be + 1 fe + 1 QA        | tech 8, product 6, financial 8                              |
+| Match Engine Retention                | 2 days            | 1 be + 1 QA               | tech 7                                                      |
+| Add Iranian Exchange                  | 12+3 days         | 2 bd + 1 be + 1 QA        | product 7, marketing 8                                      |
+| Add Market for Currencies             | 2 days            | 1 be                      | product 10, marketing 10                                    |
+| Dex Swap                              | 14+5+4 days       | 1 bd + 1 be + 1 fe + 1 QA | financial 2                                                 |
+| Handle DEX Price Failure              | 3 days            | 2 be + 1 QA               | tech 10, financial 10, executive 10, product 7              |
+| Event Tracking & Marketing Automation | 7+7 days          | 1 fd + 1 fe               | marketing 10, product 8                                     |
+| Referral and Affiliate                | 1w + 7+2+2 days   | 2 be + 1 fe + 1 fd        | marketing 10, product 7                                     |
+| Manual Increase Flow                  | 2 days            | 1 be                      | TBD                                                         |
+| Website Accessibility During Outages  | TBD               | TBD                       | marketing 10                                                |
+| Internal Transaction List             | 1 day             | 1 be + 1 fe + 1 fd + 1 QA | product 8                                                   |
