@@ -6,7 +6,7 @@
 **PROBLEM:** Current OTC process causes delays in user fund availability.
 **SOLUTION:** Prioritize fund conversion and user distribution before executing the underlying trade.
 **RESOURCES:** 1 be
-**DURATION:** 1 be => 5 days
+**DURATION:** 1 be => 6 days
 
 ---
 ### Chainpulse database replica in Iran
@@ -425,8 +425,8 @@
 **STAKEHOLDERS:** Not specified
 **PROBLEM:** Not specified
 **SOLUTION:** Not specified
-**RESOURCES:** 1 devops
-**DURATION:** 1 devops => 3 days
+**RESOURCES:** 2devops
+**DURATION:** 2 devops => 3 days
 
 
 ---
@@ -436,8 +436,8 @@
 **STAKEHOLDERS:** Not specified
 **PROBLEM:** Not specified
 **SOLUTION:** Not specified
-**RESOURCES:** 1 devops
-**DURATION:** 1 devops => 7 days
+**RESOURCES:** 2 devops
+**DURATION:** 2 devops => 7 days
 
 ---
 
