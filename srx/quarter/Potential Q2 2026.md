@@ -420,13 +420,24 @@
 
 ---
 
-### Create a Manual Increase Flow
-**GOAL:** Create manual increase flow for specific operations.
+### monitoring system 
+**GOAL:** create monitoring system for observation of the system metrics.
 **STAKEHOLDERS:** Not specified
 **PROBLEM:** Not specified
 **SOLUTION:** Not specified
-**RESOURCES:** 1 be
-**DURATION:** 1 be => 2 days
+**RESOURCES:** 1 devops
+**DURATION:** 1 devops => 3 days
+
+
+---
+
+### cold backup 
+**GOAL:** create cold backup each day and store it in a safe place.
+**STAKEHOLDERS:** Not specified
+**PROBLEM:** Not specified
+**SOLUTION:** Not specified
+**RESOURCES:** 1 devops
+**DURATION:** 1 devops => 7 days
 
 ---
 
