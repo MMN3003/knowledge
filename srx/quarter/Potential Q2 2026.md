@@ -443,44 +443,49 @@
 
 ## Potential Quarter Document (Q3 2026 - Example)
 
-| Project                               | Duration          | Resources                 | Stakeholders                                                |
-| ------------------------------------- | ----------------- | ------------------------- | ----------------------------------------------------------- |
-| Faster OTC                            | 5 days            | 1 be                      | product 8, marketing 7, tech 10                             |
-| Automate Network and Currency Release | 7 days            | 2 be + 1 QA               | product 8, marketing 7, tech 10                             |
-| Rewrite Algo Bot Service              | 1+7+14+5 days     | 1 bd + 2 be + 1 fe + 1 QA | financial 10, executive 10, marketing 7, product 8, tech 10 |
-| Debug Bank Transaction                | TBD               | 1 be + 1 QA               | financial 10                                                |
-| Tradingview Charts                    | 3+1 days          | 1 fe + 1 QA               | product 10, marketing 8, tech 7                             |
-| Complete SEO                          | 8 days            | 1 fe                      | marketing 10                                                |
-| Optimize Evacuation Fee               | 14 days           | 1 bd                      | financial 10, executive 10                                  |
-| K8s Infrastructures                   | TBD               | 2 devops + 1 be           | tech 10                                                     |
-| Rebalancing Core                      | TBD               | TBD                       | financial 9, executive 8, product 7                         |
-| Rebalancing Provider                  | 1+10+4 days       | 1 bd + 2 be + 1 QA        | financial                                                   |
-| Algo Bot                              | 2 days            | 1 be + 1 QA               | TBD                                                         |
-| Crypto Gateway                        | 3 days            | 1 bd + 1 be + 1 QA        | TBD                                                         |
-| OTC                                   | 3 days            | 1 bd + 1 be + 1 QA        | TBD                                                         |
-| LOAN                                  | 1 day             | 1 be + 1 QA               | TBD                                                         |
-| Stake                                 | 3 days            | 1 be + 1 QA               | TBD                                                         |
-| Pool                                  | 3 days            | 1 be + 1 QA               | TBD                                                         |
-| Delist Coins Flow                     | 4+3+4 days        | 2 be + 1 fe + 1 QA        | tech 10, product 7, financial 7, support 8, marketing 7     |
-| Migration to Lens                     | 14 days           | 3 be + 1 bd + 1 QA        | tech 10, financial 7                                        |
-| Warehouse (Core + Gateway + BI)       | 7+1+5+4 days      | 1 bd + 2 be + 1 fe + 1 QA | financial 10, marketing 10, product 10, executive 8         |
-| Update CMS Service                    | TBD               | 1 be + 1 fe + 1 QA        | marketing 10                                                |
-| App Store Accounting                  | 7 days            | 1 fd                      | TBD                                                         |
-| iOS First Release                     | 7 days            | 2 mobile + 1 QA           | product 8, marketing 8                                      |
-| Add Polygon Network                   | 7+1 days          | 1 bd + 1 be + 1 fe + 1 QA | product 8, executive 8                                      |
-| Refactor Swap                         | 2+4+3+7 days      | 1 be + 1 fe + 1 QA        | product 9, marketing 5, executive 5                         |
-| Dusting Feature                       | 2+4+4+5 days      | 2 be + 1 fe + 1 QA        | product 9, marketing 5, executive 5                         |
-| Club Service                          | 4w + 7+10+4 days  | 2 be + 1 fe + 1 QA        | marketing 10, product 6, executive 6                        |
-| Sarmayex Credit Card                  | 2w + 14+8+14 days | 2 be + 2 fe + 1 QA        | product 7, marketing 6, executive 5                         |
-| PNL                                   | TBD               | 2 be + 1 fe + 1 QA        | product 5                                                   |
-| Grouped Access Management             | 4 days            | 2 be + 1 fe + 1 QA        | tech 8, product 6, financial 8                              |
-| Match Engine Retention                | 2 days            | 1 be + 1 QA               | tech 7                                                      |
-| Add Iranian Exchange                  | 12+3 days         | 2 bd + 1 be + 1 QA        | product 7, marketing 8                                      |
-| Add Market for Currencies             | 2 days            | 1 be                      | product 10, marketing 10                                    |
-| Dex Swap                              | 14+5+4 days       | 1 bd + 1 be + 1 fe + 1 QA | financial 2                                                 |
-| Handle DEX Price Failure              | 3 days            | 2 be + 1 QA               | tech 10, financial 10, executive 10, product 7              |
-| Event Tracking & Marketing Automation | 7+7 days          | 1 fd + 1 fe               | marketing 10, product 8                                     |
-| Referral and Affiliate                | 1w + 7+2+2 days   | 2 be + 1 fe + 1 fd        | marketing 10, product 7                                     |
-| Manual Increase Flow                  | 2 days            | 1 be                      | TBD                                                         |
-| Website Accessibility During Outages  | TBD               | TBD                       | marketing 10                                                |
-| Internal Transaction List             | 1 day             | 1 be + 1 fe + 1 fd + 1 QA | product 8                                                   |
+|#|Item|Team|Base Duration|Buffered Duration|
+|---|---|---|---|---|
+|1|Faster OTC|BE|5d|6d|
+|2|Chainpulse DB Replica|DevOps|2d|3d|
+|3|S3 Object Storage|DevOps|2d|3d|
+|4|Docker Pipelines|DevOps|3d|4d|
+|5|Automate Network/Currency|BE|7d|9d|
+|6|Rewrite Algo Bot (Full)|BE+FE+BD|14d|17d|
+|7|Debug Bank Transactions|BE|—|4d _(assumed baseline 3d)_|
+|8|TradingView Integration|FE + FD|4d|5d|
+|9|Complete SEO|FE|8d|10d|
+|10|Optimize Evacuation Fee|BD|14d|17d|
+|11|K8s Infrastructure|DevOps + BE|7d|9d|
+|12|Rebalancing Core (Provider)|BE + BD|10d|12d|
+|13|Rebalancing - Algo Bot|BE|2d|3d|
+|14|Rebalancing - Crypto Gateway|BD + BE|3d|4d|
+|15|Rebalancing - OTC|BD + BE|3d|4d|
+|16|Rebalancing - Loan|BE|1d|2d|
+|17|Rebalancing - Stake|BE|3d|4d|
+|18|Rebalancing - Pool|BE|3d|4d|
+|19|Delist Coins Flow|BE + FE + FD|4d|5d|
+|20|Migration Settings → Lens|BE + BD|14d|17d|
+|21|Warehouse Core|BE|7d|9d|
+|22|Crypto Gateway Data Fetch|BE + BD|5d|6d|
+|23|BI Panel|FE|4d|5d|
+|24|CMS Update|BE + FE|5d|6d|
+|25|Store Accounts Setup|FD|7d|9d|
+|26|iOS First Release|FD + Mobile|7d|9d|
+|27|Polygon Network Support|BE + BD + FE|7d|9d|
+|28|Swap Refactor|BE + FE|7d|9d|
+|29|Dusting Feature|BE + FE|4d|5d|
+|30|Club Service|BE + FE|7d|9d|
+|31|Campaign IRT Deposits|BE + FE|10d|12d|
+|32|Credit Card System|BE + FE + BD|14d|17d|
+|33|PNL System|BE + FE|14d|17d|
+|34|Group Access Management|BE + FE|4d|5d|
+|35|Match Engine Retention|BE|2d|3d|
+|36|Iranian Exchange|BD + BE|12d|15d|
+|37|Market Expansion (Currencies)|BE|2d|3d|
+|38|DEX Swap|BD + BE + FE|14d|17d|
+|39|DEX Price Failure Handling|BE|3d|4d|
+|40|Event Tracking / CRM|FE + FD|7d|9d|
+|41|Referral & Affiliate|BE + FE + FD|7d|9d|
+|42|Manual Increase Flow|BE|2d|3d|
+|43|Monitoring System|DevOps|3d|4d|
+|44|Cold Backup System|DevOps|7d|9d|
