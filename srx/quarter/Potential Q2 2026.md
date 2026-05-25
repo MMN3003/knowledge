@@ -15,7 +15,7 @@
 **PROBLEM:** there is only one copy of chainpulse database.
 **SOLUTION:** create a replica of chainpulse database.
 **RESOURCES:** 1 devops
-**DURATION:** 1 devops => 2 days
+**DURATION:** 1 devops => 3 days
 
 ---
 ### create s3 object storage 
@@ -24,7 +24,7 @@
 **PROBLEM:** currently services store files inside the containers!
 **SOLUTION:** create s3 object storage in order to store files on it.
 **RESOURCES:** 1 devops
-**DURATION:** 1 devops => 2 days
+**DURATION:** 1 devops => 3 days
 
 ---
 ### docker build pipelines 
@@ -33,7 +33,7 @@
 **PROBLEM:** currently we face many errors in building stage of the gitlab pipelines.
 **SOLUTION:** fix and debug build pipelines and use nexus as repository.
 **RESOURCES:** 1 devops
-**DURATION:** 1 devops => 3 days
+**DURATION:** 1 devops => 4 days
 
 ---
 
@@ -43,7 +43,7 @@
 **PROBLEM:** At the moment adding a new network or currency is manual and takes considerable amount of time, it also increases risk of human errors.
 **SOLUTION:** By automating the process as much as possible, we will reduce the time and possibility of errors by developing a script to do it.
 **RESOURCES:** 2 be + 1 QA
-**DURATION:** 2 be => 7 days
+**DURATION:** 2 be => 9 days
 
 ---
 
@@ -55,8 +55,8 @@
 **RESOURCES:** 1 bd + 2 be + 1 fe + 1 QA
 **DURATION:**
 - 1 bd => 1 day
-- 2 be => R&D 7 days, 14 days
-- 1 fe => 5 days
+- 2 be => R&D 7 days, 17 days
+- 1 fe => 6 days
 
 ---
 
@@ -66,7 +66,7 @@
 **PROBLEM:** Bank transaction issues impact reconciliation, operational stability, user trust and fiat deposit/withdraw time.
 **SOLUTION:** Improve bank transaction tracing, monitoring and recovery flows.
 **RESOURCES:** 1 be + 1 QA
-**DURATION:** Not specified
+**DURATION:**  1 be => 3 days
 
 ---
 
@@ -77,8 +77,8 @@
 **SOLUTION:** Integrate TradingView infrastructure and real-time charting features.
 **RESOURCES:** 1 fe + 1 QA
 **DURATION:**
-- 1 fe => 3 days
-- 1 fd => 1 day
+- 1 fe => 4 days
+- 1 fd => 2 day
 
 ---
 
@@ -88,7 +88,7 @@
 **PROBLEM:** SEO implementation is incomplete and limits organic growth.
 **SOLUTION:** Implement technical SEO optimization, metadata improvements and performance enhancements.
 **RESOURCES:** 1 fe
-**DURATION:** 1 fe => 8 days
+**DURATION:** 1 fe => 10 days
 
 ---
 
@@ -98,7 +98,7 @@
 **PROBLEM:** Current evacuation fees are not optimized.
 **SOLUTION:** Analyze and optimize evacuation fee logic.
 **RESOURCES:** 1 bd
-**DURATION:** 1 bd => 14 days
+**DURATION:** 1 bd => 18 days
 
 ---
 
@@ -108,7 +108,18 @@
 **PROBLEM:** Currently, services are deployed on several machines using Docker containers. It's hard to manage them, and to have access to logs of the service, you have to have access to the production server. Also, there is no centralized management for services.
 **SOLUTION:** By moving services into K8s infra, we are able to use centralized service and access management. Reducing risk of human error and RCEs.
 **RESOURCES:** 2 devops + 1 be
-**DURATION:**  2 devops  => 7 days
+**DURATION:**  2 devops  => 10 days
+
+---
+### Health check
+**DURATION:**  2 devops  => 4 days
+1 be => 3 days
+
+---
+
+### heartbeat metric
+**DURATION:**  2 devops  => 5 days
+
 
 ---
 
@@ -126,13 +137,13 @@
 **RESOURCES:** 1 bd + 2 be + 1 QA
 **DURATION:**
 - 1 bd => 1 day
-- 2 be => 10 days
-- 1 fe => 4 days
+- 2 be => 13 days
+- 1 fe => 5 days
 
 #### rebalancing Algo Bot
 
 **RESOURCES:** 1 be + 1 QA
-**DURATION:** 1 be => 2 days
+**DURATION:** 1 be => 3 days
 #### rebalancing Crypto Gateway
 
 **RESOURCES:** 1 bd + 1 be + 1 QA
@@ -141,7 +152,7 @@
 #### rebalancing OTC
 
 **RESOURCES:** 1 bd + 1 be + 1 QA
-**DURATION:** 1 be => 3 days
+**DURATION:** 1 be => 4 days
 
 #### rebalancing LOAN
 
