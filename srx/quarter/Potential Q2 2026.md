@@ -157,17 +157,17 @@
 #### rebalancing LOAN
 
 **RESOURCES:** 1 be + 1 QA
-**DURATION:** 1 be => 1 day
+**DURATION:** 1 be => 2 day
 
 #### rebalancing Stake
 
 **RESOURCES:** 1 be + 1 QA
-**DURATION:** 1 be => 3 days
+**DURATION:** 1 be => 4 days
 
 #### rebalancing Pool
 
 **RESOURCES:** 1 be + 1 QA
-**DURATION:** 1 be => 3 days
+**DURATION:** 1 be => 4 days
 
 ---
 
@@ -178,9 +178,10 @@
 **SOLUTION:** Develop unified delisting workflow including notification, disablement and operational coordination. User should be able to know when and how we delist a coin. Financial should be able to specify converting rate and date of delisting.
 **RESOURCES:** 2 be + 1 fe + 1 QA
 **DURATION:**
-- 2 be => 4 days
-- 2 fe => 3 days
-- 1 fd => 4 days
+- 1 be => 10 days
+- product = > 9 days
+- 2 fe => 5 days
+- 1 fd => 6 days
 
 ---
 
@@ -190,7 +191,7 @@
 **PROBLEM:** Current setting service architecture increases operational complexity and maintenance overhead.
 **SOLUTION:** Migrate configuration management capabilities into Lens service. Also change all services to fetch configuration from lens instead of settings package.
 **RESOURCES:** 3 be + 1 bd + 1 QA
-**DURATION:** 2 be => 14 days
+**DURATION:** 2 be => 18 days
 
 ---
 
@@ -204,17 +205,17 @@
 
 #### Warehouse Core
 **RESOURCES:** 2 be + 1 QA
-**DURATION:** 2 be => 7 days
+**DURATION:** 1 be => 17 days
 
 #### Crypto Gateway Data Fetch
 **RESOURCES:** 1 bd + 2 be + 1 QA
 **DURATION:**
 - 1 bd => 1 day
-- 2 be => 5 days
+- 2 be => 7 days
 
 #### warehouse BI Panel
 **RESOURCES:** 1 be + 1 QA
-**DURATION:** 1 be => 4 days
+**DURATION:** 1 be => 6 days
 
 ---
 
@@ -224,7 +225,7 @@
 **PROBLEM:** Current CMS capabilities are limited and create dependency on technical teams for content updates and campaign operations.
 **SOLUTION:** Upgrade CMS architecture and add operational tools for content management, campaigns and SEO optimization.
 **RESOURCES:** 1 be + 1 fe + 1 QA
-**DURATION:** 1 be => 5 days
+**DURATION:** 1 be => 6 days
 
 ---
 
@@ -234,7 +235,7 @@
 **PROBLEM:** currently account owners changed or there is no account for some store.
 **SOLUTION:** we should create account in each one of these stores.
 **RESOURCES:** 1 fd
-**DURATION:** 1 fd => 7 days
+**DURATION:** 1 fd => 10 days
 
 ---
 
@@ -244,7 +245,7 @@
 **PROBLEM:** Currently there is no iOS application available for users.
 **SOLUTION:** Develop and release iOS application with trading, wallet and notification capabilities.
 **RESOURCES:** 2 mobile + 1 QA
-**DURATION:** 1 fd => 7 days
+**DURATION:** 1 fd => 9 days
 
 ---
 
@@ -255,7 +256,7 @@
 **SOLUTION:** We should support Polygon network in chainpulse system to detect deposits, withdraw, fee calculation, evacuations and tracking each transaction status. Also we need to change Setting package, Lens services, Sarmayex, Internal wallet. New design on network list.
 **RESOURCES:** 1 bd + 1 be + 1 fe + 1 QA
 **DURATION:**
-- 1 bd => 7 days
+- 1 bd => 10 days
 - 1 be => 1 day
 
 ---
@@ -267,10 +268,10 @@
 **SOLUTION:** Refactor swap infrastructure and launch production-ready version with better liquidity and execution management.
 **RESOURCES:** 1 be + 1 fe + 1 QA
 **DURATION:**
-- Product: 2 days
-- 1 be => 4 days
-- 1 fe => 3 days
-- 1 fd => 7 days
+- Product: 4 days
+- 1 be => 6 days
+- 1 fe => 4 days
+- 1 fd => 9 days
 
 ---
 
@@ -281,7 +282,7 @@
 **SOLUTION:** Implement dust conversion feature for aggregating and converting small balances automatically by swap features.
 **RESOURCES:** 2 be + 1 fe + 1 QA
 **DURATION:**
-- Product: 2 days
+- Product: 4 days
 - 1 be => 4 days
 - 1 fe => 4 days
 - 1 fd => 5 days
@@ -295,7 +296,7 @@
 **SOLUTION:** Develop dedicated club service for user engagement and retention. Club service should receive data from all features of the system.
 **RESOURCES:** 2 be + 1 fe + 1 QA
 **DURATION:**
-- Product: 4 weeks
+- Product: 23 days
 - 2 be => 7 days
 
 #### Campaign IRT Deposits
