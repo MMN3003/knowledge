@@ -158,6 +158,9 @@ response is
 
 
 #### order حدضرر
+
+
+
 curl 'https://api.ompfinex.com/v1/market/484/order' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
@@ -179,6 +182,65 @@ curl 'https://api.ompfinex.com/v1/market/484/order' \
   -H 'x-version: 307' \
   --data-raw '{"type":"sell","execution":"LIMIT","amount":"0.00626","price":"235711280","stop_price":"220000000"}'
 
+order limitation response is 429 status code
+
+{
+    "status": "ERROR",
+    "message": "\u0634\u0645\u0627 \u0628\u0647 \u062a\u0627\u0632\u06af\u06cc \u0633\u0641\u0627\u0631\u0634 \u062b\u0628\u062a \u06a9\u0631\u062f\u0647 \u0627\u06cc\u062f. \u0644\u0637\u0641\u0627 \u0628\u0639\u062f\u0627 \u0627\u0645\u062a\u062d\u0627\u0646 \u06a9\u0646\u06cc\u062f.",
+    "retryIn": null
+}
+
+#### place order oco
+
+curl 'https://api.ompfinex.com/v1/market/484/order' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834HQo1hvChxxWnsPD580sx0KQAQqyrhhh2CGiDS9sxZZihlUsKRvFmPqmKMtqBMuA9w' \
+  -H 'content-type: application/json' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; __DPhhOBhY5o4X=htmhus9Lo1XwhNip1FaQRgN16hchhuzY; logged_in=true; _clsk=11sknct%5E1780645290385%5E11%5E1%5Eb.clarity.ms%2Fcollect; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780645608$j60$l0$h1498633611' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307' \
+  --data-raw '{"type":"sell","execution":"LIMIT","amount":"0.00626","price":"256289900","stop_price":"226289900","oco_stop_price":"236289900"}'
+
+response is 
+{"status":"OK","data":{"id":5444969582}}
+
+
+#### market order با حد ضرر
+curl 'https://api.ompfinex.com/v1/market/484/order' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834HQo1hvChxxWnsPD580sx0KQAQqyrhhh2CGiDS9sxZZihlUsKRvFmPqmKMtqBMuA9w' \
+  -H 'content-type: application/json' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; __DPhhOBhY5o4X=htmhus9Lo1XwhNip1FaQRgN16hchhuzY; logged_in=true; _clsk=11sknct%5E1780645290385%5E11%5E1%5Eb.clarity.ms%2Fcollect; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780645699$j60$l0$h1498633611' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307' \
+  --data-raw '{"type":"sell","execution":"MARKET","amount":"0.00626","stop_price":"235900000"}'
+
+response is
+{"status":"OK","data":{"id":5444972678}}
 #### deposits list
 
 curl 'https://api.ompfinex.com/v1/user/deposit' \
