@@ -91,6 +91,33 @@ response is
 {"status":"TWO_STEP_REQUIRED","data":{"twoStepActive":true}}
 
 
+#### order market
+
+curl 'https://api.ompfinex.com/v1/market/5/order' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834HQo1hvChxxWnsPD580sx0KQAQqyrhhh2CGiDS9sxZZihlUsKRvFmPqmKMtqBMuA9w' \
+  -H 'content-type: application/json' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; __DPhhOBhY5o4X=htmhus9Lo1XwhNip1FaQRgN16hchhuzY; logged_in=true; _clsk=11sknct%5E1780645022258%5E5%5E1%5Eb.clarity.ms%2Fcollect; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780645058$j14$l0$h1498633611' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307' \
+  --data-raw '{"type":"sell","execution":"MARKET","amount":"10"}'
+  
+  response is 
+  
+  {"status":"OK","data":{"id":5444952086}}
+  
 #### sign in with authenticator two factor
 curl 'https://api.ompfinex.com/v2/user/sign-in' \
   -H 'accept: application/json, text/plain, */*' \
@@ -130,6 +157,27 @@ response is
 }
 
 
+#### order حدضرر
+curl 'https://api.ompfinex.com/v1/market/484/order' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834HQo1hvChxxWnsPD580sx0KQAQqyrhhh2CGiDS9sxZZihlUsKRvFmPqmKMtqBMuA9w' \
+  -H 'content-type: application/json' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; __DPhhOBhY5o4X=htmhus9Lo1XwhNip1FaQRgN16hchhuzY; logged_in=true; _clsk=11sknct%5E1780645290385%5E11%5E1%5Eb.clarity.ms%2Fcollect; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780645392$j60$l0$h1498633611' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307' \
+  --data-raw '{"type":"sell","execution":"LIMIT","amount":"0.00626","price":"235711280","stop_price":"220000000"}'
 
 #### deposits list
 
@@ -298,7 +346,198 @@ curl 'https://api.ompfinex.com/v1/user/deposit' \
     ]
 }
 
+#### active sessions
 
+curl 'https://api.ompfinex.com/v2/user/sessions?active=1&page=1&limit=10' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834HQo1hvChxxWnsPD580sx0KQAQqyrhhh2CGiDS9sxZZihlUsKRvFmPqmKMtqBMuA9w' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; _clsk=11sknct%5E1780644568388%5E2%5E1%5Eb.clarity.ms%2Fcollect; __DPhhOBhY5o4X=htmhus9Lo1XwhNip1FaQRgN16hchhuzY; logged_in=true; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780644761$j60$l1$h1498633611' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307'
+  
+  response is 
+  
+  {
+    "status": "OK",
+    "data": [
+        {
+            "id": "alVVVxnP",
+            "ip": "94.24.100.160",
+            "platform": "Apple",
+            "device_platform": "web",
+            "location": {
+                "country": null,
+                "city": null
+            },
+            "created_at": "2026-06-05 07:32:41",
+            "deleted_at": null,
+            "os_name": "Mac",
+            "os_version": "10.15",
+            "device_name": null,
+            "device_brand": "Apple"
+        },
+        {
+            "id": "kax6R6jP",
+            "ip": "52.47.155.170",
+            "platform": "Apple",
+            "device_platform": "web",
+            "location": {
+                "country": "France",
+                "city": "Paris"
+            },
+            "created_at": "2024-08-26 10:21:41",
+            "deleted_at": null,
+            "os_name": "Mac",
+            "os_version": "10.15",
+            "device_name": null,
+            "device_brand": "Apple"
+        },
+        {
+            "id": "72DVlpJA",
+            "ip": "151.247.222.188",
+            "platform": "Android",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2024-08-25 19:51:08",
+            "deleted_at": null,
+            "os_name": "Android",
+            "os_version": "10",
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "RPmoxB0a",
+            "ip": "178.131.162.27",
+            "platform": "Windows",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2024-08-25 12:18:09",
+            "deleted_at": null,
+            "os_name": "Windows",
+            "os_version": "10",
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "0aqB14l2",
+            "ip": "5.134.157.178",
+            "platform": "Linux",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2023-11-05 17:17:31",
+            "deleted_at": null,
+            "os_name": "GNU\/Linux",
+            "os_version": "",
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "q297XNpA",
+            "ip": "95.162.239.80",
+            "platform": "Android",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2023-04-15 17:07:39",
+            "deleted_at": null,
+            "os_name": null,
+            "os_version": null,
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "zAEvDM0a",
+            "ip": "95.162.239.80",
+            "platform": "Android",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2023-04-15 17:07:18",
+            "deleted_at": null,
+            "os_name": null,
+            "os_version": null,
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "QP8ZjyQa",
+            "ip": "5.134.129.94",
+            "platform": "Android",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2023-02-28 16:48:16",
+            "deleted_at": null,
+            "os_name": null,
+            "os_version": null,
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "eak9YdpP",
+            "ip": "5.134.129.94",
+            "platform": "Android",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2023-02-28 16:47:56",
+            "deleted_at": null,
+            "os_name": null,
+            "os_version": null,
+            "device_name": null,
+            "device_brand": null
+        },
+        {
+            "id": "kaxJNYmP",
+            "ip": "109.125.138.5",
+            "platform": "Linux",
+            "device_platform": "web",
+            "location": {
+                "country": "Iran",
+                "city": "Tehran"
+            },
+            "created_at": "2023-02-28 10:25:10",
+            "deleted_at": null,
+            "os_name": null,
+            "os_version": null,
+            "device_name": null,
+            "device_brand": null
+        }
+    ],
+    "total_records": 45,
+    "per_page": 10,
+    "page": 1,
+    "total_pages": 5
+}
 #### logout
 curl 'https://api.ompfinex.com/v1/user/logout' \
   -X 'DELETE' \
