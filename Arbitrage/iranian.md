@@ -530,6 +530,57 @@ curl 'https://api.ompfinex.com/v1/user' \
         }
     }
 }
+
+
+#### cancel order
+curl 'https://api.ompfinex.com/v1/user/order?id=5164505139' \
+  -X 'DELETE' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834Hico0Z0frlwvc3erWX7hhYfOYhhfkh0SuIwlThtQhhhSFxMONhBsCPhFhhSCPh2yY' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; logged_in=true; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780642922$j53$l1$h1498633611; _clsk=sa8sme%5E1780642924118%5E2%5E1%5Ej.clarity.ms%2Fcollect' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307'
+
+response is
+{"status":"OK"}
+
+#### place order limit
+
+curl 'https://api.ompfinex.com/v1/market/5/order' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,fa-IR;q=0.8,fa;q=0.7,en-US;q=0.6' \
+  -H 'authorization: Bearer 15834Hico0Z0frlwvc3erWX7hhYfOYhhfkh0SuIwlThtQhhhSFxMONhBsCPhFhhSCPh2yY' \
+  -H 'content-type: application/json' \
+  -b 'ph_phc_IJrsaXElFg2TCfyABEB8Cd3tLMID3gRxxU6KiCF3AI1_posthog=%7B%22%24device_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%2C%22distinct_id%22%3A%22019c8547-7155-7cda-87ea-bc86c961f29d%22%7D; _ga=GA1.1.25267746.1771762579; logged_in=true; _clck=1e7died%5E2%5Eg6n%5E0%5E2342; __a7y5PN=Er8; __OwpPqK=xYs; _clsk=sa8sme%5E1780643782745%5E5%5E1%5Ej.clarity.ms%2Fcollect; _ga_78DFS8FNZ6=GS2.1.s1780642915$o7$g1$t1780643810$j60$l0$h1498633611' \
+  -H 'ngsw-bypass: 1' \
+  -H 'origin: https://my.ompfinex.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://my.ompfinex.com/' \
+  -H 'sec-ch-ua: "Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36' \
+  -H 'x-platform: web' \
+  -H 'x-version: 307' \
+  --data-raw '{"type":"sell","execution":"LIMIT","amount":"751.79","price":"330000"}'
+
+response is 
+{"status":"OK","data":{"id":5444909882}}
 #### depth
 curl 'https://api.ompfinex.com/v1/market/9/depth?limit=200' \
   -H 'accept: application/json, text/plain, */*' \
