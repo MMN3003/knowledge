@@ -19,3 +19,15 @@ curl --location --request POST 'http://localhost:9009/bpapi/v1/mng/markets/cance
 
 
 "e10dd2d0-1d54-11ed-a350-d45d64bd0ed5"
+"9c2b04bc-1f3a-4a5e-84c6-9a3e6b7e2e22"
+
+curl --location --request POST 'http://localhost:9009/bpapi/v1/mng/markets/cancel-all-orders' \
+--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicm9rZXJfaWQiOiIzIiwiZXhwIjoxODMxMTA4OTkzfQ.4JxFKCZdQado_VrAI-mzsHuWlrBRIkj_ytaNMmlfg7A' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+"users": [
+"9c2b04bc-1f3a-4a5e-84c6-9a3e6b7e2e22"
+],
+"market_name": "TON_IRT",
+"broker_id": "2"
+}'
