@@ -6,3 +6,7 @@ curl --location --request GET 'localhost:9009/bpapi/v1/mng/markets/reload' --hea
 bearer Token should be taken from `internal wallet` env file.
 
 
+
+curl --location --request GET 'localhost:9009/bpapi/v1/mng/markets/list'  --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicm9rZXJfaWQiOiIzIiwiZXhwIjoxODYxODcyODI5fQ.GXBWPHOr30DKT68Dumcb83XHgxtJUIqR3oO5qCv7ymE'
+
+curl --location --request GET 'localhost:9009/bpapi/v1/mng/markets/list'  --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicm9rZXJfaWQiOiIzIiwiZXhwIjoxODMxMTA4OTkzfQ.4JxFKCZdQado_VrAI-mzsHuWlrBRIkj_ytaNMmlfg7A'
